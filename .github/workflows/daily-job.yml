@@ -1,5 +1,8 @@
 name: Daily XLSX Generator
 
+permissions:
+  contents: write
+
 on:
   schedule:
     - cron: "0 3 * * *"   # runs daily at 3 AM UTC (8:30 AM IST)
