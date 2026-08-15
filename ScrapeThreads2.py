@@ -61,7 +61,7 @@ with open("stock_news.csv", "w", newline="", encoding="utf-8") as f:
 
     # Process in batches
     for batch_num, batch in enumerate(chunks(gstk_ids, batch_size), start=1):
-        print(f"\n🚀 Processing batch {batch_num} with {len(batch)} IDs...")
+        #print(f"\n🚀 Processing batch {batch_num} with {len(batch)} IDs...")
         with ThreadPoolExecutor(max_workers=max_workers) as executor:
             futures = [executor.submit(fetch_news, stock_id) for stock_id in batch]
 
