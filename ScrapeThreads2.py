@@ -49,7 +49,7 @@ def chunks(lst, n):
 # --- Main execution ---
 batch_size = 150   # how many IDs per batch
 max_workers = 20  # threads per batch
-pause_between_batches = 3  # seconds
+pause_between_batches = 5  # seconds
 
 # 100 - 20 - 5 ==> 1088 seconds  taken 
 # 200 - 20 - 5 ==> 743 seconds ; 593 failr
