@@ -5,7 +5,7 @@ permissions:
 
 on:
   schedule:
-    - cron: "0 3 * * *"   # runs daily at 3 AM UTC (8:30 AM IST)
+    - cron: "*/30 * * * *" # "0 3 * * *"   # runs daily at 3 AM UTC (8:30 AM IST)
   workflow_dispatch:        # allows manual trigger
 
 jobs:
