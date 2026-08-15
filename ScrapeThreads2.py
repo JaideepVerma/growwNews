@@ -87,7 +87,7 @@ news_df = pd.read_csv('stock_news.csv')
 mapping_df= pd.read_csv('stocks.csv')[['StockID','Company','NSE Code']]
 
 final_df = pd.merge(mapping_df,news_df,how='left')
-final_df.to_csv("stock_news_with_names.csv", index=False)
+final_df.to_csv("docs/stock_news_with_names.csv", index=False)
 end_time = time.time()
 
 
