@@ -24,7 +24,7 @@ def fetch_news(stock_id, page=0, size=10):
         if resp.status_code == 200:
             return stock_id, resp.json().get("results", [])
         else:
-            print(f"Failed for {stock_id}: {resp.status_code}")
+            #print(f"Failed for {stock_id}: {resp.status_code}")
             failed_responses.append(stock_id)
             return stock_id, []
     except requests.exceptions.SSLError as e:
