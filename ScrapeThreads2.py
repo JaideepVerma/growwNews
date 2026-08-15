@@ -50,7 +50,7 @@ def chunks(lst, n):
 batch_size = 50   # how many IDs per batch
 max_workers = 20  # threads per batch
 pause_between_batches = 5  # seconds
-
+print('Fetching Initiated ! ' )
 # 100 - 20 - 5 ==> 1088 seconds  taken 
 # 200 - 20 - 5 ==> 743 seconds ; 593 failr
 # 150 - 20 - 5 ==> 847 sec ; 0 failure
