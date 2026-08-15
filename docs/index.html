@@ -6,13 +6,13 @@
 <body>
   <h1>Stock News Records</h1>
   <p>
-    <a href="stock_news.csv" download>Download CSV File</a>
+    <a href="stock_news_with_names.csv" download>Download CSV File</a>
     <span id="last-modified"></span>
   </p>
 
   <script>
     // Fetch the CSV file headers only
-    fetch('stock_news.csv', { method: 'HEAD' })
+    fetch('stock_news_with_names.csv', { method: 'HEAD' })
       .then(response => {
         const lastModified = response.headers.get('Last-Modified');
         if (lastModified) {
