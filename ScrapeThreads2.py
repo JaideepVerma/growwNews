@@ -47,7 +47,7 @@ def chunks(lst, n):
         yield lst[i:i + n]
 
 # --- Main execution ---
-batch_size = 150   # how many IDs per batch
+batch_size = 100   # how many IDs per batch
 max_workers = 20  # threads per batch
 pause_between_batches = 5  # seconds
 
