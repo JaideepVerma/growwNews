@@ -1,3 +1,33 @@
+
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Stock News Records</title>
+</head>
+<body>
+  <h1>Stock News Records</h1>
+  <p>
+    <a href="stock_news_with_names.csv" download>Download CSV File</a>
+    <span id="last-modified"></span>
+  </p>
+
+  <script>
+    // Fetch the CSV file headers only
+    fetch('stock_news_with_names.csv', { method: 'HEAD' })
+      .then(response => {
+        const lastModified = response.headers.get('Last-Modified');
+        if (lastModified) {
+          document.getElementById('last-modified').textContent =
+            " (Last refreshed: " + new Date(lastModified).toLocaleString() + ")";
+        }
+      })
+      .catch(err => console.error("Error fetching file headers:", err));
+  </script>
+</body>
+</html>
+
+<!--
 <!DOCTYPE html>
 <html>
 <head>
@@ -73,32 +103,4 @@
 </body>
 </html>
 
-
-<!-- 
-<!DOCTYPE html>
-<html>
-<head>
-  <title>Stock News Records</title>
-</head>
-<body>
-  <h1>Stock News Records</h1>
-  <p>
-    <a href="stock_news_with_names.csv" download>Download CSV File</a>
-    <span id="last-modified"></span>
-  </p>
-
-  <script>
-    // Fetch the CSV file headers only
-    fetch('stock_news_with_names.csv', { method: 'HEAD' })
-      .then(response => {
-        const lastModified = response.headers.get('Last-Modified');
-        if (lastModified) {
-          document.getElementById('last-modified').textContent =
-            " (Last refreshed: " + new Date(lastModified).toLocaleString() + ")";
-        }
-      })
-      .catch(err => console.error("Error fetching file headers:", err));
-  </script>
-</body>
-</html>
 -->
