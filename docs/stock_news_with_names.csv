@@ -1,4 +1,7 @@
 StockID,Company,NSE Code,NewsID,Title,Summary,Source,PubDate,URL
+GSTK500325,Reliance Industries,RELIANCE,919609.0,"Reliance Industries announced the dissolution of step-down subsidiary Roptonal Ltd effective August 18, 2026.
+The dissolution was confirmed by the Department of Insolvency, Cyprus, on September 4, 2026.","Reliance Industries announced the dissolution of step-down subsidiary Roptonal Ltd effective August 18, 2026.
+The dissolution was confirmed by the Department of Insolvency, Cyprus, on September 4, 2026.",BSE,2026-09-05T17:27:29,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=e623abfa-4c3c-40fc-ad53-a506e4eb3f53.pdf
 GSTK500325,Reliance Industries,RELIANCE,915759.0,"RIL shares surged 2%, driven by strong O2C growth and Nuvama's 'Buy' rating with a ₹1,766 target.
 RIL's Q2 EBITDA projected to rise 12% YoY, led by O2C, Digital, and New Energy business growth.","RIL shares surged 2%, driven by strong O2C growth and Nuvama's 'Buy' rating with a ₹1,766 target.
 RIL's Q2 EBITDA projected to rise 12% YoY, led by O2C, Digital, and New Energy business growth.",Business Standard,2026-09-04T14:35:23,https://www.business-standard.com/markets/news/ril-shares-rise-2-as-strong-o2c-growth-lifts-q2-earnings-outlook-126090400622_1.html
@@ -26,9 +29,6 @@ The outflow, worth Rs 52.49B, is linked to MSCI funds post 3pm update.",Livesqua
 GSTK500325,Reliance Industries,RELIANCE,901323.0,"MSCI's quarterly rebalance tests India's new closing auction as $4B passive fund trades hit CAS, raising liquidity concerns.
 Stocks like Reliance, Lenskart added; Balkrishna, SBI Cards removed. Some passive fund trades may shift to regular sessions.","MSCI's quarterly rebalance tests India's new closing auction as $4B passive fund trades hit CAS, raising liquidity concerns.
 Stocks like Reliance, Lenskart added; Balkrishna, SBI Cards removed. Some passive fund trades may shift to regular sessions.",The Hindu Business Line,2026-08-31T08:01:51,https://www.thehindubusinessline.com/markets/msci-rebalance-to-test-indias-new-closing-auction-as-4-billion-in-flows-hit-cas/article71409547.ece
-GSTK500325,Reliance Industries,RELIANCE,901009.0,"7 of top-10 firms lost ₹1.13 lakh cr in market cap; Airtel, Reliance hit hardest.
-IT stocks gained amid global tech cues; TCS, ICICI Bank, SBI saw valuation increases.","7 of top-10 firms lost ₹1.13 lakh cr in market cap; Airtel, Reliance hit hardest.
-IT stocks gained amid global tech cues; TCS, ICICI Bank, SBI saw valuation increases.",The Hindu Business Line,2026-08-30T11:06:37,https://www.thehindubusinessline.com/markets/market-cap-7-of-top-10-most-valued-firms-lose-113-lakh-cr-airtel-reliance-hit-hardest/article71407066.ece
 GSTK532454,Bharti Airtel,BHARTIARTL,917694.0,Bharti Airtel schedules analyst and investor meeting on Sept 10.,Bharti Airtel schedules analyst and investor meeting on Sept 10.,Livesquawk,2026-09-04T20:17:06,
 GSTK532454,Bharti Airtel,BHARTIARTL,917166.0,"Bharti Airtel will join UBS India Summit on Sep 10, 2026.
 Event involves group and one-on-one investor meetings in Mumbai.","Bharti Airtel will join UBS India Summit on Sep 10, 2026.
@@ -1949,6 +1949,9 @@ GSTK543187,Hitachi Energy India,POWERINDIA,852517.0,"Hitachi Energy reports a st
 The backlog is expected to translate into robust future revenues.","Hitachi Energy reports a strong order backlog, per CNBC TV18.
 The backlog is expected to translate into robust future revenues.",Livesquawk,2026-08-10T09:39:01,
 GSTK543187,Hitachi Energy India,POWERINDIA,852516.0,"Hitachi Energy aims to improve margins in double digits, per CNBC TV18.","Hitachi Energy aims to improve margins in double digits, per CNBC TV18.",Livesquawk,2026-08-10T09:36:23,
+GSTK500103,Bharat Heavy Electricals,BHEL,919648.0,"BHEL informs analysts/investors' factory visit at Haridwar on 9th Sep 2026.
+The visit will involve discussions based on publicly available documents.","BHEL informs analysts/investors' factory visit at Haridwar on 9th Sep 2026.
+The visit will involve discussions based on publicly available documents.",BSE,2026-09-05T17:37:40,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=da08cd3c-5566-49b9-b854-067b3f5d72da.pdf
 GSTK500103,Bharat Heavy Electricals,BHEL,26090120987394.0,"BHEL's dividend payout to the government for FY26 rises over 2.5 times to Rs 283.6 crore.
 Union Minister H D Kumaraswamy confirmed the increase in BHEL's dividend payout on Tuesday.","BHEL's dividend payout to the government for FY26 rises over 2.5 times to Rs 283.6 crore.
 Union Minister H D Kumaraswamy confirmed the increase in BHEL's dividend payout on Tuesday.",News18,2026-09-01T15:45:00,https://www.news18.com/agency-feeds/bhel-dividend-payout-to-centre-rises-over-2-5-times-to-rs-283-56-crore-for-fy26-10304227.html
@@ -1974,9 +1977,6 @@ The agreement supports expanding clean hydrogen capacity, aligning with global s
 GSTK500103,Bharat Heavy Electricals,BHEL,2608138252698.0,"BHEL partners with Norway's Hystar AS to manufacture PEM Electrolyser Systems in India.
 Earlier this year, BHEL tied up with thyssenkrupp nucera India for similar ventures.","BHEL partners with Norway's Hystar AS to manufacture PEM Electrolyser Systems in India.
 Earlier this year, BHEL tied up with thyssenkrupp nucera India for similar ventures.",The Economic Times,2026-08-13T12:00:00,https://economictimes.indiatimes.com/industry/indl-goods/svs/engineering/bhel-enters-into-strategic-tie-up-with-hystar-as-to-manufacture-pem-electrolyser-systems/articleshow/133210565.cms
-GSTK500103,Bharat Heavy Electricals,BHEL,2608127248040.0,"India Ratings upgraded BHEL's LT bank loan facilities to IND AA Stable.
-Short-term bank facilities and commercial paper rating reaffirmed at IND A1.","India Ratings upgraded BHEL's LT bank loan facilities to IND AA Stable.
-Short-term bank facilities and commercial paper rating reaffirmed at IND A1.",Capital Market,2026-08-12T12:00:00,https://www.capitalmarket.com/markets/news/corporate-news/bhel-receives-upgrade-in-credit-ratings-for-lt-bank-facilities/1721829
 GSTK532822,Vodafone Idea,IDEA,910015.0,"Vodafone Idea gained 4.7% on brand refresh with SRK as campaign face.
 Vi's AGR dues reduced by 27% to Rs 64,046 crore; govt holds 49% stake.","Vodafone Idea gained 4.7% on brand refresh with SRK as campaign face.
 Vi's AGR dues reduced by 27% to Rs 64,046 crore; govt holds 49% stake.",News 18,2026-09-02T15:02:30,https://www.news18.com/business/markets/vodafone-idea-share-price-vi-jumps-4-7-despite-market-selloff-shah-rukh-khan-becomes-brand-face-10306020.html
@@ -2347,6 +2347,9 @@ USD 300 Mn bonds with 5-year maturity at 5.318% coupon to be listed on SGX, INX,
 GSTK532134,Bank of Baroda,BANKBARODA,865493.0,"Bank of Baroda participated in Emkay Confluence 2026, sharing no sensitive info.
 Event details communicated to BSE and NSE under SEBI regulations.","Bank of Baroda participated in Emkay Confluence 2026, sharing no sensitive info.
 Event details communicated to BSE and NSE under SEBI regulations.",BSE,2026-08-12T19:28:52,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=99d59bca-6f4b-428b-83c4-3d68d0055541.pdf
+GSTK533398,Muthoot Finance,MUTHOOTFIN,919586.0,"Muthoot Finance announces record date of Sept 16, 2026 for interest payment on NCDs.
+Interest payments are due on Oct 1, 2026, for multiple ISINs under Scrip Code 533398.","Muthoot Finance announces record date of Sept 16, 2026 for interest payment on NCDs.
+Interest payments are due on Oct 1, 2026, for multiple ISINs under Scrip Code 533398.",BSE,2026-09-05T17:21:52,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=877e25a7-4dd7-4421-8bf3-c1c2e27a5f3e.pdf
 GSTK533398,Muthoot Finance,MUTHOOTFIN,8.829531150668015e+17,"Muthoot Finance AGM reappoints Joseph Korah as Independent Director for 3 years.
 Whole-time directors reappointed for 5 years; new MD, Vice Chairman roles added.","Muthoot Finance AGM reappoints Joseph Korah as Independent Director for 3 years.
 Whole-time directors reappointed for 5 years; new MD, Vice Chairman roles added.",ScoutQuest,2026-09-02T17:10:27,https://sqst.in/cgwvC
@@ -2374,9 +2377,6 @@ YTD underperformance seen as a compelling entry point, with profitability expect
 GSTK533398,Muthoot Finance,MUTHOOTFIN,885017.0,"Jefferies upgraded ITC, Dr. Agarwal's, Gland Pharma, and SRF citing growth prospects; ITC's target set at ₹350, up 31%.
 Downgrades include Syrma SGS, Muthoot Finance, GAIL due to valuation concerns; Syrma up 106% YTD despite downgrade.","Jefferies upgraded ITC, Dr. Agarwal's, Gland Pharma, and SRF citing growth prospects; ITC's target set at ₹350, up 31%.
 Downgrades include Syrma SGS, Muthoot Finance, GAIL due to valuation concerns; Syrma up 106% YTD despite downgrade.",CNBC TV 18,2026-08-20T12:57:48,https://www.cnbctv18.com/photos/market/jefferies-upgrades-downgrades-itc-gland-pharma-srf-muthoot-finance-dr-agarwal-share-price-19973378.htm
-GSTK533398,Muthoot Finance,MUTHOOTFIN,885001.0,"Muthoot Finance rose 4.83%, Manappuram Finance gained 3.29% as gold prices hit Rs 1.58 lakh, boosting lender sentiment.
-Rising gold prices enhance collateral value, reduce defaults, and drive loan growth for gold-financing firms like Muthoot and Manappuram.","Muthoot Finance rose 4.83%, Manappuram Finance gained 3.29% as gold prices hit Rs 1.58 lakh, boosting lender sentiment.
-Rising gold prices enhance collateral value, reduce defaults, and drive loan growth for gold-financing firms like Muthoot and Manappuram.",NDTV Profit,2026-08-20T12:02:30,https://www.ndtvprofit.com/markets/muthoot-finance-stock-zooms-5-percent-manappuram-finance-gains-as-gold-prices-hit-rs-1-58-lakh-11934445#publisher=newsstand
 GSTK500570,Tata Motors Passenger Vehicles,TMPV,904648.0,"Tata Motors PV's August EV sales rose 94% YoY to 16,549 units.
 Domestic EV volumes grew from 8,540 units last year to 16,549 units.","Tata Motors PV's August EV sales rose 94% YoY to 16,549 units.
 Domestic EV volumes grew from 8,540 units last year to 16,549 units.",Livesquawk,2026-09-01T13:15:38,
@@ -2813,6 +2813,9 @@ Company to appeal; Rs 56.9 lakh pre-deposit refundable if successful.",ScoutQues
 GSTK532286,Jindal Steel,JINDALSTEL,8.694951264632933e+17,"ICRA upgraded Jindal Steel Ltd’s long-term ratings to AA (Stable).
 Short-term rating reaffirmed at A1 due to improved financial confidence.","ICRA upgraded Jindal Steel Ltd’s long-term ratings to AA (Stable).
 Short-term rating reaffirmed at A1 due to improved financial confidence.",ScoutQuest,2026-07-27T13:53:12,https://sqst.in/shareMessage?msgId=869495126463293263
+GSTK532321,Zydus Lifesciences,ZYDUSLIFE,8.84041523031668e+17,"Zydus Lifesciences' subsidiary settled US generic drug pricing litigation for $5.9M.
+The settlement resolves claims by Indirect Reseller Plaintiffs without admission of fault.","Zydus Lifesciences' subsidiary settled US generic drug pricing litigation for $5.9M.
+The settlement resolves claims by Indirect Reseller Plaintiffs without admission of fault.",ScoutQuest,2026-09-05T17:15:23,https://sqst.in/CkHsR
 GSTK532321,Zydus Lifesciences,ZYDUSLIFE,904219.0,"Zydus Lifesciences conducted its 31st AGM virtually on Aug 11, 2026, chaired by Pankaj Patel, with key business updates and resolutions discussed.
 Key highlights included 17% revenue growth in FY26, a Rs. 1,100 crore buyback plan, strong R&D investment, and sustainable energy achievements.","Zydus Lifesciences conducted its 31st AGM virtually on Aug 11, 2026, chaired by Pankaj Patel, with key business updates and resolutions discussed.
 Key highlights included 17% revenue growth in FY26, a Rs. 1,100 crore buyback plan, strong R&D investment, and sustainable energy achievements.",BSE,2026-09-01T11:04:16,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=1ed8593f-29d5-49f9-b241-263e2c48c88f.pdf
@@ -2838,9 +2841,6 @@ Subsidiary's authorized and paid-up capital is Rs. 5 Cr; operations yet to comme
 GSTK532321,Zydus Lifesciences,ZYDUSLIFE,893976.0,"Zydus Lifesciences forms Zydus Global Treasury Centre IFSC Ltd in Gift City.
 The subsidiary is based in Gandhinagar, indicating expansion efforts by Zydus.","Zydus Lifesciences forms Zydus Global Treasury Centre IFSC Ltd in Gift City.
 The subsidiary is based in Gandhinagar, indicating expansion efforts by Zydus.",Livesquawk,2026-08-26T11:13:55,
-GSTK532321,Zydus Lifesciences,ZYDUSLIFE,8.797296387628274e+17,"Zydus Lifesciences transferred 32,577 shares within promoter group.
-Shares moved from Late Jasodaben Patel to Prashant Patel under SEBI norms.","Zydus Lifesciences transferred 32,577 shares within promoter group.
-Shares moved from Late Jasodaben Patel to Prashant Patel under SEBI norms.",ScoutQuest,2026-08-24T19:41:30,https://sqst.in/x8AoL
 GSTK541729,HDFC Asset Management Company,HDFCAMC,884898.0,"HDFC AMC sees NSE block trade of Rs. 22.38 crore for ~86,018 shares at Rs. 2,601.50.","HDFC AMC sees NSE block trade of Rs. 22.38 crore for ~86,018 shares at Rs. 2,601.50.",Livesquawk,2026-08-20T12:37:45,
 GSTK541729,HDFC Asset Management Company,HDFCAMC,26072552616910.0,"HDFC MF suggests India's BoP may turn surplus due to RBI, govt measures.
 RBI and govt's June actions could ease pressure on the rupee: HDFC MF.","HDFC MF suggests India's BoP may turn surplus due to RBI, govt measures.
@@ -6583,6 +6583,9 @@ Growth driven by CDMO and B2B businesses, product launches, and improved capacit
 GSTK543245,Gland Pharma,GLAND,875797.0,"Indian equities fell 0.8% this week, impacted by Tata Sons' leadership uncertainty and metal sector slump.
 Finolex Cables gained 21.7%, Gland Pharma rose 14.9%, while ABFRL and Power Finance Corp. declined over 10%.","Indian equities fell 0.8% this week, impacted by Tata Sons' leadership uncertainty and metal sector slump.
 Finolex Cables gained 21.7%, Gland Pharma rose 14.9%, while ABFRL and Power Finance Corp. declined over 10%.",Livemint,2026-08-14T18:54:50,https://www.livemint.com/market/stock-market-news/pulse-of-the-street-tata-jitters-metal-rout-weigh-on-indian-equities-11786708624550.html
+GSTK513683,NLC India,NLCINDIA,8.840726951031894e+17,"NLC India approves $100M external borrowing; record date for final dividend is Sept 22, 2026.
+70th AGM scheduled for Sept 29, 2026 via video conferencing; share registers closed Sept 23-29, 2026.","NLC India approves $100M external borrowing; record date for final dividend is Sept 22, 2026.
+70th AGM scheduled for Sept 29, 2026 via video conferencing; share registers closed Sept 23-29, 2026.",ScoutQuest,2026-09-05T19:19:15,https://sqst.in/0FPwc
 GSTK513683,NLC India,NLCINDIA,8.837563900556379e+17,"NLC India Ltd's subsidiary won a 275 MW battery storage tender in Gujarat.
 The 275 MW/550 MWh project bid was under tariff-based competitive bidding.","NLC India Ltd's subsidiary won a 275 MW battery storage tender in Gujarat.
 The 275 MW/550 MWh project bid was under tariff-based competitive bidding.",ScoutQuest,2026-09-04T22:22:22,https://sqst.in/hZlK0
@@ -6610,9 +6613,6 @@ JV with 74%-26% equity; 25-yr PPA; 24 months target; 180 MU annual.",ScoutQuest,
 GSTK513683,NLC India,NLCINDIA,897996.0,"NLC India schedules meeting with analysts, investors for Sep 1.
 Management aims to update stakeholders on business, performance.","NLC India schedules meeting with analysts, investors for Sep 1.
 Management aims to update stakeholders on business, performance.",Livesquawk,2026-08-27T21:12:51,
-GSTK513683,NLC India,NLCINDIA,897954.0,"NLC India Ltd informs about institutional investor meetings on Sep 1, 2026 in Mumbai.
-Meetings will share no UPSI, discussing only publicly available information.","NLC India Ltd informs about institutional investor meetings on Sep 1, 2026 in Mumbai.
-Meetings will share no UPSI, discussing only publicly available information.",BSE,2026-08-27T20:39:00,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=71f860a7-0129-45a7-867c-e464ab35d1c7.pdf
 GSTK524000,Poonawalla Fincorp Limited,POONAWALLA,914434.0,"Promoters reduced stakes in JSW Infra (-9.7%), NHPC (-6%), and Premier Energies (-5.5%) in Q1FY27.
 Other affected stocks include GIC Re (-5%), Poonawalla Fincorp (-4.9%), and Anthem Biosciences (-3.3%).","Promoters reduced stakes in JSW Infra (-9.7%), NHPC (-6%), and Premier Energies (-5.5%) in Q1FY27.
 Other affected stocks include GIC Re (-5%), Poonawalla Fincorp (-4.9%), and Anthem Biosciences (-3.3%).",CNBC TV 18,2026-09-03T21:12:42,https://www.cnbctv18.com/photos/market/stocks/from-jsw-infra-to-nhpc-prominent-mid-cap-stocks-where-promoters-reduced-stakes-in-q1-19983497.htm
@@ -8767,6 +8767,9 @@ GSTK543276,Craftsman Automation,CRAFTSMAN,804184.0,"Craftsman Automation held it
 AGM approved Rs.11.25/share dividend, resolutions for reappointments, and remuneration ratification; e-voting results awaited.","Craftsman Automation held its 40th AGM on July 23, 2026 via VC, discussing company performance and future prospects.
 AGM approved Rs.11.25/share dividend, resolutions for reappointments, and remuneration ratification; e-voting results awaited.",BSE,2026-07-23T18:58:16,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c13bb4cc-800a-42ef-ad0d-27ed6990f11f.pdf
 GSTK543276,Craftsman Automation,CRAFTSMAN,796335.0,Goldman Sachs predicts up to 28% upside for Sansera and Craftsman Automation due to focus on data centres and semiconductors.,Goldman Sachs predicts up to 28% upside for Sansera and Craftsman Automation due to focus on data centres and semiconductors.,Financial Express,2026-07-21T10:43:22,https://t.co/bxvAudv2b0
+GSTK539336,Gujarat Energy,GUJENERGY,8.840777953768567e+17,"Gujarat Energy announces demerger with 70.66% to GEL, 29.34% to GSPL Transmission.
+Effective 1 May 2026, share entitlement ratio set at 1:3 for GTL shares.","Gujarat Energy announces demerger with 70.66% to GEL, 29.34% to GSPL Transmission.
+Effective 1 May 2026, share entitlement ratio set at 1:3 for GTL shares.",ScoutQuest,2026-09-05T19:39:31,https://sqst.in/pHXnu
 GSTK539336,Gujarat Energy,GUJENERGY,8.808233272209315e+17,"Gujarat Energy to distribute proceeds from fractional shares sold post-merger on July 20, 2026.
 62.27 crore equity shares allotted; TDS applicable on distributed amounts by August 7, 2026.","Gujarat Energy to distribute proceeds from fractional shares sold post-merger on July 20, 2026.
 62.27 crore equity shares allotted; TDS applicable on distributed amounts by August 7, 2026.",ScoutQuest,2026-08-27T20:07:26,https://sqst.in/CwFFi
@@ -8794,9 +8797,6 @@ Trustee sold 98,334 fractional shares; INR 26.6M distributed to shareholders.",S
 GSTK539336,Gujarat Energy,GUJENERGY,8.749867055851035e+17,"Gujarat Energy Ltd posts Q1 FY27 revenue of ₹9,670 cr, PAT ₹998 cr.
 Amalgamation-demerger scheme effective May 2026; arbitration issues with JODPL ongoing.","Gujarat Energy Ltd posts Q1 FY27 revenue of ₹9,670 cr, PAT ₹998 cr.
 Amalgamation-demerger scheme effective May 2026; arbitration issues with JODPL ongoing.",ScoutQuest,2026-08-11T17:34:47,https://sqst.in/mWRkM
-GSTK539336,Gujarat Energy,GUJENERGY,26072653024640.0,"SBI Group acquired stakes in eight companies in Q1 FY27, including Adani Enterprises (2.4%), GE Vernova (1.1%), and Nestle India (1%).
-Other investments include Lumax Auto (1.1%), NHPC (2.8%), Gujarat Energy (4.4%), Manappuram Finance (2.4%), and PFC (1.1%).","SBI Group acquired stakes in eight companies in Q1 FY27, including Adani Enterprises (2.4%), GE Vernova (1.1%), and Nestle India (1%).
-Other investments include Lumax Auto (1.1%), NHPC (2.8%), Gujarat Energy (4.4%), Manappuram Finance (2.4%), and PFC (1.1%).",Trade Brains,2026-07-26T11:30:00,https://tradebrains.in/adani-enterprises-ge-vernova-and-6-other-stocks-in-which-sbi-group-bought-fresh-stakes-in-q1-fy27/
 GSTK543945,Netweb Technologies India,NETWEB,912515.0,"Netweb Technologies has allotted 1,645 equity shares at Rs. 2/share to eligible employees under its ESOP 2023.
 Post-allotment, paid-up share capital increased to Rs. 11.88 crore with 5,94,47,551 shares.","Netweb Technologies has allotted 1,645 equity shares at Rs. 2/share to eligible employees under its ESOP 2023.
 Post-allotment, paid-up share capital increased to Rs. 11.88 crore with 5,94,47,551 shares.",BSE,2026-09-03T13:26:56,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=37d0e5b7-424c-4b74-91d1-dd7ab0f51cd3.pdf
@@ -10990,6 +10990,9 @@ Trading window remains closed till 3rd August 2026 as per SEBI regulations.",BSE
 GSTK532181,Gujarat Mineral Development Corporation,GMDCLTD,772022.0,"Experts suggest holding Solar Industries, Balaji Amines, Bharat Dynamics, GMDC due to strong fundamentals and potential growth.
 Bharti Airtel, UNO Minda recommended for accumulation amid technical indicators signaling upward momentum and long-term growth.","Experts suggest holding Solar Industries, Balaji Amines, Bharat Dynamics, GMDC due to strong fundamentals and potential growth.
 Bharti Airtel, UNO Minda recommended for accumulation amid technical indicators signaling upward momentum and long-term growth.",NDTV Profit,2026-07-10T09:14:08,https://www.ndtvprofit.com/markets/buy-sell-or-hold-bharti-airtel-solar-industries-balaji-amines-bharat-dynamics-uno-minda-gmdc-ask-profit-11751921#publisher=newsstand
+GSTK544225,OLA Electric Mobility,OLAELEC,8.84078550376739e+17,"Ola Electric's COO resigned, and two independent directors got 5-year reappointments.
+Board approved ₹1,500 crore fundraise; share capital increased to ₹87,218.7 crore.","Ola Electric's COO resigned, and two independent directors got 5-year reappointments.
+Board approved ₹1,500 crore fundraise; share capital increased to ₹87,218.7 crore.",ScoutQuest,2026-09-05T19:42:31,https://sqst.in/fTbZY
 GSTK544225,OLA Electric Mobility,OLAELEC,915609.0,"Ola Electric opens first dealer-led stores across India to expand EV accessibility.
 Company targets 500+ dealership footprint, transitioning owned stores to experience centres.","Ola Electric opens first dealer-led stores across India to expand EV accessibility.
 Company targets 500+ dealership footprint, transitioning owned stores to experience centres.",BSE,2026-09-04T14:27:33,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=e82e8f05-d09f-427e-8576-8fe0713f4abd.pdf
@@ -11015,9 +11018,6 @@ GSTK544225,OLA Electric Mobility,OLAELEC,861439.0,"Ola Electric secures a 5-year
 Company to achieve 6 GWh capacity by quarter-end, ahead of revised Dec 2026 timeline.","Ola Electric secures a 5-year PLI incentive window until CY2031, unlocking ₹7,240 crore.
 Company to achieve 6 GWh capacity by quarter-end, ahead of revised Dec 2026 timeline.",BSE,2026-08-12T09:11:46,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2d58945a-9ad2-4980-831b-8bf115a3300c.pdf
 GSTK544225,OLA Electric Mobility,OLAELEC,852604.0,Ola Electric shares dropped nearly 4% intraday post weak Q1FY27 results.,Ola Electric shares dropped nearly 4% intraday post weak Q1FY27 results.,ET NOW,2026-08-10T09:33:43,https://x.com/ETNOWlive/status/2086664767603945606
-GSTK544225,OLA Electric Mobility,OLAELEC,8.744756407198637e+17,"Kotak Institutional Equity suggests selling Ola Electric with a target price of ₹20/share.
-Q1 FY27 saw higher EBITDA loss; concerns remain over cash flow despite QIP.","Kotak Institutional Equity suggests selling Ola Electric with a target price of ₹20/share.
-Q1 FY27 saw higher EBITDA loss; concerns remain over cash flow despite QIP.",ScoutQuest,2026-08-10T07:43:59,https://sqst.in/shareMessage?msgId=874475640719863658
 GSTK532548,Century Plyboards (India),CENTURYPLY,8.80321006095737e+17,"Century Plyboards' Q1 growth surges, raising questions about continued momentum in FY27.","Century Plyboards' Q1 growth surges, raising questions about continued momentum in FY27.",ScoutQuest,2026-08-26T10:51:23,https://sqst.in/ii4Fn
 GSTK532548,Century Plyboards (India),CENTURYPLY,890668.0,"Century Plyboards announces its 45th AGM on 16 Sep 2026 via video conference.
 Shareholders can access AGM notice and FY 2025-26 report online; dividend set at Re. 1/share.","Century Plyboards announces its 45th AGM on 16 Sep 2026 via video conference.
@@ -11298,6 +11298,9 @@ GSTK544046,Inox India,INOXINDIA,8.721035929226614e+17,"INOX India posted FY26 re
 Secured key orders from global aerospace, US space firms; focuses on LNG, clean energy.","INOX India posted FY26 revenue of ₹1632 Cr with 18% 3-year CAGR.
 Secured key orders from global aerospace, US space firms; focuses on LNG, clean energy.",ScoutQuest,2026-08-03T18:38:19,https://sqst.in/9eNgn
 GSTK544046,Inox India,INOXINDIA,815732.0,Inox India schedules its Q1 earnings call for August 4.,Inox India schedules its Q1 earnings call for August 4.,Livesquawk,2026-07-28T20:24:02,
+GSTK531768,Poly Medicure,POLYMED,919578.0,"Poly Medicure Ltd held its 31st AGM on Sept 5, 2026, via video conferencing.
+AGM included voting on key resolutions; results to be announced within 2 working days.","Poly Medicure Ltd held its 31st AGM on Sept 5, 2026, via video conferencing.
+AGM included voting on key resolutions; results to be announced within 2 working days.",BSE,2026-09-05T17:20:32,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=469a4c61-b789-4cc5-ac98-38a4ec8fc3ef.pdf
 GSTK531768,Poly Medicure,POLYMED,8.782591786865975e+17,"Poly Medicure cancels one-on-one investor meet set for 20 Aug 2026.
 Meeting with Wasatch Global affected; cancellation due to exigencies.","Poly Medicure cancels one-on-one investor meet set for 20 Aug 2026.
 Meeting with Wasatch Global affected; cancellation due to exigencies.",ScoutQuest,2026-08-20T18:18:25,https://sqst.in/r3QVq
@@ -11325,7 +11328,6 @@ The company emphasized product portfolio expansion and global market outreach in
 GSTK531768,Poly Medicure,POLYMED,8.735009538484577e+17,"Poly Medicure's board approved Q1 FY27 unaudited financials, revealing revenue and profit details.
 1,476 stock options granted, 1,975 shares allotted under ESOP; cost auditor reappointed for FY27.","Poly Medicure's board approved Q1 FY27 unaudited financials, revealing revenue and profit details.
 1,476 stock options granted, 1,975 shares allotted under ESOP; cost auditor reappointed for FY27.",ScoutQuest,2026-08-07T15:10:56,https://sqst.in/ylerF
-GSTK531768,Poly Medicure,POLYMED,847374.0,Poly Medicure announces Q1 earnings; detailed figures not disclosed.,Poly Medicure announces Q1 earnings; detailed figures not disclosed.,ET NOW,2026-08-07T15:08:19,https://x.com/ETNOWlive/status/2085661810104131769
 GSTK532209,Jammu & Kashmir Bank,J&KBANK,900905.0,"Jammu and Kashmir Bank Limited announces its 88th Annual General Meeting (AGM) on September 22, 2026, at SKICC, Srinagar.
 Shareholders can e-vote on resolutions, with a cut-off date of September 15, 2026; AGM documents available on the bank's website.","Jammu and Kashmir Bank Limited announces its 88th Annual General Meeting (AGM) on September 22, 2026, at SKICC, Srinagar.
 Shareholders can e-vote on resolutions, with a cut-off date of September 15, 2026; AGM documents available on the bank's website.",BSE,2026-08-29T21:34:07,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=712842bd-5e84-4d1d-a211-ed1cf4f7398e.pdf
@@ -14092,6 +14094,9 @@ GSTK521064,Trident,TRIDENT,798418.0,"Trident's Q1 profit rose 12.9% YoY to ₹15
 Board approved subsidiary for branding, marketing, and overseas growth; shares closed at ₹25.24.","Trident's Q1 profit rose 12.9% YoY to ₹158 crore with steady revenue growth.
 Board approved subsidiary for branding, marketing, and overseas growth; shares closed at ₹25.24.",CNBC TV 18,2026-07-21T20:43:54,https://www.cnbctv18.com/market/trident-q1-profit-rises-13-board-approves-new-subsidiary-to-boost-brand-growth-19950828.htm
 GSTK521064,Trident,TRIDENT,798397.0,"Trident has announced its Q1 financial results, details shared via ET NOW.","Trident has announced its Q1 financial results, details shared via ET NOW.",ET NOW,2026-07-21T20:02:38,https://x.com/ETNOWlive/status/2079575279937409284
+GSTK543280,Nazara Technologies,NAZARA,919987.0,"Nazara Technologies revises its preferential issue size to ₹7,30,78,03,566 due to exclusion of allottee Hugo Rémy Gaston Blavin.
+Post-issue shareholding now includes 2.38 crore equity shares, with total paid-up capital reaching 41.34 crore shares.","Nazara Technologies revises its preferential issue size to ₹7,30,78,03,566 due to exclusion of allottee Hugo Rémy Gaston Blavin.
+Post-issue shareholding now includes 2.38 crore equity shares, with total paid-up capital reaching 41.34 crore shares.",BSE,2026-09-05T19:11:43,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=4729797e-4e64-4996-b136-dd23a492dcb5.pdf
 GSTK543280,Nazara Technologies,NAZARA,8.833887892179333e+17,"Nazara Technologies acquired 75,972 shares of its subsidiary, a 4.1% stake.
 Acquisition cost ₹1.9 crore, boosting Nazara's holding from 64% to 68.1%.","Nazara Technologies acquired 75,972 shares of its subsidiary, a 4.1% stake.
 Acquisition cost ₹1.9 crore, boosting Nazara's holding from 64% to 68.1%.",ScoutQuest,2026-09-03T22:01:39,https://sqst.in/82jwQ
@@ -14119,9 +14124,6 @@ Paid ₹851.5 Cr as first tranche; total acquisition ₹2990 Cr.",ScoutQuest,202
 GSTK543280,Nazara Technologies,NAZARA,842680.0,"Nazara Technologies plans to raise ₹733.5 crore via preferential share issue at ₹306/share.
 Nazara Technologies aims to strengthen its financial position through this fundraising initiative.","Nazara Technologies plans to raise ₹733.5 crore via preferential share issue at ₹306/share.
 Nazara Technologies aims to strengthen its financial position through this fundraising initiative.",ET NOW,2026-08-06T14:14:30,https://x.com/ETNOWlive/status/2085285878466019783
-GSTK543280,Nazara Technologies,NAZARA,8.731236494607735e+17,"Nazara Technologies to raise ₹734 crore by issuing shares at ₹306 each.
-Shares allocated to new CEO Raymond Albaladejo and five other investors.","Nazara Technologies to raise ₹734 crore by issuing shares at ₹306 each.
-Shares allocated to new CEO Raymond Albaladejo and five other investors.",ScoutQuest,2026-08-06T14:11:39,https://sqst.in/shareMessage?msgId=873123649460773459
 GSTK532627,Jaiprakash Power Ventures,JPPOWER,8.825291925630212e+17,"CRISIL reaffirmed Jaiprakash Power Ventures' long-term bank rating as 'BBB/Watch Negative'.
 The rating status remains unchanged as of August 31, 2026.","CRISIL reaffirmed Jaiprakash Power Ventures' long-term bank rating as 'BBB/Watch Negative'.
 The rating status remains unchanged as of August 31, 2026.",ScoutQuest,2026-09-01T13:05:56,https://sqst.in/shareMessage?msgId=882529192563021169
@@ -15825,6 +15827,9 @@ Matter pertains to Singampatti Tea Estate rental dispute.",Livesquawk,2026-07-21
 GSTK501425,Bombay Burmah Trading Corporation,BBTC,790729.0,"Bombay Burmah Trading Corporation announces its 161st AGM on August 13, 2026, via video conferencing.
 Annual report FY 2025-26 and AGM notice sent electronically; details available on www.bbtcl.com.","Bombay Burmah Trading Corporation announces its 161st AGM on August 13, 2026, via video conferencing.
 Annual report FY 2025-26 and AGM notice sent electronically; details available on www.bbtcl.com.",BSE,2026-07-17T19:24:34,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8953f913-6dc9-4ea0-8839-5d6b914ff4a6.pdf
+GSTK544022,ASK Automotive,ASKAUTOLTD,919665.0,"ASK GTD Control Cable Pvt Ltd, JV of ASK Automotive, begins commercial production.
+The facility is located in Karoli, Rajasthan, and operations started on September 5, 2026.","ASK GTD Control Cable Pvt Ltd, JV of ASK Automotive, begins commercial production.
+The facility is located in Karoli, Rajasthan, and operations started on September 5, 2026.",BSE,2026-09-05T17:43:16,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=fb4144fa-0235-4045-aaac-f7683305ecac.pdf
 GSTK544022,ASK Automotive,ASKAUTOLTD,5.830388689215783e+18,"ASK Automotive's June 2026 net sales rose 35.8% Y-o-Y to Rs 986.6 crore.
 Net profit grew 13% to Rs 61.5 crore; EBITDA increased 14.6% to Rs 103.6 crore.","ASK Automotive's June 2026 net sales rose 35.8% Y-o-Y to Rs 986.6 crore.
 Net profit grew 13% to Rs 61.5 crore; EBITDA increased 14.6% to Rs 103.6 crore.",Moneycontrol,2026-08-07T17:28:00,https://www.moneycontrol.com/news/business/earnings/ask-auto-standalone-june-2026-net-sales-at-rs-986-55-crore-up-35-75-y-o-y-13997564.html
@@ -15848,7 +15853,6 @@ GSTK544022,ASK Automotive,ASKAUTOLTD,835543.0,"ASK Automotive approved Q1 FY2026
 EY LLP appointed as internal auditor for FY2026-27; statutory auditors expressed unmodified review conclusions.","ASK Automotive approved Q1 FY2026 standalone and consolidated unaudited financial results, showing revenue of ₹986.6 cr and profit of ₹61.5 cr.
 EY LLP appointed as internal auditor for FY2026-27; statutory auditors expressed unmodified review conclusions.",BSE,2026-08-04T18:21:28,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=147ba110-608c-42bc-9ba3-0080e9dbc115.pdf
 GSTK544022,ASK Automotive,ASKAUTOLTD,835519.0,ASK Automotive Q1 net profit rises 29% YoY to ₹851M from ₹661M.,ASK Automotive Q1 net profit rises 29% YoY to ₹851M from ₹661M.,Livesquawk,2026-08-04T18:17:15,
-GSTK544022,ASK Automotive,ASKAUTOLTD,815802.0,Ask Automotive schedules Q1 earnings call for Aug 5 at 5 PM.,Ask Automotive schedules Q1 earnings call for Aug 5 at 5 PM.,Livesquawk,2026-07-28T20:50:41,
 GSTK541578,Varroc Engineering,VARROC,8.811228340432136e+17,"Varroc Electronics Romania faces legal dispute with OP Mobility over EUR 67M supply claim.
 Fresh court proceedings initiated in Paris; financial impact hinges on case outcome.","Varroc Electronics Romania faces legal dispute with OP Mobility over EUR 67M supply claim.
 Fresh court proceedings initiated in Paris; financial impact hinges on case outcome.",ScoutQuest,2026-08-28T15:57:34,https://sqst.in/6szv2
@@ -17414,6 +17418,9 @@ Meeting will also discuss alteration/modification of terms for existing unlisted
 GSTK532832,Embassy Developments,EMBDL,737563.0,"Embassy Developments inks ₹1,500 Cr deal with UP for commercial project.
 Plans to develop 2.5–3.0 mn sq ft office space in Lucknow under Invest UP.","Embassy Developments inks ₹1,500 Cr deal with UP for commercial project.
 Plans to develop 2.5–3.0 mn sq ft office space in Lucknow under Invest UP.",Livesquawk,2026-06-24T19:47:26,
+GSTK544367,Quality Power Electrical Equipments,QPOWER,920114.0,"Quality Power Electrical Equipments Ltd announces 25th AGM and dividend details for FY 2025-26.
+Record date set for 22nd Sep 2026; dividend payment by 28th Oct 2026 upon shareholder approval.","Quality Power Electrical Equipments Ltd announces 25th AGM and dividend details for FY 2025-26.
+Record date set for 22nd Sep 2026; dividend payment by 28th Oct 2026 upon shareholder approval.",BSE,2026-09-05T19:51:31,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6eccd0fe-910f-4a83-ba4d-333357043f89.pdf
 GSTK544367,Quality Power Electrical Equipments,QPOWER,910987.0,"Quality Power's board deferred the preferential issue proposal citing further evaluation needs.
 Reappointments of key directors, including Thalavaidurai Pandyan, were recommended for shareholder approval.","Quality Power's board deferred the preferential issue proposal citing further evaluation needs.
 Reappointments of key directors, including Thalavaidurai Pandyan, were recommended for shareholder approval.",BSE,2026-09-02T18:45:09,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=657a671d-8658-461e-9e6c-1ae4dca6bc63.pdf
@@ -17439,9 +17446,6 @@ Orders will be executed by subsidiary Mehru Electrical within approx. 12 months.
 GSTK544367,Quality Power Electrical Equipments,QPOWER,8.6076531876185e+17,"Quality Power's subsidiary Endoks Enerji secures major international FACTS order.
 Execution deadline set for Dec 2027, awarding entity undisclosed due to NDA.","Quality Power's subsidiary Endoks Enerji secures major international FACTS order.
 Execution deadline set for Dec 2027, awarding entity undisclosed due to NDA.",ScoutQuest,2026-07-03T11:44:04,https://sqst.in/shareMessage?msgId=860765318761849933
-GSTK544367,Quality Power Electrical Equipments,QPOWER,757336.0,"Quality Power's subsidiary received INR 40.9 Cr FACTS equipment order in Japan.
-Order is international, non-related party, and expected completion by Dec 2027.","Quality Power's subsidiary received INR 40.9 Cr FACTS equipment order in Japan.
-Order is international, non-related party, and expected completion by Dec 2027.",BSE,2026-07-03T11:42:42,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a8c2a0ce-8f04-429e-ba5d-a76272287f3e.pdf
 GSTK540293,Pricol,PRICOLLTD,9554256.0,"Pricol Ltd gains 5.3%, closing at Rs 775.35 on BSE.
 48156 shares traded vs avg daily volume of 86038 shares.","Pricol Ltd gains 5.3%, closing at Rs 775.35 on BSE.
 48156 shares traded vs avg daily volume of 86038 shares.",business-standard.com,2026-08-12T00:00:00,https://www.business-standard.com/markets/capital-market-news/td-power-systems-ltd-leads-gainers-in-a-group-126081200725_1.html
@@ -23305,6 +23309,12 @@ Q1 revenue rises to ₹5.2B from ₹4.67B YoY, showing growth.",Livesquawk,2026-
 GSTK532798,Network18 Media & Investments,NETWORK18,2008706355.0,"Network18 Media & Investments mentioned in context of US-Iran peace deal.
 The deal marks a potential turning point after months of conflict.","Network18 Media & Investments mentioned in context of US-Iran peace deal.
 The deal marks a potential turning point after months of conflict.",youtube.com,2026-06-15T00:00:00,https://www.youtube.com/watch?v=ljZnplrqkSE
+GSTK533326,Texmaco Rail & Engineering,TEXRAIL,919780.0,"Texmaco Rail approved 21,073 options under LTIP 2026, convertible into equity shares at ₹1 each.
+Shares arising from options will have no lock-in period and rank pari-passu with other equity shares.","Texmaco Rail approved 21,073 options under LTIP 2026, convertible into equity shares at ₹1 each.
+Shares arising from options will have no lock-in period and rank pari-passu with other equity shares.",BSE,2026-09-05T18:10:07,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=357d296d-5ede-48b0-8929-9e1dc9f0c722.pdf
+GSTK533326,Texmaco Rail & Engineering,TEXRAIL,8.840449875309651e+17,"Texmaco Rail appoints Shibu Mathews as CFO, effective 5 Sep 2026.
+Mathews brings 26 years of experience, with roles at MRF, Airtel, and ITC.","Texmaco Rail appoints Shibu Mathews as CFO, effective 5 Sep 2026.
+Mathews brings 26 years of experience, with roles at MRF, Airtel, and ITC.",ScoutQuest,2026-09-05T17:29:09,https://sqst.in/zQEuS
 GSTK533326,Texmaco Rail & Engineering,TEXRAIL,8.836015782866093e+17,"Texmaco Rail secures new orders, focusing on private and export pipeline growth.","Texmaco Rail secures new orders, focusing on private and export pipeline growth.",ScoutQuest,2026-09-04T12:07:12,https://sqst.in/Zy1cq
 GSTK533326,Texmaco Rail & Engineering,TEXRAIL,8.83578315133123e+17,"Texmaco Rail's order book is ₹11,500 crore, ensuring 24-month revenue visibility.
 70% of orders are from high-margin private/export sectors; maintenance contracts span 15 years.","Texmaco Rail's order book is ₹11,500 crore, ensuring 24-month revenue visibility.
@@ -23327,12 +23337,6 @@ Expansion aims to boost capacity, reduce transport costs, and drive demand for i
 GSTK533326,Texmaco Rail & Engineering,TEXRAIL,26082415539051.0,"Texmaco Rail recommends INR 0.75/share dividend for FY ending March 2026.
 Dividend payment date set within 30 days from declaration at AGM.","Texmaco Rail recommends INR 0.75/share dividend for FY ending March 2026.
 Dividend payment date set within 30 days from declaration at AGM.",MarketScreener India,2026-08-24T12:00:00,https://in.marketscreener.com/news/texmaco-rail-engineering-limited-recommends-payment-of-dividend-for-financial-year-ended-march-31-ce7858dbdd88fe26
-GSTK533326,Texmaco Rail & Engineering,TEXRAIL,875669.0,"Texmaco Rail & Engineering Ltd signs an agreement for Rs. 200 Cr investment in Texmaco Defence Technologies Ltd.
-Post investment, TDTL will cease to be wholly-owned, with Calculus holding 30% equity.","Texmaco Rail & Engineering Ltd signs an agreement for Rs. 200 Cr investment in Texmaco Defence Technologies Ltd.
-Post investment, TDTL will cease to be wholly-owned, with Calculus holding 30% equity.",BSE,2026-08-14T18:57:17,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=910cf16b-0a3a-4fa3-b2ae-3c7cceee7306.pdf
-GSTK533326,Texmaco Rail & Engineering,TEXRAIL,8.753460990395043e+17,"Texmaco Rail receives order from IVC Logistics for 3 ACT1 rakes, 1 BVCM each.
-The order is to be executed by 31st March 2027.","Texmaco Rail receives order from IVC Logistics for 3 ACT1 rakes, 1 BVCM each.
-The order is to be executed by 31st March 2027.",ScoutQuest,2026-08-12T17:22:53,https://sqst.in/shareMessage?msgId=875346099039504296
 GSTK504966,Tinplate Company of India,TINPLATE,,,,,,
 GSTK505872,WPIL,WPIL,846734.0,"WPIL Ltd held its 72nd AGM on Aug 7, 2026 via video conferencing.
 Meeting adhered to Companies Act, 2013; quorum confirmed, and reports were taken as read.","WPIL Ltd held its 72nd AGM on Aug 7, 2026 via video conferencing.
@@ -26954,6 +26958,9 @@ The collaboration includes implementation, business consulting, and technical su
 GSTK543952,NIIT Learning Systems ,NIITMTS,640575.0,"NIIT Learning Systems Q4 net profit rose 58% to ₹77 crore, revenue up 22% to ₹525.2 crore.
 Margins contracted to 16.6%. Stock surged 16.7% intraday but ended 3.5% lower at ₹288.95.","NIIT Learning Systems Q4 net profit rose 58% to ₹77 crore, revenue up 22% to ₹525.2 crore.
 Margins contracted to 16.6%. Stock surged 16.7% intraday but ended 3.5% lower at ₹288.95.",CNBC TV 18,2026-05-12T13:58:12,https://www.cnbctv18.com/market/niit-learning-systems-share-price-q4-results-net-profit-revenue-ebitda-margin-ws-l-19903860.htm
+GSTK543689,Uniparts India,UNIPARTS,919520.0,"Uniparts India Ltd announces its 32nd AGM on Sept 28, 2026 via VC/OAVM; FY 2025-26 Annual Report available online.
+FY 2025-26 results: revenue ₹1170cr (+21.3%), EBITDA margin 22% (+5%), PAT margin 13% (+4%). RoCE rose to 25% (+11%).","Uniparts India Ltd announces its 32nd AGM on Sept 28, 2026 via VC/OAVM; FY 2025-26 Annual Report available online.
+FY 2025-26 results: revenue ₹1170cr (+21.3%), EBITDA margin 22% (+5%), PAT margin 13% (+4%). RoCE rose to 25% (+11%).",BSE,2026-09-05T17:08:26,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=0a23a99b-d123-4888-87a9-170bbd46380d.pdf
 GSTK543689,Uniparts India,UNIPARTS,897529.0,"Uniparts India Ltd grants 4,623 stock options under ESOS 2023 at Rs. 604.65/share.
 Options have a vesting period of 1-4 years with a 3-year exercise period.","Uniparts India Ltd grants 4,623 stock options under ESOS 2023 at Rs. 604.65/share.
 Options have a vesting period of 1-4 years with a 3-year exercise period.",BSE,2026-08-27T18:36:23,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=0aeea590-5ced-4df8-a3d9-4bd929f563cf.pdf
@@ -26981,9 +26988,6 @@ The meeting will also consider the first interim dividend and its record date.",
 GSTK543689,Uniparts India,UNIPARTS,1011710364.0,"Uniparts India ended at 642.25 on July 9, down 1.4 from 651.35.
 The stock traded between 639.45 and 660.6, showing mixed momentum signals.","Uniparts India ended at 642.25 on July 9, down 1.4 from 651.35.
 The stock traded between 639.45 and 660.6, showing mixed momentum signals.",MarketsMojo,2026-07-09T05:30:00,https://www.marketsmojo.com/news/stocks-in-action/uniparts-india-ltd-technical-momentum-shifts-amid-mixed-indicator-signals-4094500
-GSTK543689,Uniparts India,UNIPARTS,191313936.0,"Uniparts India surged 15.9%, opening at Rs 648 on 26 May 2026.
-The rise is linked to strong momentum and technical strength, not specific events.","Uniparts India surged 15.9%, opening at Rs 648 on 26 May 2026.
-The rise is linked to strong momentum and technical strength, not specific events.",MarketsMojo,2026-05-26T00:00:00,https://www.marketsmojo.com/news/stocks-in-action/uniparts-india-ltd-opens-with-strong-gap-up-reflecting-positive-market-sentiment-4013140
 GSTK526227,Filatex India,FILATEX,26090322739995.0,"Filatex India plans ₹300 cr investment in Gujarat recycling plant.
 The plant, with 27,000-tonne capacity, will recycle textile waste into polyester chips.","Filatex India plans ₹300 cr investment in Gujarat recycling plant.
 The plant, with 27,000-tonne capacity, will recycle textile waste into polyester chips.",The Hindu,2026-09-03T16:52:41,https://www.thehindu.com/business/Industry/filatex-india-to-invest-300-cr-in-polyester-textile-recycling-plant-in-gujarat/article71423506.ece
@@ -28133,6 +28137,9 @@ Sustained margin growth may boost earnings expectations; reversal risk could cap
 GSTK500052,Bhansali Engineering Polymers,BEPL,585921.0,"Bhansali Engineering Polymers to hold board meeting on 24th April 2026 to review audited results.
 Final dividend declaration and trading window reopening on 27th April 2026 also to be discussed.","Bhansali Engineering Polymers to hold board meeting on 24th April 2026 to review audited results.
 Final dividend declaration and trading window reopening on 27th April 2026 also to be discussed.",BSE,2026-04-18T16:59:53,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ee04a873-1f0e-4cd8-8a85-752270d9ab1f.pdf
+GSTK530075,Antelopus Selan Energy,ANTELOPUS,919973.0,"Antelopus Selan Energy Ltd marks FY 2025-26 as transformative, following a merger to strengthen its portfolio across key Indian hydrocarbon basins.
+The company achieved 69% production growth, focusing on Bakrol, Karjisan, and Cambay fields with disciplined capital allocation and advanced technologies.","Antelopus Selan Energy Ltd marks FY 2025-26 as transformative, following a merger to strengthen its portfolio across key Indian hydrocarbon basins.
+The company achieved 69% production growth, focusing on Bakrol, Karjisan, and Cambay fields with disciplined capital allocation and advanced technologies.",BSE,2026-09-05T19:05:42,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=032059aa-3927-4d27-a0c6-d4d8973ff0ac.pdf
 GSTK530075,Antelopus Selan Energy,ANTELOPUS,8.498530471222878e+18,"NK Securities Research advises SELL on Antelopus Selan at Rs 1021.3.
 Trade volume recorded was 768,314 shares as of 03-Sep-2026.","NK Securities Research advises SELL on Antelopus Selan at Rs 1021.3.
 Trade volume recorded was 768,314 shares as of 03-Sep-2026.",NSE Bulk Trades,2026-09-03T21:00:15,https://www.nseindia.com/report-detail/display-bulk-and-block-deals
@@ -28160,9 +28167,6 @@ Revenue reached INR 278.9 Cr; EBITDA up 14% at INR 167.5 Cr with 7 new wells by 
 GSTK530075,Antelopus Selan Energy,ANTELOPUS,621119.0,"Antelopus Selan Energy's Q4 net profit rose to 380M rupees, up from 147.8M YOY.
 Q4 revenue surged to 1.03B rupees compared to 631M rupees YOY.","Antelopus Selan Energy's Q4 net profit rose to 380M rupees, up from 147.8M YOY.
 Q4 revenue surged to 1.03B rupees compared to 631M rupees YOY.",Livesquawk,2026-05-04T18:30:42,
-GSTK530075,Antelopus Selan Energy,ANTELOPUS,8.391173161098287e+17,"Antelopus Selan Energy reports lower Q4 amortisation expense by ₹933L due to asset life extension.
-Amalgamation effective July 2025 restates results; auditor gives unmodified opinion on financials.","Antelopus Selan Energy reports lower Q4 amortisation expense by ₹933L due to asset life extension.
-Amalgamation effective July 2025 restates results; auditor gives unmodified opinion on financials.",ScoutQuest,2026-05-04T18:02:38,https://sqst.in/ZOan3
 GSTK512008,EFC (I),EFCIL,8.837822856843405e+17,"EFC (I) Ltd sold 100% shares in a subsidiary for INR 39 cr.
 The subsidiary held real estate assets; turnover ₹2.2 cr; net worth -₹5.1 cr FY26.","EFC (I) Ltd sold 100% shares in a subsidiary for INR 39 cr.
 The subsidiary held real estate assets; turnover ₹2.2 cr; net worth -₹5.1 cr FY26.",ScoutQuest,2026-09-05T00:05:16,https://sqst.in/OuY2N
@@ -28279,6 +28283,9 @@ Paid ₹24.93 crore, share capital rises to ₹206.92 crore with 10.35 cr shares
 GSTK522029,Windsor Machines,WINDMACHIN,748788.0,"Ramesh Keshubhai Siyani and PAC acquired shares of Windsor Machines Ltd via warrant conversion.
 Post-acquisition, their voting shareholding increased to 42.95%, with equity capital rising to Rs. 20.3 crore.","Ramesh Keshubhai Siyani and PAC acquired shares of Windsor Machines Ltd via warrant conversion.
 Post-acquisition, their voting shareholding increased to 42.95%, with equity capital rising to Rs. 20.3 crore.",BSE,2026-06-30T11:26:18,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=68CDBBE7_1E99_4000_A107_5A5A7D711D0E_112614.pdf
+GSTK542866,Colab Platforms,,920003.0,"Colab Platforms Ltd schedules its 37th AGM on 28 Sept 2026 via VC/OAVM, per SEBI regulations.
+Agenda includes adoption of financials, reappointment of Director Rohit Singh, and auditor appointment.","Colab Platforms Ltd schedules its 37th AGM on 28 Sept 2026 via VC/OAVM, per SEBI regulations.
+Agenda includes adoption of financials, reappointment of Director Rohit Singh, and auditor appointment.",BSE,2026-09-05T19:15:04,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7d9d71c0-d5cf-4afa-932c-dba7be9e92fd.pdf
 GSTK542866,Colab Platforms,,8.739388549689522e+17,"Colab Platforms Ltd's consolidated PAT rose 81% QoQ to ₹1.42 crore.
 Revenue grew 49.8% YoY to ₹32.64 crore; subsidiaries contributed ₹10.11 crore.","Colab Platforms Ltd's consolidated PAT rose 81% QoQ to ₹1.42 crore.
 Revenue grew 49.8% YoY to ₹32.64 crore; subsidiaries contributed ₹10.11 crore.",ScoutQuest,2026-08-08T20:11:00,https://sqst.in/qvcSL
@@ -28575,6 +28582,9 @@ The company targets FY27 revenue growth of 13%, driven by polymer compounding an
 GSTK543547,Ddev Plastiks Industries,DDEVPLSTIK,8.467638277067201e+17,"Ddev Plastiks' board approved FY26 earnings presentation for 25 May 2026.
 Earnings call on 26 May 2026; Q4 and FY26 updates to be shared online.","Ddev Plastiks' board approved FY26 earnings presentation for 25 May 2026.
 Earnings call on 26 May 2026; Q4 and FY26 updates to be shared online.",ScoutQuest,2026-05-25T20:27:08,https://sqst.in/mnn0T
+GSTK500227,Jindal Poly Films,JINDALPOLY,919925.0,"Jindal Poly Films' board approved convening the 52nd AGM on September 30, 2026, at Uttar Pradesh.
+E-voting for eligible members starts on September 27, 2026, and ends on September 29, 2026.","Jindal Poly Films' board approved convening the 52nd AGM on September 30, 2026, at Uttar Pradesh.
+E-voting for eligible members starts on September 27, 2026, and ends on September 29, 2026.",BSE,2026-09-05T18:51:13,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b7251610-40ac-4113-a70e-dd2c2429a5e4.pdf
 GSTK500227,Jindal Poly Films,JINDALPOLY,2608159730186.0,"Jindal Poly Films' consolidated net profit surged 192.9% to Rs 108 cr in Q1 FY26.
 Sales declined 23.8% to Rs 695.8 cr compared to Q1 FY25.","Jindal Poly Films' consolidated net profit surged 192.9% to Rs 108 cr in Q1 FY26.
 Sales declined 23.8% to Rs 695.8 cr compared to Q1 FY25.",Business Standard,2026-08-15T16:19:19,https://www.business-standard.com/amp/markets/capital-market-news/jindal-poly-films-consolidated-net-profit-rises-192-92-in-the-june-2026-quarter-126081501144_1.html
@@ -28598,9 +28608,6 @@ GSTK500227,Jindal Poly Films,JINDALPOLY,631247.0,NCLT approves replacement of a 
 GSTK500227,Jindal Poly Films,JINDALPOLY,631115.0,"NCLT allows Monet Securities to substitute as petitioner in Jindal Poly Films' class action, ensuring case continuity.
 SEBI granted more time to respond; case seen as key precedent for minority shareholder rights and corporate governance.","NCLT allows Monet Securities to substitute as petitioner in Jindal Poly Films' class action, ensuring case continuity.
 SEBI granted more time to respond; case seen as key precedent for minority shareholder rights and corporate governance.",NDTV Profit,2026-05-07T21:14:52,https://www.ndtvprofit.com/business/nclt-approves-monet-securities-as-substitute-petitioner-in-jindal-poly-class-action-case-11462162#publisher=newsstand
-GSTK500227,Jindal Poly Films,JINDALPOLY,260430206010392.0,"NCLT adjourned Jindal Poly Films' class action suit hearing to May 7, 2026.
-The case under Section 245 of Companies Act 2013 will be heard by the Principal Bench.","NCLT adjourned Jindal Poly Films' class action suit hearing to May 7, 2026.
-The case under Section 245 of Companies Act 2013 will be heard by the Principal Bench.",The Economic Times,2026-04-30T13:51:01,https://legal.economictimes.indiatimes.com/news/litigation/nclt-adjourns-hearing-on-jindal-poly-films-class-action-suit-to-may-2026/130627951
 GSTK532717,Indo Tech Transformers,INDOTECH,26090322579834.0,Indo Tech Transformers secures Rs 165.55 crore order for 26 power transformers.,Indo Tech Transformers secures Rs 165.55 crore order for 26 power transformers.,Capital Market,2026-09-03T12:00:00,https://www.capitalmarket.com/markets/news/corporate-news/indo-tech-transformers-wins-orders-worth-rs-165-55-cr/1729407
 GSTK532717,Indo Tech Transformers,INDOTECH,911466.0,"Indo Tech Transformers wins ₹165.55 crore order for 26 power transformers.
 Order from AP Transco boosts revenue visibility and transmission network demand.","Indo Tech Transformers wins ₹165.55 crore order for 26 power transformers.
@@ -28853,6 +28860,9 @@ Triggers behind the rally discussed by expert Ashish 4vedi.",CNBC-AWAAZ,2026-06-
 GSTK500730,Nocil,NOCIL,731350.0,"NOCIL, Subros, EMS, EPACK Durable, Kirloskar Industries surged up to 20% driven by high volumes and key developments.
 NOCIL soared 20% on anti-dumping duties; Kirloskar gained on a 192MW order; EMS rose 16% on market-driven volume surge.","NOCIL, Subros, EMS, EPACK Durable, Kirloskar Industries surged up to 20% driven by high volumes and key developments.
 NOCIL soared 20% on anti-dumping duties; Kirloskar gained on a 192MW order; EMS rose 16% on market-driven volume surge.",Business Standard,2026-06-22T14:44:13,https://www.business-standard.com/markets/news/volume-buzzers-nocil-subros-ems-kirloskar-ind-epack-zoom-up-to-20-126062200494_1.html
+GSTK514446,LS Industries,,919864.0,"LS Industries Ltd Board approved various matters including reports, AGM notice, and reappointment of auditors.
+Board fixed AGM on Sep 30, 2026, approved loans to subsidiaries, investment limit hike, and director nominations.","LS Industries Ltd Board approved various matters including reports, AGM notice, and reappointment of auditors.
+Board fixed AGM on Sep 30, 2026, approved loans to subsidiaries, investment limit hike, and director nominations.",BSE,2026-09-05T18:32:32,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2c345685-ec4b-4016-ba2a-ab24db8197c9.pdf
 GSTK514446,LS Industries,,873943.0,"LS Industries Ltd reported unaudited Q1 FY26 results, posting a profit of Rs. 133.8 lakhs.
 Exceptional gains from ROU asset transfer boosted profits; results comply with SEBI norms.","LS Industries Ltd reported unaudited Q1 FY26 results, posting a profit of Rs. 133.8 lakhs.
 Exceptional gains from ROU asset transfer boosted profits; results comply with SEBI norms.",BSE,2026-08-14T16:34:22,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=099c2e62-0017-496a-b1ac-ee21d1983bc9.pdf
@@ -32161,6 +32171,9 @@ The transaction was executed on June 2, 2026, via the NSE at a price of ₹46.99
 GSTK526947,La Opala Rg,LAOPALA,8.499412960219227e+17,"La Opala RG promoters acquired 60,000 shares, raising stake by 0.05%.
 Promoter holding increased to 66.2% post open market acquisition on 02.06.2026.","La Opala RG promoters acquired 60,000 shares, raising stake by 0.05%.
 Promoter holding increased to 66.2% post open market acquisition on 02.06.2026.",ScoutQuest,2026-06-03T14:53:16,https://sqst.in/pPBvO
+GSTK531179,Arman Financial Services,ARMANFIN,920020.0,"Arman Financial Services Ltd will hold its 34th Annual General Meeting on September 28, 2026, via Video Conferencing.
+Shareholders can participate via e-voting from September 24-27, 2026, or during the AGM. Details are on their website.","Arman Financial Services Ltd will hold its 34th Annual General Meeting on September 28, 2026, via Video Conferencing.
+Shareholders can participate via e-voting from September 24-27, 2026, or during the AGM. Details are on their website.",BSE,2026-09-05T19:19:12,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ea8f2231-1414-4c51-a9a5-a87b751e1332.pdf
 GSTK531179,Arman Financial Services,ARMANFIN,870237.0,"Arman Financial Services held a conference call on Aug 13, 2026, discussing Q2 FY26 financial results.
 The call's audio recording is uploaded on Arman India's website for investor review.","Arman Financial Services held a conference call on Aug 13, 2026, discussing Q2 FY26 financial results.
 The call's audio recording is uploaded on Arman India's website for investor review.",BSE,2026-08-13T18:29:52,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8434a1d9-1eb8-4ced-9595-cdf131ab477a.pdf
@@ -32188,9 +32201,6 @@ RBI lifted restrictions earlier; proceeds to boost capital. DAM, Motilal Oswal, 
 GSTK531179,Arman Financial Services,ARMANFIN,260510343809.0,"Arman Financial Services gains 16.4%, outperforming Sensex's 1.3% rise from May 4-8, 2026.
 Momentum, 52-week high, and mojo grade upgrade drive optimistic outlook despite mixed fundamentals.","Arman Financial Services gains 16.4%, outperforming Sensex's 1.3% rise from May 4-8, 2026.
 Momentum, 52-week high, and mojo grade upgrade drive optimistic outlook despite mixed fundamentals.",Marketsmojo,2026-05-10T10:01:18,https://www.marketsmojo.com/news/stocks-in-action/arman-financial-services-ltd-gains-1639-4-key-factors-driving-the-rally-3983905
-GSTK531179,Arman Financial Services,ARMANFIN,634711.0,"Arohan Financial Services' nominee director, Stephen Dongwon Lee, resigned effective May 8, 2026.
-The company expressed gratitude for his contributions; disclosure made under SEBI regulations.","Arohan Financial Services' nominee director, Stephen Dongwon Lee, resigned effective May 8, 2026.
-The company expressed gratitude for his contributions; disclosure made under SEBI regulations.",BSE,2026-05-09T12:12:08,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=497e88fe-fb04-4a2d-81d7-82a6bd882883.pdf
 GSTK500460,Mukand,MUKANDLTD,8.778979862060243e+17,"Mukand Ltd receives Rs. 59.3 crore as second payment tranche from AGP DC Infra.
 The payment pertains to the sale of land at Kalwa as per the July 15, 2026 term sheet.","Mukand Ltd receives Rs. 59.3 crore as second payment tranche from AGP DC Infra.
 The payment pertains to the sale of land at Kalwa as per the July 15, 2026 term sheet.",ScoutQuest,2026-08-19T18:23:10,https://sqst.in/zJpO9
@@ -32410,6 +32420,9 @@ He highlights growth triggers, target price, and investment rationale for the st
 GSTK531548,Somany Ceramics,SOMANYCERA,719666.0,"Somany Ceramics CEO predicts 20% of India's inefficient tile plants may shut due to rising gas prices and industry consolidation.
 Somany invested ₹600 cr to scale production; exports to 80 countries but focuses on domestic growth amid real estate demand.","Somany Ceramics CEO predicts 20% of India's inefficient tile plants may shut due to rising gas prices and industry consolidation.
 Somany invested ₹600 cr to scale production; exports to 80 countries but focuses on domestic growth amid real estate demand.",Livemint,2026-06-14T15:17:46,https://www.livemint.com/companies/us-iran-war-one-in-five-tile-plants-may-shut-as-gas-prices-drive-industry-consolidation-somany-ceramics-ceo-hormuz-11781428731522.html
+GSTK542725,SBC Exports,SBC,919726.0,"SBC Exports Ltd announces its 15th Annual General Meeting on Sep 30, 2026, at Mirzapur, UP.
+Shareholders with unregistered emails receive links to access the FY 2025-26 Annual Report online.","SBC Exports Ltd announces its 15th Annual General Meeting on Sep 30, 2026, at Mirzapur, UP.
+Shareholders with unregistered emails receive links to access the FY 2025-26 Annual Report online.",BSE,2026-09-05T17:58:32,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b28898bd-48c5-47aa-b8f3-79179515975f.pdf
 GSTK542725,SBC Exports,SBC,916981.0,"SBC Exports secures an export order valued at USD 794,110.
 This new order adds to its recently announced order flow.","SBC Exports secures an export order valued at USD 794,110.
 This new order adds to its recently announced order flow.",Livesquawk,2026-09-04T17:47:11,
@@ -32433,9 +32446,6 @@ Cancellation approved on Aug 12, 2026, citing procedural and regulatory complexi
 GSTK542725,SBC Exports,SBC,811117.0,"SBC Exports Ltd received a manpower supply order worth ₹52.2 lakh from NICSI under the Ministry of Electronics and IT.
 The six-month order mandates compliance with labor provisions; it doesn't involve related party transactions.","SBC Exports Ltd received a manpower supply order worth ₹52.2 lakh from NICSI under the Ministry of Electronics and IT.
 The six-month order mandates compliance with labor provisions; it doesn't involve related party transactions.",BSE,2026-07-27T14:39:48,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7f843259-59e5-4ffd-84cf-21dc901457c7.pdf
-GSTK542725,SBC Exports,SBC,755742.0,"SBC Exports secures contract extension from MPMMCC, BHU, for technical and non-technical manpower.
-The extension, effective 01.07.2026-31.12.2026, is valued at Rs. 32 Cr, per original contract terms.","SBC Exports secures contract extension from MPMMCC, BHU, for technical and non-technical manpower.
-The extension, effective 01.07.2026-31.12.2026, is valued at Rs. 32 Cr, per original contract terms.",BSE,2026-07-02T16:01:42,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=9e45bf28-5df4-46ef-8548-8b2f986c6db0.pdf
 GSTK522263,JMC Projects (India),JMCPROJECT,,,,,,
 GSTK544181,Awfis Space Solutions,AWFIS,896824.0,"Awfis Space Solutions Ltd announced its 12th AGM on Sept 21, 2026, via virtual means.
 FY26 highlights include 24% revenue growth, 60% RoCE, and WELL certifications across 35 centres.","Awfis Space Solutions Ltd announced its 12th AGM on Sept 21, 2026, via virtual means.
@@ -33238,6 +33248,9 @@ Agenda includes audited financial results, dividend recommendation, AGM date, an
 GSTK500068,DISA India,DISAQ,8.354425618002628e+17,"SEBI issued warning to Disa India over whistleblower complaint non-disclosure.
 No monetary impact reported; firm directed to enhance compliance and reporting.","SEBI issued warning to Disa India over whistleblower complaint non-disclosure.
 No monetary impact reported; firm directed to enhance compliance and reporting.",ScoutQuest,2026-04-24T14:40:28,https://sqst.in/MMPjk
+GSTK512237,Jai Corp,JAICORPLTD,8.840575662612442e+17,"Jai Corp Ltd corrected a clerical EPS error in XBRL file, filed revised version on Sept 5, 2026.
+PDF EPS was accurate, board-approved; company strengthened review processes to prevent future errors.","Jai Corp Ltd corrected a clerical EPS error in XBRL file, filed revised version on Sept 5, 2026.
+PDF EPS was accurate, board-approved; company strengthened review processes to prevent future errors.",ScoutQuest,2026-09-05T18:19:08,https://sqst.in/UT2Ko
 GSTK512237,Jai Corp,JAICORPLTD,890410.0,"Jai Corp Ltd announces its 41st Annual General Meeting on Sept 28, 2026.
 The meeting will be held via video conferencing as per SEBI regulations.","Jai Corp Ltd announces its 41st Annual General Meeting on Sept 28, 2026.
 The meeting will be held via video conferencing as per SEBI regulations.",BSE,2026-08-24T16:07:34,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=809d58c3-0a72-4897-85a3-678462d6c35a.pdf
@@ -33708,6 +33721,9 @@ The stock surged 11.4% intraday, showcasing strong technical performance.",Marke
 GSTK533303,BF Investment,BFINVEST,260412192638288.0,"BF Investment Ltd surged 10.96%, outperforming Sensex's 5.3% gain from April 6-10, 2026.
 The rally stemmed from technical shifts and market reaction to a Strong Sell downgrade.","BF Investment Ltd surged 10.96%, outperforming Sensex's 5.3% gain from April 6-10, 2026.
 The rally stemmed from technical shifts and market reaction to a Strong Sell downgrade.",Marketsmojo,2026-04-12T12:00:38,https://www.marketsmojo.com/news/stocks-in-action/bf-investment-ltd-gains-1096-2-key-factors-driving-the-weeks-rally-3943578
+GSTK543328,Krsnaa Diagnostics,KRSNAA,920013.0,"Krsnaa Diagnostics Ltd announces its 16th AGM scheduled for September 28, 2026, at its Pune office.
+The company's 2025-26 Annual Report is available online, showcasing growth, PPP projects, and healthcare initiatives.","Krsnaa Diagnostics Ltd announces its 16th AGM scheduled for September 28, 2026, at its Pune office.
+The company's 2025-26 Annual Report is available online, showcasing growth, PPP projects, and healthcare initiatives.",BSE,2026-09-05T19:17:37,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=02275d49-4208-4f53-acaa-6594f4317ab6.pdf
 GSTK543328,Krsnaa Diagnostics,KRSNAA,895622.0,"Krsnaa Diagnostics received an Income Tax rectification order revising tax payable to Rs. 31.7 crore.
 The differential demand of Rs. 12.1 crore will be appealed; updates to exchanges will follow.","Krsnaa Diagnostics received an Income Tax rectification order revising tax payable to Rs. 31.7 crore.
 The differential demand of Rs. 12.1 crore will be appealed; updates to exchanges will follow.",BSE,2026-08-26T21:57:06,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=325a8564-41e1-48a5-87a4-65d33a12200c.pdf
@@ -33735,9 +33751,6 @@ Krsnaa Retail saw 8x revenue growth, expanding to 3,500 locations; final dividen
 GSTK543328,Krsnaa Diagnostics,KRSNAA,8.468109087565338e+17,"Krsnaa Diagnostics reports FY26 revenue at ₹7,728M, PAT up 31% to ₹1,014M.
 Diluted EPS rose 31% to ₹30.9; retail diagnostics revenue grew 8x across 3,500 locations.","Krsnaa Diagnostics reports FY26 revenue at ₹7,728M, PAT up 31% to ₹1,014M.
 Diluted EPS rose 31% to ₹30.9; retail diagnostics revenue grew 8x across 3,500 locations.",ScoutQuest,2026-05-25T23:34:13,https://sqst.in/FKDlB
-GSTK543328,Krsnaa Diagnostics,KRSNAA,681394.0,"Krsnaa Diagnostics Q4 profit doubles YoY; margins remain stable.
-The company recommends a final dividend of ₹2/share.","Krsnaa Diagnostics Q4 profit doubles YoY; margins remain stable.
-The company recommends a final dividend of ₹2/share.",ET NOW,2026-05-25T21:28:23,https://x.com/ETNOWlive/status/2058940753955758289
 GSTK500108,Mahanagar Telephone Nigam,MTNL,918446.0,"MTNL announces closure of Register of Members and Share Transfer Books for AGM, Sep 24-30, 2026.
 The 40th AGM is scheduled on Sep 30, 2026, at 11:30 AM via VC/OAVM.","MTNL announces closure of Register of Members and Share Transfer Books for AGM, Sep 24-30, 2026.
 The 40th AGM is scheduled on Sep 30, 2026, at 11:30 AM via VC/OAVM.",BSE,2026-09-05T11:54:47,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=74f87ae3-e728-4919-b067-831ac5e6ae7c.pdf
@@ -35908,6 +35921,9 @@ GSTK544336,Quadrant Future Tek,QUADFUTURE,8.749984119043471e+17,"Quadrant Future
 Reappointment of cost auditors approved; AGM scheduled for Sept 25, 2026.","Quadrant Future Tek reported a cash loss of INR 25.7M in Q1 FY26-27.
 Reappointment of cost auditors approved; AGM scheduled for Sept 25, 2026.",ScoutQuest,2026-08-11T18:21:18,https://sqst.in/uBImg
 GSTK512038,TCC Concept,TCC,,,,,,
+GSTK524109,Kabra Extrusiontechnik,KABRAEXTRU,919907.0,"Kabra Extrusiontechnik's board approved setting up subsidiaries in UAE and Vietnam.
+The Vietnam subsidiary to invest INR 500 Cr in battery pack manufacturing.","Kabra Extrusiontechnik's board approved setting up subsidiaries in UAE and Vietnam.
+The Vietnam subsidiary to invest INR 500 Cr in battery pack manufacturing.",BSE,2026-09-05T18:47:01,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=adb6bdf4-1061-4184-ada8-d9eaabdce7e5.pdf
 GSTK524109,Kabra Extrusiontechnik,KABRAEXTRU,8.829654547049748e+17,"Kabra Extrusiontechnik got LOI from a top 3 two-wheeler maker in India.
 The collaboration involves developing two battery packs, boosting EV solutions.","Kabra Extrusiontechnik got LOI from a top 3 two-wheeler maker in India.
 The collaboration involves developing two battery packs, boosting EV solutions.",ScoutQuest,2026-09-02T17:59:29,https://sqst.in/lHUfa
@@ -35935,9 +35951,6 @@ Shares will be issued to promoter and non-promoter groups; EGM scheduled for Sep
 GSTK524109,Kabra Extrusiontechnik,KABRAEXTRU,836342.0,"Kabra Extrusiontechnik to hold board meeting on Aug 7, 2026, to evaluate equity fund-raising proposals.
 Trading window closure for designated persons from Aug 5, 2026, till 48 hours post board meeting.","Kabra Extrusiontechnik to hold board meeting on Aug 7, 2026, to evaluate equity fund-raising proposals.
 Trading window closure for designated persons from Aug 5, 2026, till 48 hours post board meeting.",BSE,2026-08-04T21:36:26,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=9c55d1d2-36bd-432e-aa6d-8fcaa0d0a3c3.pdf
-GSTK524109,Kabra Extrusiontechnik,KABRAEXTRU,8.706384218805574e+17,"Kabra Extrusiontechnik's Q1 FY27 revenue rose 44.8% YoY to ₹1,245 Mn.
-Geon segment surged 133.1% YoY to ₹701 Mn; EBITDA margin improved to 5.0%.","Kabra Extrusiontechnik's Q1 FY27 revenue rose 44.8% YoY to ₹1,245 Mn.
-Geon segment surged 133.1% YoY to ₹701 Mn; EBITDA margin improved to 5.0%.",ScoutQuest,2026-07-30T17:36:15,https://sqst.in/fSpS1
 GSTK543989,Sai Silks (Kalamandir),KALAMANDIR,867919.0,"Sai Silks (Kalamandir) Ltd opens its 85th store in Srikakulam, Andhra Pradesh.
 The store operates under the 'Kanchipuram Varamahalakshmi Silks' format as disclosed.","Sai Silks (Kalamandir) Ltd opens its 85th store in Srikakulam, Andhra Pradesh.
 The store operates under the 'Kanchipuram Varamahalakshmi Silks' format as disclosed.",BSE,2026-08-13T14:01:39,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=49a6de5b-92f3-449b-bf3a-c4f4fee0a388.pdf
@@ -40674,6 +40687,9 @@ Corrections include encumbered shares updated to 1.5 crore from 90.75 lakh; perc
 GSTK508954,Finkurve Financial Services,FINKURVE,8.354929605613208e+17,"Finkurve Financial allotted 93,500 shares under ESOP at Rs.27 each.
 Equity capital increased; new Director with 44 years experience appointed.","Finkurve Financial allotted 93,500 shares under ESOP at Rs.27 each.
 Equity capital increased; new Director with 44 years experience appointed.",ScoutQuest,2026-04-24T18:00:44,https://sqst.in/yQ8uG
+GSTK543240,Likhitha Infrastructure,LIKHITHA,919573.0,"Likhitha Infrastructure Ltd's (LIL) 27th Annual Report highlights FY 2025–26 performance, with ₹456.73 crore revenue and ₹40.02 crore PAT.
+LIL expanded operations in Abu Dhabi, Saudi Arabia, and Nepal, showcasing expertise in cross-country pipelines and city gas distribution projects.","Likhitha Infrastructure Ltd's (LIL) 27th Annual Report highlights FY 2025–26 performance, with ₹456.73 crore revenue and ₹40.02 crore PAT.
+LIL expanded operations in Abu Dhabi, Saudi Arabia, and Nepal, showcasing expertise in cross-country pipelines and city gas distribution projects.",BSE,2026-09-05T17:18:49,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7aa39df1-9600-4632-85b0-71191d0ca062.pdf
 GSTK543240,Likhitha Infrastructure,LIKHITHA,897105.0,"Likhitha Infrastructure released Q1 FY27 investor presentation, highlighting 30.5% revenue drop YoY to Rs. 85.06 Cr.
 Company's PAT fell 47.2% YoY to Rs. 7.34 Cr; outstanding order book stands at Rs. 1,454 Cr.","Likhitha Infrastructure released Q1 FY27 investor presentation, highlighting 30.5% revenue drop YoY to Rs. 85.06 Cr.
 Company's PAT fell 47.2% YoY to Rs. 7.34 Cr; outstanding order book stands at Rs. 1,454 Cr.",BSE,2026-08-27T16:50:40,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2487422a-cc91-46f8-8d47-2e7207cf3ea6.pdf
@@ -40701,9 +40717,6 @@ This boosts its overseas project pipeline and execution visibility.",Livesquawk,
 GSTK543240,Likhitha Infrastructure,LIKHITHA,8.583104846194205e+17,"Likhitha Infrastructure secures pipeline construction order from China Petroleum Engineering.
 The project, ASAB Pipeline Package 1, has a 21-month execution timeline.","Likhitha Infrastructure secures pipeline construction order from China Petroleum Engineering.
 The project, ASAB Pipeline Package 1, has a 21-month execution timeline.",ScoutQuest,2026-06-26T17:09:26,https://sqst.in/shareMessage?msgId=858310484619420579
-GSTK543240,Likhitha Infrastructure,LIKHITHA,8.568952934534249e+17,"Likhitha Infrastructure approves 25 lakh convertible warrants to raise ₹60 crore.
-Warrants priced at ₹240 each; two new Executive Directors appointed.","Likhitha Infrastructure approves 25 lakh convertible warrants to raise ₹60 crore.
-Warrants priced at ₹240 each; two new Executive Directors appointed.",ScoutQuest,2026-06-22T19:25:58,https://sqst.in/eWRvB
 GSTK540311,JITF Infralogistics,JITFINFRA,865459.0,"JITF Infralogistics Q1 net loss narrows to ₹55M from ₹111M YOY.
 Consolidated results show improved performance compared to last year.","JITF Infralogistics Q1 net loss narrows to ₹55M from ₹111M YOY.
 Consolidated results show improved performance compared to last year.",Livesquawk,2026-08-12T19:29:07,
@@ -41614,6 +41627,9 @@ Q4 EBITDA margin fell to 5.4% from 7.3% YoY.",Livesquawk,2026-05-19T20:40:58,
 GSTK544756,United Polyfab Gujarat,UNITEDPOLY,662890.0,"United Polyfab Gujarat Ltd approved audited financial results for Q4 and FY ending March 31, 2026, with unmodified opinions.
 Board appointed M.L. Prajapati & Associates as cost auditors for FY 2026-27 and declared compliance with SEBI regulations.","United Polyfab Gujarat Ltd approved audited financial results for Q4 and FY ending March 31, 2026, with unmodified opinions.
 Board appointed M.L. Prajapati & Associates as cost auditors for FY 2026-27 and declared compliance with SEBI regulations.",BSE,2026-05-19T20:04:23,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=85c497a2-fd63-4ab5-85dc-bff5a9c333f9.pdf
+GSTK540980,Yamuna Syndicate,,919710.0,"The Yamuna Syndicate Ltd withheld dividends for FY 2025-26 from physical shareholders with incomplete KYC details.
+Shareholders must update KYC via prescribed forms to receive withheld dividends; forms available on company's website.","The Yamuna Syndicate Ltd withheld dividends for FY 2025-26 from physical shareholders with incomplete KYC details.
+Shareholders must update KYC via prescribed forms to receive withheld dividends; forms available on company's website.",BSE,2026-09-05T17:55:17,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=5507c738-8510-4747-86d3-c66c232a24de.pdf
 GSTK540980,Yamuna Syndicate,,890907.0,"The Yamuna Syndicate held its 72nd AGM on Aug 24, 2026 via VC/OAVM.
 Final dividend of Rs. 500/share approved; audited financials adopted during the AGM.","The Yamuna Syndicate held its 72nd AGM on Aug 24, 2026 via VC/OAVM.
 Final dividend of Rs. 500/share approved; audited financials adopted during the AGM.",BSE,2026-08-24T18:23:06,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=eca5a988-e1c0-487e-8c97-961b287507e8.pdf
@@ -44301,6 +44317,9 @@ Key appointments were made, including CS Guinea Agrawal as Company Secretary and
 GSTK524723,Arvaya Healthcare,,8.637099653421116e+17,"Arvaya Healthcare to acquire Sushodha Institute for Rs 15.5 Cr via share swap.
 Company plans Rs 210 Cr rights issue; office shifts from Assam to Maharashtra.","Arvaya Healthcare to acquire Sushodha Institute for Rs 15.5 Cr via share swap.
 Company plans Rs 210 Cr rights issue; office shifts from Assam to Maharashtra.",ScoutQuest,2026-07-11T14:45:02,https://sqst.in/4TY99
+GSTK512626,Orbit Exports,ORBTEXP,919872.0,"Orbit Exports will hold its 43rd AGM on September 29, 2026, at 5 PM via video conferencing; Annual Report for FY 2025-26 submitted.
+Despite challenges like US tariffs and Middle East disruptions, Orbit Exports achieved 6% revenue growth in FY26, reaching ₹230.96 crore.","Orbit Exports will hold its 43rd AGM on September 29, 2026, at 5 PM via video conferencing; Annual Report for FY 2025-26 submitted.
+Despite challenges like US tariffs and Middle East disruptions, Orbit Exports achieved 6% revenue growth in FY26, reaching ₹230.96 crore.",BSE,2026-09-05T18:35:38,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6d9ec993-27e3-4b6e-ad98-ef9a8a9dac63.pdf
 GSTK512626,Orbit Exports,ORBTEXP,874757.0,"Orbit Exports Ltd completes buyback, extinguishing 8,90,822 fully paid equity shares at ₹10 each.
 Post-buyback, equity share capital reduced to ₹25.62 crore, with promoter holding rising to 68.35%.","Orbit Exports Ltd completes buyback, extinguishing 8,90,822 fully paid equity shares at ₹10 each.
 Post-buyback, equity share capital reduced to ₹25.62 crore, with promoter holding rising to 68.35%.",BSE,2026-08-14T17:42:56,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2c9577e3-3c61-4d24-8419-c7803da320ef.pdf
@@ -44326,9 +44345,6 @@ GSTK512626,Orbit Exports,ORBTEXP,755869.0,"Orbit Exports to discuss equity share
 Share buyback signals potential capital return to shareholders.","Orbit Exports to discuss equity share buyback in July 7, 2026 board meeting.
 Share buyback signals potential capital return to shareholders.",Livesquawk,2026-07-02T16:38:19,
 GSTK512626,Orbit Exports,ORBTEXP,8.998479466217234e+18,"Parshva Kumar Daga bought 250,829 shares of Orbit Exports at avg price of Rs 242.95.","Parshva Kumar Daga bought 250,829 shares of Orbit Exports at avg price of Rs 242.95.",NSE Bulk Trades,2026-06-23T21:00:25,https://www.nseindia.com/report-detail/display-bulk-and-block-deals
-GSTK512626,Orbit Exports,ORBTEXP,635150.0,"Orbit Exports' Q4 net profit drops to 15M from 59M YoY.
-Q4 revenue declines to 459M rupees from 480M rupees YoY.","Orbit Exports' Q4 net profit drops to 15M from 59M YoY.
-Q4 revenue declines to 459M rupees from 480M rupees YoY.",Livesquawk,2026-05-09T17:21:39,
 GSTK522122,Voith Paper Fabrics India,,895525.0,"Voith Paper Fabrics India appoints Asesh Kumar Mukherjee as MD for 5 years, effective Aug 26, 2026, pending shareholder approval.
 Mr. Mukherjee, with 35+ years of leadership experience in manufacturing industries, holds multiple engineering and management qualifications.","Voith Paper Fabrics India appoints Asesh Kumar Mukherjee as MD for 5 years, effective Aug 26, 2026, pending shareholder approval.
 Mr. Mukherjee, with 35+ years of leadership experience in manufacturing industries, holds multiple engineering and management qualifications.",BSE,2026-08-26T20:38:18,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=0a057b55-90b3-40f3-bc9a-d05a9a5c65a9.pdf
@@ -48184,6 +48200,9 @@ GSTK543470,SoftTech Engineers,SOFTTECH,26052611017113.0,"SoftTech Engineers wins
 SoftTech Engineers' stock closed at Rs. 390.1 on BSE, down from Rs. 406.45, with Rs. 26,526 turnover.","SoftTech Engineers wins CivitBUILD ERP order from SCON Projects for managing its project operations.
 SoftTech Engineers' stock closed at Rs. 390.1 on BSE, down from Rs. 406.45, with Rs. 26,526 turnover.",Equity Bulls,2026-05-25T06:30:00,https://www.equitybulls.com/category.php?id=371220
 GSTK543470,SoftTech Engineers,SOFTTECH,3.7879990308310477e+18,"Snehal Bhupendra Shah bought 1,01,000 shares of Softtech Engineers at ₹394.98 avg price.","Snehal Bhupendra Shah bought 1,01,000 shares of Softtech Engineers at ₹394.98 avg price.",NSE Bulk Trades,2026-05-18T21:00:25,https://www.nseindia.com/report-detail/display-bulk-and-block-deals
+GSTK511714,Nimbus Projects,NIMBSPROJ,8.840502555725987e+17,"Nimbus Projects reclassified 4 promoter group members as public; impacts 0.05% of paid-up capital.
+Reclassification approved by NSE and BSE on Sept 4, 2026, indicating minor ownership update.","Nimbus Projects reclassified 4 promoter group members as public; impacts 0.05% of paid-up capital.
+Reclassification approved by NSE and BSE on Sept 4, 2026, indicating minor ownership update.",ScoutQuest,2026-09-05T17:50:05,https://sqst.in/21utn
 GSTK511714,Nimbus Projects,NIMBSPROJ,915495.0,"Nimbus Projects Ltd announced its 33rd AGM on September 29, 2026, via video conferencing.
 Integrated Annual Report FY 2025-26 and AGM notice shared electronically and via physical letters for unregistered emails.","Nimbus Projects Ltd announced its 33rd AGM on September 29, 2026, via video conferencing.
 Integrated Annual Report FY 2025-26 and AGM notice shared electronically and via physical letters for unregistered emails.",BSE,2026-09-04T13:25:36,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=829079e1-b8af-40cc-b462-8d88b92ec5e9.pdf
@@ -48209,9 +48228,6 @@ The new entity, IITL Nimbus The Palm Village Pvt Ltd, operates in real estate wi
 GSTK511714,Nimbus Projects,NIMBSPROJ,8.626712104994506e+17,"Nimbus Projects reports 134.3% YoY rise in pre-sales to ₹157.4 Cr in Q1 FY27.
 Customer collections grew 49.8% to ₹75.9 Cr; expansion into UP Tier II cities planned.","Nimbus Projects reports 134.3% YoY rise in pre-sales to ₹157.4 Cr in Q1 FY27.
 Customer collections grew 49.8% to ₹75.9 Cr; expansion into UP Tier II cities planned.",ScoutQuest,2026-07-08T17:57:24,https://sqst.in/295U9
-GSTK511714,Nimbus Projects,NIMBSPROJ,26052813293201.0,"Nimbus Projects' March 2026 net sales surged 26233.5% YoY to Rs 218.23 crore.
-The company reported a net loss of Rs 15.92 crore, improving 86% YoY; shares closed at Rs 222.30.","Nimbus Projects' March 2026 net sales surged 26233.5% YoY to Rs 218.23 crore.
-The company reported a net loss of Rs 15.92 crore, improving 86% YoY; shares closed at Rs 222.30.",Moneycontrol,2026-05-28T13:44:33,https://www.moneycontrol.com/news/business/earnings/nimbus-projects-consolidated-march-2026-net-sales-at-rs-218-23-crore-up-26233-45-y-o-y-13934405.html/amp
 GSTK539276,Kaya,KAYA,8.839504227529843e+17,"Kaya Ltd approves equity shares issuance on preferential basis.
 New Chairman, MD appointments effective Nov 1, 2026; ESOP plan amended.","Kaya Ltd approves equity shares issuance on preferential basis.
 New Chairman, MD appointments effective Nov 1, 2026; ESOP plan amended.",ScoutQuest,2026-09-05T11:13:23,https://sqst.in/UBAMr
@@ -48337,6 +48353,9 @@ Consolidated revenue stood at Rs. 21,920.89 lakhs, with a net profit of Rs. 222.
 GSTK523888,Megamont,,849279.0,"Megamont Ltd schedules board meeting on Aug 12, 2026 for Q1 FY27 financial results approval.
 Trading window remains closed until 48 hrs post results announcement per SEBI norms.","Megamont Ltd schedules board meeting on Aug 12, 2026 for Q1 FY27 financial results approval.
 Trading window remains closed until 48 hrs post results announcement per SEBI norms.",BSE,2026-08-07T19:29:19,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c94cfc7b-8a3f-4e61-9066-5432dc4c1289.pdf
+GSTK532853,Asahi Songwon Colors Lucky Laminates,ASAHISONG,919934.0,"Asahi Songwon Colors Ltd announces a record date of Sep 23, 2026, for final dividend payment.
+Final dividend set at Rs. 1.50/share for FY 2025-26, subject to AGM approval on Sep 30, 2026.","Asahi Songwon Colors Ltd announces a record date of Sep 23, 2026, for final dividend payment.
+Final dividend set at Rs. 1.50/share for FY 2025-26, subject to AGM approval on Sep 30, 2026.",BSE,2026-09-05T18:55:23,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=83dab445-dc3a-42be-b8b8-a8fd0630204d.pdf
 GSTK532853,Asahi Songwon Colors Lucky Laminates,ASAHISONG,8.800216963679945e+17,"Asahi Songwon Colors held EGM on Aug 25, 2026, via video conferencing.
 Mr. Arjun Gokul Jaykrishna appointed as CEO; all resolutions approved via e-voting.","Asahi Songwon Colors held EGM on Aug 25, 2026, via video conferencing.
 Mr. Arjun Gokul Jaykrishna appointed as CEO; all resolutions approved via e-voting.",ScoutQuest,2026-08-25T15:02:02,https://sqst.in/hInTd
@@ -48364,9 +48383,6 @@ Jaykrishna remains Managing Director, continuing strategic and management roles.
 GSTK532853,Asahi Songwon Colors Lucky Laminates,ASAHISONG,8.503314078638888e+17,"Asahi Songwon Colors Q4 revenue rose 19.4% QoQ to Rs.144 Cr, EBITDA margin at 15.6%.
 FY26 revenue down 4.8% YoY; PAT up 5.5% to Rs.17.8 Cr. CEO role transitions to Arjun Jaykrishna.","Asahi Songwon Colors Q4 revenue rose 19.4% QoQ to Rs.144 Cr, EBITDA margin at 15.6%.
 FY26 revenue down 4.8% YoY; PAT up 5.5% to Rs.17.8 Cr. CEO role transitions to Arjun Jaykrishna.",ScoutQuest,2026-06-04T16:43:26,https://sqst.in/Qdh0D
-GSTK532853,Asahi Songwon Colors Lucky Laminates,ASAHISONG,26052711737437.0,"Asahi Songwon Colors' Q4 FY26 net profit surged 338.3% QoQ to ₹10.87 crore.
-Stock rallied 6.6% to ₹253.7 but remains 45.2% below its 52-week high.","Asahi Songwon Colors' Q4 FY26 net profit surged 338.3% QoQ to ₹10.87 crore.
-Stock rallied 6.6% to ₹253.7 but remains 45.2% below its 52-week high.",Marketsmojo,2026-05-26T21:00:29,https://www.marketsmojo.com/news/result-analysis/asahi-songwon-colors-q4-fy26-stellar-profit-surge-masks-persistent-margin-concerns-4015010
 GSTK526873,Rajasthan Securities,,8.778488960720101e+17,"Rajasthan Securities splits Chairman and MD roles; Nikhilesh Khandelwal named MD & CEO.
 Ravindra Maloo appointed Non-Executive Chairman; NRC reconstituted accordingly.","Rajasthan Securities splits Chairman and MD roles; Nikhilesh Khandelwal named MD & CEO.
 Ravindra Maloo appointed Non-Executive Chairman; NRC reconstituted accordingly.",ScoutQuest,2026-08-19T15:08:06,https://sqst.in/QOQCu
@@ -48720,6 +48736,9 @@ Call focuses on public info; investors can gain insights into financial performa
 GSTK544547,Jinkushal Industries,JKIPL,584435.0,"Jinkushal Industries clarified no undisclosed price-sensitive information exists, adhering to SEBI regulations.
 The company stated share price movements are market-driven and beyond its control.","Jinkushal Industries clarified no undisclosed price-sensitive information exists, adhering to SEBI regulations.
 The company stated share price movements are market-driven and beyond its control.",BSE,2026-04-17T15:48:24,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=5011ad3e-6957-4698-bca5-ce103a5d9d3d.pdf
+GSTK514238,MKVentures Capital,,919735.0,"MKVentures Capital Ltd announces its 35th AGM on Sep 29, 2026 via VC/OAVM.
+Annual Report FY 2025-26 accessible via company's website; e-voting from Sep 26 to Sep 28, 2026.","MKVentures Capital Ltd announces its 35th AGM on Sep 29, 2026 via VC/OAVM.
+Annual Report FY 2025-26 accessible via company's website; e-voting from Sep 26 to Sep 28, 2026.",BSE,2026-09-05T18:00:32,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=23d925e1-4d05-4158-b23a-cf6cc5e73f81.pdf
 GSTK514238,MKVentures Capital,,887283.0,"MKVentures Capital Ltd's subsidiary DPPL partners with Anant Raj Ltd to develop 'The Estate One' housing project in Gurugram.
 The project is RERA-registered under Haryana Real Estate Regulatory Authority with certificate dated Aug 20, 2026.","MKVentures Capital Ltd's subsidiary DPPL partners with Anant Raj Ltd to develop 'The Estate One' housing project in Gurugram.
 The project is RERA-registered under Haryana Real Estate Regulatory Authority with certificate dated Aug 20, 2026.",BSE,2026-08-21T14:59:03,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=36057fe7-4166-4c79-b244-91548dd283d3.pdf
@@ -49720,6 +49739,9 @@ Sale value is $3.08M, with buyer being Last Voyage DMCC or nominee.",ScoutQuest,
 GSTK520151,Transworld Shipping Lines,TRANSWORLD,807116.0,"Transworld Shipping Lines Ltd announces its 38th AGM on 19th Aug 2026 via video conferencing.
 Annual Report includes sustainability, CSR, and operational excellence initiatives for stakeholder value.","Transworld Shipping Lines Ltd announces its 38th AGM on 19th Aug 2026 via video conferencing.
 Annual Report includes sustainability, CSR, and operational excellence initiatives for stakeholder value.",BSE,2026-07-24T17:36:16,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=283d1d21-fcb6-4c0a-8e94-de4468a1f8a0.pdf
+GSTK538476,Capital Trade Links,,919992.0,"Capital Trade Links Ltd announces its 41st AGM to discuss financial statements and director appointments.
+Shareholders urged to dematerialize holdings; e-voting details provided for AGM participation.","Capital Trade Links Ltd announces its 41st AGM to discuss financial statements and director appointments.
+Shareholders urged to dematerialize holdings; e-voting details provided for AGM participation.",BSE,2026-09-05T19:12:13,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c7c3eb84-135a-4a17-9b09-9880ad756e15.pdf
 GSTK538476,Capital Trade Links,,895219.0,"Capital Trade Links Ltd disclosed promoter's equity share purchase under SEBI PIT Regulation 7(2).
 Disclosure sent to BSE; Scrip Code: 538476, ISIN: INE172D01021, Scrip ID: CTL.","Capital Trade Links Ltd disclosed promoter's equity share purchase under SEBI PIT Regulation 7(2).
 Disclosure sent to BSE; Scrip Code: 538476, ISIN: INE172D01021, Scrip ID: CTL.",BSE,2026-08-26T18:35:20,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=bb71712d-c969-4a85-b07f-6ac6676655b7.pdf
@@ -50806,6 +50828,9 @@ Company Secretary to resign on 6 July 2026; firm remains debt-free, exploring ne
 GSTK500500,Hindustan Motors,,661852.0,"Hindustan Motors' board to meet on May 28, 2026, for audited results.
 Meeting to approve standalone financials for FY ending March 31, 2026.","Hindustan Motors' board to meet on May 28, 2026, for audited results.
 Meeting to approve standalone financials for FY ending March 31, 2026.",BSE,2026-05-19T16:43:42,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=672acb47-73b4-40ef-bf26-fb0c1a12f27c.pdf
+GSTK538537,Pipan Oils,,8.840589965063273e+17,"Pipan Oils approves Director’s report, AGM notice for FY 2025-26.
+Company announces preferential issue of 26.3M CCPS at Rs. 91/share.","Pipan Oils approves Director’s report, AGM notice for FY 2025-26.
+Company announces preferential issue of 26.3M CCPS at Rs. 91/share.",ScoutQuest,2026-09-05T18:24:49,https://sqst.in/HJpK5
 GSTK538537,Pipan Oils,,904713.0,"Pipan Oils Ltd's board approved appointments of secretarial and internal auditors for FY 2025-27.
 M/s Mayuri Sinha & Co and STM & Associates were recommended by the Audit Committee.","Pipan Oils Ltd's board approved appointments of secretarial and internal auditors for FY 2025-27.
 M/s Mayuri Sinha & Co and STM & Associates were recommended by the Audit Committee.",BSE,2026-09-01T13:50:46,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=166b03d7-28d9-4a9c-8860-5dfbd978867b.pdf
@@ -51015,6 +51040,9 @@ GSTK538961,Genus Paper & Boards,GENUSPAPER,658613.0,"Genus Paper & Boards Ltd's 
 Trading window remains closed till 48 hours post-results announcement as per SEBI regulations.","Genus Paper & Boards Ltd's board to meet on May 26, 2026, to review and approve audited financial results.
 Trading window remains closed till 48 hours post-results announcement as per SEBI regulations.",BSE,2026-05-18T17:43:41,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=60d93f2f-b529-4738-b558-c7539e3ec761.pdf
 GSTK526827,Spice Islands Industries,,,,,,,
+GSTK543962,DP Wires,DPWIRES,920027.0,"D.P. Wires Ltd announces its 28th AGM on Sept 30, 2026 to adopt financials, reappoint Arvind Kataria, and ratify cost auditor fees.
+E-voting opens Sept 27-29, 2026, facilitated by CDSL; shareholders advised to update email and mobile details with depositories.","D.P. Wires Ltd announces its 28th AGM on Sept 30, 2026 to adopt financials, reappoint Arvind Kataria, and ratify cost auditor fees.
+E-voting opens Sept 27-29, 2026, facilitated by CDSL; shareholders advised to update email and mobile details with depositories.",BSE,2026-09-05T19:20:48,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=3f6a8275-ccf8-499d-a59b-2d324ce14444.pdf
 GSTK543962,DP Wires,DPWIRES,4.727675981494716e+18,"Amitabh Bachchan bought 41,566 shares of D P Wires Ltd at ₹199.9 avg price.","Amitabh Bachchan bought 41,566 shares of D P Wires Ltd at ₹199.9 avg price.",NSE Bulk Trades,2026-06-23T21:00:25,https://www.nseindia.com/report-detail/display-bulk-and-block-deals
 GSTK500313,Oil Country Tubular,OILCOUNTUB,2608138219467.0,"Oil Country Tubular Ltd re-designates Paruchuri Dheeraj Chowdary as Whole-Time Director.
 The decision was made at the company's 40th AGM on August 12, 2026.","Oil Country Tubular Ltd re-designates Paruchuri Dheeraj Chowdary as Whole-Time Director.
@@ -51142,6 +51170,9 @@ Results include India's Gelatine Chemicals' financials; auditors found them comp
 GSTK526739,Narmada Gelatines,,26062732550033.0,"Nitta Gelatin and Narmada Gelatines excel in India's regulated gelatin niche, boasting high ROCE and debt-free profiles.
 Nitta has a 700% 5-year rally, PE of 16x; Narmada trades at 10x, offering value despite liquidity risks.","Nitta Gelatin and Narmada Gelatines excel in India's regulated gelatin niche, boasting high ROCE and debt-free profiles.
 Nitta has a 700% 5-year rally, PE of 16x; Narmada trades at 10x, offering value despite liquidity risks.",Financial Express,2026-06-26T05:30:00,https://www.financialexpress.com/market/stock-insights/2-high-roce-debt-free-microcaps-in-indias-protected-pharma-supply-chain/4277235/
+GSTK500890,Modi Rubber,MODIRUBBER,919614.0,"Modi Rubber's 53rd AGM is scheduled for Sep 30, 2026, via VC/OAVM to discuss financials and governance.
+Agenda includes reappointment of directors, altering object clause, and addressing BIFR scheme implementation issues.","Modi Rubber's 53rd AGM is scheduled for Sep 30, 2026, via VC/OAVM to discuss financials and governance.
+Agenda includes reappointment of directors, altering object clause, and addressing BIFR scheme implementation issues.",BSE,2026-09-05T17:28:07,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=97f45af7-5cf5-4415-adc9-afc0bdf554a3.pdf
 GSTK500890,Modi Rubber,MODIRUBBER,873827.0,"Modi Rubber Ltd's consolidated quarterly results show net profit of Rs. 424.7 lacs post-tax, with comprehensive income at Rs. 431.1 lacs.
 Standalone results reveal a net loss of Rs. 288.7 lacs, with total comprehensive income recorded at Rs. 85.69 lacs for June 2026.","Modi Rubber Ltd's consolidated quarterly results show net profit of Rs. 424.7 lacs post-tax, with comprehensive income at Rs. 431.1 lacs.
 Standalone results reveal a net loss of Rs. 288.7 lacs, with total comprehensive income recorded at Rs. 85.69 lacs for June 2026.",BSE,2026-08-14T16:19:26,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=99d3f9a5-01d7-4cb6-81e6-8ec0c88536c8.pdf
@@ -51471,6 +51502,9 @@ GSTK514175,Vardhman Polytex,VARDMNPOLY,8.325246202408859e+17,"Vardhman Polytex h
 Changes in Articles allow observers by debenture holders; NSE issues clarified.","Vardhman Polytex held EGM on Apr 16, 2026, approving Rs. 25 crore debenture issuance.
 Changes in Articles allow observers by debenture holders; NSE issues clarified.",ScoutQuest,2026-04-16T13:25:37,https://sqst.in/9YjvV
 GSTK507525,Amrit Corp.,,,,,,,
+GSTK532070,Gujjubhai Industries,,919699.0,"Gujjubhai Industries Ltd scheduled a board meeting on 7th Sep 2026 to discuss equity acquisition of Café Gujjubhai Pvt Ltd.
+The meeting will also address director appointments, auditor reappointments, AGM planning, and trading window closure per SEBI norms.","Gujjubhai Industries Ltd scheduled a board meeting on 7th Sep 2026 to discuss equity acquisition of Café Gujjubhai Pvt Ltd.
+The meeting will also address director appointments, auditor reappointments, AGM planning, and trading window closure per SEBI norms.",BSE,2026-09-05T17:51:19,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ecc2870e-ba49-4ec6-b647-00cbbfc95c01.pdf
 GSTK532070,Gujjubhai Industries,,860721.0,"Gujjubhai Industries Ltd announces MD Paresh Thakker's resignation effective August 10, 2026.
 Board meeting was held on August 11, 2026, concluding at 9:15 PM; details shared with BSE.","Gujjubhai Industries Ltd announces MD Paresh Thakker's resignation effective August 10, 2026.
 Board meeting was held on August 11, 2026, concluding at 9:15 PM; details shared with BSE.",BSE,2026-08-11T21:47:14,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=14b35a38-0f98-46cb-a32b-7f23be05dc9c.pdf
@@ -52780,6 +52814,9 @@ Audit opinion flagged loan defaults, unsettled guarantees, ongoing litigations, 
 GSTK533287,Zee Learn,ZEELEARN,8.304137767608497e+17,"Axis Bank's petition against Zee Learn Ltd withdrawn and dismissed by NCLT Mumbai.
 Related interim applications disposed; no ongoing litigation from this petition now.","Axis Bank's petition against Zee Learn Ltd withdrawn and dismissed by NCLT Mumbai.
 Related interim applications disposed; no ongoing litigation from this petition now.",ScoutQuest,2026-04-10T17:37:52,https://sqst.in/cTBoi
+GSTK503635,Shree Salasar Investments,,919682.0,"Shree Salasar Investments Ltd's board approved AGM on Sep 29, 2026 via VC/OAVM.
+Board accepted Mr. Nitin Jain's resignation, appointed auditors and Mr. Mishra as Independent Director.","Shree Salasar Investments Ltd's board approved AGM on Sep 29, 2026 via VC/OAVM.
+Board accepted Mr. Nitin Jain's resignation, appointed auditors and Mr. Mishra as Independent Director.",BSE,2026-09-05T17:48:22,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c8420e97-53d5-4166-8701-8b34e0f56268.pdf
 GSTK503635,Shree Salasar Investments,,849460.0,"Shree Salasar Investments Ltd's board meeting on Aug 14, 2026 to review Q1 FY26 financials.
 Meeting will address unaudited standalone & consolidated results, as per SEBI Regulation 29.","Shree Salasar Investments Ltd's board meeting on Aug 14, 2026 to review Q1 FY26 financials.
 Meeting will address unaudited standalone & consolidated results, as per SEBI Regulation 29.",BSE,2026-08-07T20:00:25,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=78e9453a-0f8f-4fd3-b08e-71d12580836d.pdf
@@ -52962,6 +52999,9 @@ Post-sale shareholding stands at 1.2Cr shares (2.02%) with Navratri Share Tradin
 GSTK511557,Pro Fin Capital Services,,652994.0,"Pro Fin Capital Services Ltd to hold board meeting on May 26, 2026.
 Meeting to approve audited financial results for Q4 and FY ending March 31, 2026.","Pro Fin Capital Services Ltd to hold board meeting on May 26, 2026.
 Meeting to approve audited financial results for Q4 and FY ending March 31, 2026.",BSE,2026-05-15T17:41:11,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=4947f2f2-079f-4fd3-ba62-94ba563ddd3d.pdf
+GSTK500223,J C T,JCT,919809.0,"JCT Ltd's 16th CoC meeting is scheduled for 7th Sept 2026 via video conferencing.
+Intimation sent to BSE under SEBI (LODR) regulations by Resolution Professional.","JCT Ltd's 16th CoC meeting is scheduled for 7th Sept 2026 via video conferencing.
+Intimation sent to BSE under SEBI (LODR) regulations by Resolution Professional.",BSE,2026-09-05T18:18:43,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=cfb006cb-ec36-4e45-a7c8-102fc3297aea.pdf
 GSTK500223,J C T,JCT,839667.0,"JCT Ltd's 15th Committee of Creditors meeting is scheduled for August 7, 2026, via video conferencing.
 The meeting is under CIRP, as informed by Resolution Professional Umesh Garg to BSE.","JCT Ltd's 15th Committee of Creditors meeting is scheduled for August 7, 2026, via video conferencing.
 The meeting is under CIRP, as informed by Resolution Professional Umesh Garg to BSE.",BSE,2026-08-05T17:40:54,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=fa4e48b5-b3e9-4b5d-968f-2ecd5ad1e5a9.pdf
@@ -55023,6 +55063,9 @@ The corrigendum details revised utilization of Rs. 36.9 Cr proceeds for capital,
 GSTK526604,Lippi Systems,,8.498343412699228e+17,"Lippi Systems announces open offer to acquire 33.82L shares at ₹56.84/share.
 Offer runs from Jul 10-23, 2026; acquirers are new to the company's sector.","Lippi Systems announces open offer to acquire 33.82L shares at ₹56.84/share.
 Offer runs from Jul 10-23, 2026; acquirers are new to the company's sector.",ScoutQuest,2026-06-03T07:48:16,https://sqst.in/iFzRz
+GSTK506180,Emergent Industrial Solutions,,919657.0,"Emergent Industrial Solutions Ltd announces its 43rd AGM on Sept 30, 2026.
+Book closure is from Sept 24-30, 2026, with e-voting via NSDL from Sept 27-29.","Emergent Industrial Solutions Ltd announces its 43rd AGM on Sept 30, 2026.
+Book closure is from Sept 24-30, 2026, with e-voting via NSDL from Sept 27-29.",BSE,2026-09-05T17:40:38,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=9d6e5d6e-4344-4124-8026-acf3a937cbb1.pdf
 GSTK506180,Emergent Industrial Solutions,,896950.0,"Emergent Industrial Solutions plans a board meeting on Sep 1, 2026 to finalize AGM details.
 Agenda includes Board Report approval, AGM Notice, book closure period, and other AGM-related matters.","Emergent Industrial Solutions plans a board meeting on Sep 1, 2026 to finalize AGM details.
 Agenda includes Board Report approval, AGM Notice, book closure period, and other AGM-related matters.",BSE,2026-08-27T16:22:19,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=3d950f0a-b396-4870-a619-dd6f6106ac23.pdf
@@ -56120,6 +56163,9 @@ Post-acquisition, Mr. Patel's shareholding in Loyal Equipments rose to 70.29% fr
 GSTK539227,Loyal Equipments,,645444.0,"Loyal Equipments Ltd reported audited financial results for Q4 and FY26, showing revenue of ₹3,048.6 lakh for Q4 and ₹7,897.8 lakh for FY26.
 Net profit for FY26 stood at ₹673.4 lakh, with an unmodified audit report submitted per SEBI Regulation 33 compliance.","Loyal Equipments Ltd reported audited financial results for Q4 and FY26, showing revenue of ₹3,048.6 lakh for Q4 and ₹7,897.8 lakh for FY26.
 Net profit for FY26 stood at ₹673.4 lakh, with an unmodified audit report submitted per SEBI Regulation 33 compliance.",BSE,2026-05-13T18:25:35,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c7a06a5a-4f08-422d-b793-6370fff9d0a5.pdf
+GSTK517562,Trigyn Technologies,TRIGYN,919561.0,"Trigyn Technologies to hold its 40th AGM on Sep 30, 2026, via VC/OAVM.
+Key agenda includes financial statement adoption, director re-appointments, and e-voting details.","Trigyn Technologies to hold its 40th AGM on Sep 30, 2026, via VC/OAVM.
+Key agenda includes financial statement adoption, director re-appointments, and e-voting details.",BSE,2026-09-05T17:16:30,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a9d40de2-34dc-4b08-8957-b5c177fb32b9.pdf
 GSTK517562,Trigyn Technologies,TRIGYN,860509.0,"Trigyn Technologies Ltd approved unaudited financial results for Q1 FY27, reporting Rs. 25,705.7 lakh revenue and Rs. 612.2 lakh profit.
 Board appointed Mr. Narendra Bhandari as Independent Director for five years, subject to shareholder approval at AGM.","Trigyn Technologies Ltd approved unaudited financial results for Q1 FY27, reporting Rs. 25,705.7 lakh revenue and Rs. 612.2 lakh profit.
 Board appointed Mr. Narendra Bhandari as Independent Director for five years, subject to shareholder approval at AGM.",BSE,2026-08-11T20:39:17,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a9b2be41-18a8-4263-886b-4c8731e6ff01.pdf
@@ -56277,6 +56323,9 @@ Company acquires Mandideep unit for Rs 29.98 Cr; shareholding remains unchanged.
 GSTK524218,Resonance Specialties,,8.623110498050798e+17,"Resonance Specialties sets record date for July 28, 2026, proposing Re. 1/share dividend.
 Dividend payable by Aug 28, 2026, subject to AGM approval.","Resonance Specialties sets record date for July 28, 2026, proposing Re. 1/share dividend.
 Dividend payable by Aug 28, 2026, subject to AGM approval.",ScoutQuest,2026-07-07T18:06:15,https://sqst.in/pK1gT
+GSTK543958,VL E-Governance & IT Solutions,VLEGOV,919642.0,"Dr. Nishikant Kishanrao Hayatnagarkar resigns as Chairman & Executive Director of VL E-Governance & IT Solutions Ltd.
+Resignation effective from 5th Sept 2026, citing personal reasons; no other material reasons reported.","Dr. Nishikant Kishanrao Hayatnagarkar resigns as Chairman & Executive Director of VL E-Governance & IT Solutions Ltd.
+Resignation effective from 5th Sept 2026, citing personal reasons; no other material reasons reported.",BSE,2026-09-05T17:36:18,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=fec6fae1-7cf5-4be0-91c1-cc423a31801d.pdf
 GSTK543958,VL E-Governance & IT Solutions,VLEGOV,8.746288559606281e+17,"VL E-Governance reported Q1 FY26 revenue drop 45% QoQ to ₹64.9 lakh.
 Signed MoU as EPC partner for ₹800 crore Sankalp Smart City project.","VL E-Governance reported Q1 FY26 revenue drop 45% QoQ to ₹64.9 lakh.
 Signed MoU as EPC partner for ₹800 crore Sankalp Smart City project.",ScoutQuest,2026-08-10T17:52:49,https://sqst.in/HS0z8
@@ -57085,6 +57134,9 @@ EBITDA stood at ₹1.33 Cr with a 2.3% margin; PAT surged 1,056% YoY to ₹4.98 
 GSTK524654,Natural Capsules,NATCAPSUQ,8.475049192720891e+17,"Natural Capsules' subsidiary approved a rights issue of 1.11 crore shares at ₹10 each.
 Total funds raised amount to ₹1.11 crore; communication sent to stock exchanges.","Natural Capsules' subsidiary approved a rights issue of 1.11 crore shares at ₹10 each.
 Total funds raised amount to ₹1.11 crore; communication sent to stock exchanges.",ScoutQuest,2026-05-27T21:31:58,https://sqst.in/UDmxa
+GSTK531997,Ikoma Technologies,,919927.0,"Ikoma Technologies Ltd announces 32nd AGM via VC/OAVM on 30th Sept 2026 at 3:30 PM IST.
+AGM includes audited financial statements, re-appointments, managerial remuneration changes, and withdrawal of preferential issue.","Ikoma Technologies Ltd announces 32nd AGM via VC/OAVM on 30th Sept 2026 at 3:30 PM IST.
+AGM includes audited financial statements, re-appointments, managerial remuneration changes, and withdrawal of preferential issue.",BSE,2026-09-05T18:51:35,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c0d44f17-a5f1-4eff-922d-5308d7c18001.pdf
 GSTK531997,Ikoma Technologies,,874190.0,"Ikoma Technologies' board approved Q1 FY26 unaudited financials, reporting ₹3.47 lakh profit vs ₹7.56 lakh loss QoQ.
 Multiple director re-appointments, managerial remuneration hike, and AGM notice were also finalized.","Ikoma Technologies' board approved Q1 FY26 unaudited financials, reporting ₹3.47 lakh profit vs ₹7.56 lakh loss QoQ.
 Multiple director re-appointments, managerial remuneration hike, and AGM notice were also finalized.",BSE,2026-08-14T16:53:52,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8f65483e-5f2c-466c-9751-eca9fd143c70.pdf
@@ -58012,6 +58064,9 @@ This shift enables scaling with lower capital needs, supported by tech-driven gr
 GSTK533181,Intrasoft Technologies,ISFT,672729.0,"IntraSoft Technologies' board to review audited financial results for FY ending Mar 31, 2026, on May 27, 2026.
 Trading window remains closed for employees and designated persons until May 30, 2026.","IntraSoft Technologies' board to review audited financial results for FY ending Mar 31, 2026, on May 27, 2026.
 Trading window remains closed for employees and designated persons until May 30, 2026.",BSE,2026-05-22T14:02:54,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=232bd1a4-5ed6-41c2-b96a-ae389b0081c6.pdf
+GSTK539661,ACE men engg works,,8.840599402331148e+17,"Ace Men Engg Works reappoints Ruchir Patel as director; adds two independent directors.
+New statutory auditor appointed for 5 years; AGM notice and annual report finalized.","Ace Men Engg Works reappoints Ruchir Patel as director; adds two independent directors.
+New statutory auditor appointed for 5 years; AGM notice and annual report finalized.",ScoutQuest,2026-09-05T18:28:34,https://sqst.in/ftpTM
 GSTK539661,ACE men engg works,,910549.0,"Ace Men Engg Works announces board meeting on Sep 5, 2025.
 Agenda includes approval of Annual Report, AGM notice, and Scrutinizer.","Ace Men Engg Works announces board meeting on Sep 5, 2025.
 Agenda includes approval of Annual Report, AGM notice, and Scrutinizer.",BSE,2026-09-02T17:20:56,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=4012539b-1d4f-45f8-993d-4a70e9792e83.pdf
@@ -58737,6 +58792,9 @@ EBITDA at ₹14.1 crore with margins at 8.7%; PAT fell 55.5% YoY to ₹3.7 crore
 GSTK526861,Rishi Laser,,678077.0,"Rishi Laser Ltd's board to meet on 28th May 2026 to approve FY26 financial results.
 Trading window remains closed from 1st April 2026 till 48 hours post results announcement.","Rishi Laser Ltd's board to meet on 28th May 2026 to approve FY26 financial results.
 Trading window remains closed from 1st April 2026 till 48 hours post results announcement.",BSE,2026-05-25T09:42:29,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=58d21bf1-332a-457c-8a5b-1a7a947cb642.pdf
+GSTK532959,Gammon Infrastructure Projects,AJRINFRA,919736.0,"AJR Infra and Tolling Ltd announces its 25th AGM via VC/OAVM on 29th Sept 2026 at 3:30 PM IST.
+Agenda includes adopting FY26 financials, reappointing Mr. Subhrarabinda Birabar as director, and facilitating e-voting via CDSL.","AJR Infra and Tolling Ltd announces its 25th AGM via VC/OAVM on 29th Sept 2026 at 3:30 PM IST.
+Agenda includes adopting FY26 financials, reappointing Mr. Subhrarabinda Birabar as director, and facilitating e-voting via CDSL.",BSE,2026-09-05T18:00:44,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f7c16da1-0fb5-411a-8de4-9838fab7ae74.pdf
 GSTK532959,Gammon Infrastructure Projects,AJRINFRA,855175.0,"AJR Infra's board meeting to approve Q1 FY27 results on Aug 13, 2026.
 Trading window to remain closed until 48 hrs post financial results declaration.","AJR Infra's board meeting to approve Q1 FY27 results on Aug 13, 2026.
 Trading window to remain closed until 48 hrs post financial results declaration.",BSE,2026-08-10T18:18:23,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=636915a0-090d-4f58-80f6-6c2d4b5df23a.pdf
@@ -59285,6 +59343,9 @@ Resolutions on financials, director reappointment, and cost auditor fees were ap
 GSTK532806,Ai Champdany Industries,,679133.0,"AI Champdany Industries schedules board meeting on May 30, 2026, to approve Q4 and FY26 results.
 Trading window remains closed until 48 hours post-results, per SEBI insider trading rules.","AI Champdany Industries schedules board meeting on May 30, 2026, to approve Q4 and FY26 results.
 Trading window remains closed until 48 hours post-results, per SEBI insider trading rules.",BSE,2026-05-25T15:01:26,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f090fb90-53cb-47bc-8b1b-385baf04f435.pdf
+GSTK542057,BCPL Railway Infrastructure,BCPL,8.840582457217178e+17,"BCPL Railway Infrastructure Ltd is the lowest bidder for Eastern Railway tender.
+The Rs 37.36 cr project involves replacing structures on Waria-Raniganj section.","BCPL Railway Infrastructure Ltd is the lowest bidder for Eastern Railway tender.
+The Rs 37.36 cr project involves replacing structures on Waria-Raniganj section.",ScoutQuest,2026-09-05T18:21:50,https://sqst.in/2nPxh
 GSTK542057,BCPL Railway Infrastructure,BCPL,888077.0,"BCPL Railway Infrastructure Ltd held its 30th AGM on 21 Aug 2026 via VC/OAVM, discussing financial performance and resolutions.
 Key resolutions included approval of audited financials, dividend declaration, reappointments, and related party transactions.","BCPL Railway Infrastructure Ltd held its 30th AGM on 21 Aug 2026 via VC/OAVM, discussing financial performance and resolutions.
 Key resolutions included approval of audited financials, dividend declaration, reappointments, and related party transactions.",BSE,2026-08-21T19:14:21,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=02065805-dc88-4861-a48b-b3a39febb521.pdf
@@ -59312,7 +59373,6 @@ The 18-month project involves replacing 25 KV overhead equipment, aiding electri
 GSTK542057,BCPL Railway Infrastructure,BCPL,8.44563417158177e+17,"BCPL Railway's standalone revenue fell 36.8% YoY to ₹8575.8L in FY26, while consolidated revenue rose 30% YoY to ₹21352L.
 Rail segment faced delays but profitability improved; rice bran oil plant operated at 50% capacity and turned profitable.","BCPL Railway's standalone revenue fell 36.8% YoY to ₹8575.8L in FY26, while consolidated revenue rose 30% YoY to ₹21352L.
 Rail segment faced delays but profitability improved; rice bran oil plant operated at 50% capacity and turned profitable.",ScoutQuest,2026-05-19T18:43:29,https://sqst.in/WF1Dm
-GSTK542057,BCPL Railway Infrastructure,BCPL,2605121519583.0,BCPL Railway Infrastructure schedules board meeting for quarterly results on 19 May 2026.,BCPL Railway Infrastructure schedules board meeting for quarterly results on 19 May 2026.,Capital Market,2026-05-12T06:30:00,https://www.capitalmarket.com/markets/news/corporate-news/bcpl-railway-infrastructure-to-announce-quarterly-result/1691991
 GSTK543671,AAA Technologies,AAATECH,8.833310420782081e+17,"AAA Technologies Ltd MD resigned following ownership change via SPA.
 Independent Director resigned; new directors appointed; board committees restructured.","AAA Technologies Ltd MD resigned following ownership change via SPA.
 Independent Director resigned; new directors appointed; board committees restructured.",ScoutQuest,2026-09-03T18:12:11,https://sqst.in/rh6Op
@@ -59705,6 +59765,9 @@ The company denies the claim, is legally reviewing it, and disclosed due to mate
 GSTK500058,Bihar Sponge Iron,,8.318355115991208e+17,"Bihar Sponge Iron Ltd received demand notice for Rs. 16.9 cr unpaid debt.
 Company denies the claim and is undertaking legal review and steps.","Bihar Sponge Iron Ltd received demand notice for Rs. 16.9 cr unpaid debt.
 Company denies the claim and is undertaking legal review and steps.",ScoutQuest,2026-04-14T15:47:20,https://sqst.in/jA0k6
+GSTK538875,Sellwin Traders,,8.84077405306583e+17,"Sellwin Traders' deal with Global Market Insights ended due to commercial non-viability.
+No funds were invested; MOU expired after 6 months without agreement.","Sellwin Traders' deal with Global Market Insights ended due to commercial non-viability.
+No funds were invested; MOU expired after 6 months without agreement.",ScoutQuest,2026-09-05T19:37:58,https://sqst.in/Bv4is
 GSTK538875,Sellwin Traders,,914173.0,"Sellwin Traders Ltd's 46th AGM via video conferencing on 29 Sep 2026 at 3 PM.
 AGM to cover audited financials, director reappointment, and statutory auditor appointment.","Sellwin Traders Ltd's 46th AGM via video conferencing on 29 Sep 2026 at 3 PM.
 AGM to cover audited financials, director reappointment, and statutory auditor appointment.",BSE,2026-09-03T19:55:18,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=5a15a880-b653-42a3-95a2-01cfce3591c2.pdf
@@ -59899,6 +59962,9 @@ Board reappointed Shah & Shah Patel as internal auditors for FY27; consolidated 
 GSTK512277,Autoriders International,,649542.0,"Autoriders International Ltd's board meeting is scheduled for 21st May 2026 to approve FY26 audited results.
 Trading window closure applies from 1st April 2026 till results declaration per SEBI insider trading regulations.","Autoriders International Ltd's board meeting is scheduled for 21st May 2026 to approve FY26 audited results.
 Trading window closure applies from 1st April 2026 till results declaration per SEBI insider trading regulations.",BSE,2026-05-14T19:09:18,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=9355c47c-54ba-433e-80dd-8d2d48759626.pdf
+GSTK530045,Titan Securities,,919762.0,"Titan Securities Ltd announces its 34th AGM on Sep 29, 2026, at 5 PM via VC/OAVM.
+Annual Report and AGM Notice for FY 2025-26 available at www.titansecuritieslimited.com.","Titan Securities Ltd announces its 34th AGM on Sep 29, 2026, at 5 PM via VC/OAVM.
+Annual Report and AGM Notice for FY 2025-26 available at www.titansecuritieslimited.com.",BSE,2026-09-05T18:04:45,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=0bf97043-29f9-4574-a93c-33aa4234c1e7.pdf
 GSTK530045,Titan Securities,,869649.0,"Titan Securities appoints Mr. Ranjeet Kumar as CFO effective 13th Aug 2026.
 Mr. Kumar has 15+ years in accounts, taxation, and financial management.","Titan Securities appoints Mr. Ranjeet Kumar as CFO effective 13th Aug 2026.
 Mr. Kumar has 15+ years in accounts, taxation, and financial management.",BSE,2026-08-13T17:39:14,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=786f32d1-6984-4fa8-9b0a-18b65536229f.pdf
@@ -60394,6 +60460,9 @@ Agenda includes adopting audited financial statements for quarter and year endin
 GSTK526638,Texel Industries,,8.303775253997679e+17,"Texel Industries converts 1,96,078 warrants to equity shares at Rs 38.25/share.
 Promoter shareholding rises from 1.76% to 3.18%; equity capital grows to Rs 13.57 crore.","Texel Industries converts 1,96,078 warrants to equity shares at Rs 38.25/share.
 Promoter shareholding rises from 1.76% to 3.18%; equity capital grows to Rs 13.57 crore.",ScoutQuest,2026-04-10T15:13:49,https://sqst.in/n6Mpi
+GSTK509051,Indian Infotech & Software,,919698.0,"Indian Infotech & Software Ltd's board approved key changes, including appointing Heneel Shah as Internal Auditor for 2026-29.
+Other approvals include new statutory auditors, director appointments, increased borrowing/investment limits, and AGM-related decisions.","Indian Infotech & Software Ltd's board approved key changes, including appointing Heneel Shah as Internal Auditor for 2026-29.
+Other approvals include new statutory auditors, director appointments, increased borrowing/investment limits, and AGM-related decisions.",BSE,2026-09-05T17:50:48,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=1bb70788-8029-4391-b5df-e560658846b1.pdf
 GSTK509051,Indian Infotech & Software,,896726.0,"Indian Infotech & Software Ltd schedules board meeting on 03rd Sep 2026.
 Agenda includes auditor appointments, Rs. 500 crore investment limit, RPTs, and AGM preparations.","Indian Infotech & Software Ltd schedules board meeting on 03rd Sep 2026.
 Agenda includes auditor appointments, Rs. 500 crore investment limit, RPTs, and AGM preparations.",BSE,2026-08-27T15:02:33,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=16a3ac02-3cc5-49ff-a868-14dc5353e2f8.pdf
@@ -60776,6 +60845,9 @@ Meeting will be held at Ahmedabad office; other matters may be discussed with Ch
 GSTK511200,Munoth Capital Market,,658643.0,"Munoth Capital Markets Ltd schedules board meeting on 29th May 2026 to review audited financial results.
 The meeting will also discuss other matters with Chairperson's permission at the registered office in Ahmedabad.","Munoth Capital Markets Ltd schedules board meeting on 29th May 2026 to review audited financial results.
 The meeting will also discuss other matters with Chairperson's permission at the registered office in Ahmedabad.",BSE,2026-05-18T17:48:25,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=1a8d5e30-b042-4451-a512-abdb5d0fc400.pdf
+GSTK511700,Standard Capital Markets,,919825.0,"Mr. Ram Gopal Jindal resigns as MD of Standard Capital Markets Ltd due to health reasons, effective 29th Sep 2026.
+He will continue as Executive Director from 30th Sep 2026, with no cessation of his directorship.","Mr. Ram Gopal Jindal resigns as MD of Standard Capital Markets Ltd due to health reasons, effective 29th Sep 2026.
+He will continue as Executive Director from 30th Sep 2026, with no cessation of his directorship.",BSE,2026-09-05T18:22:04,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7daa7dde-9d59-4e8d-8f9c-c4ff983b5d61.pdf
 GSTK511700,Standard Capital Markets,,886336.0,"Standard Capital Markets Ltd gets NCLT approval for Ojas Tradelease resolution plan.
 Approval under SEBI Regulation 30 marks key milestone in CIRP activities.","Standard Capital Markets Ltd gets NCLT approval for Ojas Tradelease resolution plan.
 Approval under SEBI Regulation 30 marks key milestone in CIRP activities.",BSE,2026-08-20T23:32:05,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=73102f7d-384f-42f3-b032-57d422ef0575.pdf
@@ -61147,6 +61219,12 @@ Company's loans of Rs. 59,799.65 lakhs classified as NPAs; material uncertainty 
 GSTK534064,Alliance Integrated Metaliks,,664921.0,"Alliance Integrated Metaliks Ltd schedules board meeting on May 26, 2026, to review and approve audited financial results.
 Trading window remains closed for insiders until 48 hours post result declaration as per SEBI regulations.","Alliance Integrated Metaliks Ltd schedules board meeting on May 26, 2026, to review and approve audited financial results.
 Trading window remains closed for insiders until 48 hours post result declaration as per SEBI regulations.",BSE,2026-05-20T14:53:38,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=9dfe0cf3-9f25-4838-9a95-2c2edc32b797.pdf
+GSTK506186,Galaxy Supermarket,,8.840774178936891e+17,"NCLT dismissed NuFuture Digital's case against Galaxy Supermarket Ltd on 4th Sep 2026.
+The case involved alleged preferential repayment; no litigation against key management reported.","NCLT dismissed NuFuture Digital's case against Galaxy Supermarket Ltd on 4th Sep 2026.
+The case involved alleged preferential repayment; no litigation against key management reported.",ScoutQuest,2026-09-05T19:38:01,https://sqst.in/pnqfm
+GSTK506186,Galaxy Supermarket,,8.840762854316108e+17,"Galaxy Supermarket faces Rs. 51.19 Cr tax dues for FY 2008-11; bank accounts attached.
+Company was unaware of recent communication and plans to take legal steps.","Galaxy Supermarket faces Rs. 51.19 Cr tax dues for FY 2008-11; bank accounts attached.
+Company was unaware of recent communication and plans to take legal steps.",ScoutQuest,2026-09-05T19:33:31,https://sqst.in/eYosW
 GSTK506186,Galaxy Supermarket,,8.456633054369175e+17,"Galaxy Supermarket Ltd reports FY26 net profit of 85.1L from continuing ops, 167.3L overall.
 Board committees restructured due to director changes; audit report includes emphasis of matter.","Galaxy Supermarket Ltd reports FY26 net profit of 85.1L from continuing ops, 167.3L overall.
 Board committees restructured due to director changes; audit report includes emphasis of matter.",ScoutQuest,2026-05-22T19:34:03,https://sqst.in/UjfTL
@@ -61867,6 +61945,9 @@ GSTK526137,Shetron,,606769.0,"Shetron Ltd's Board meeting on 2nd May 2026 will c
 Trading window remains closed until 4th May 2026 as per SEBI Insider Trading Regulations.","Shetron Ltd's Board meeting on 2nd May 2026 will consider final dividend and approve audited FY26 results.
 Trading window remains closed until 4th May 2026 as per SEBI Insider Trading Regulations.",BSE,2026-04-28T14:58:21,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7b3d9c7d-0e9b-42c2-87b9-fe8fc94ff85c.pdf
 GSTK532646,Uniply Industries,UNIPLY,,,,,,
+GSTK540654,Globalspace Technologies,,919845.0,"Globalspace Technologies announces its 16th AGM on Sep 29, 2026 via video conferencing.
+Key agenda includes adopting FY 2025-26 financials, director appointments, and related party transaction approvals.","Globalspace Technologies announces its 16th AGM on Sep 29, 2026 via video conferencing.
+Key agenda includes adopting FY 2025-26 financials, director appointments, and related party transaction approvals.",BSE,2026-09-05T18:27:50,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=37344660-9c90-4bd3-8dbd-93a59b7a4eb5.pdf
 GSTK540654,Globalspace Technologies,,2608159611290.0,"Globalspace Technologies' Q1 FY26 net profit surged 337.5% to Rs 0.7 crore.
 Revenue rose 66.7% YoY to Rs 14.64 crore compared to Rs 0.16 crore last year.","Globalspace Technologies' Q1 FY26 net profit surged 337.5% to Rs 0.7 crore.
 Revenue rose 66.7% YoY to Rs 14.64 crore compared to Rs 0.16 crore last year.",Business Standard,2026-08-15T11:16:38,https://www.business-standard.com/amp/markets/capital-market-news/globalspace-technologies-consolidated-net-profit-rises-337-50-in-the-june-2026-quarter-126081500766_1.html
@@ -62204,6 +62285,9 @@ EPS increased to Rs 10.84 from Rs 4.60 YoY; shares closed at Rs 176.95, yielding
 GSTK517238,Dynavision,,8.427760122159062e+17,"Dynavision Ltd's subsidiary to expand 450 kW solar capacity, with Apollo Hospitals as power buyer.
 Expansion funded via internal accruals and external debt; corporate guarantee approved for subsidiary's loan.","Dynavision Ltd's subsidiary to expand 450 kW solar capacity, with Apollo Hospitals as power buyer.
 Expansion funded via internal accruals and external debt; corporate guarantee approved for subsidiary's loan.",ScoutQuest,2026-05-14T20:20:59,https://sqst.in/y5EZG
+GSTK544598,Accuracy Shipping,ACCURACY,919959.0,"Accuracy Shipping Ltd announced its 18th AGM scheduled for 30th Sept 2026 via video conferencing.
+The company reported FY26 revenue of ₹6705.75 mn and net profit of ₹39.4 mn amidst global trade challenges.","Accuracy Shipping Ltd announced its 18th AGM scheduled for 30th Sept 2026 via video conferencing.
+The company reported FY26 revenue of ₹6705.75 mn and net profit of ₹39.4 mn amidst global trade challenges.",BSE,2026-09-05T19:01:52,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8b954731-08dc-4694-a745-4dff185b81ea.pdf
 GSTK544598,Accuracy Shipping,ACCURACY,870759.0,"Accuracy Shipping Ltd's board approved Q1 FY26 unaudited financial results and appointed Ms. Astha Dhanotiya as an independent director.
 Standalone Q1 revenue was ₹1,373.6 mn, net profit ₹5.6 mn; consolidated revenue ₹1,410.9 mn, net profit ₹3.4 mn.","Accuracy Shipping Ltd's board approved Q1 FY26 unaudited financial results and appointed Ms. Astha Dhanotiya as an independent director.
 Standalone Q1 revenue was ₹1,373.6 mn, net profit ₹5.6 mn; consolidated revenue ₹1,410.9 mn, net profit ₹3.4 mn.",BSE,2026-08-13T19:24:29,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c9278b1e-f0f6-4ae4-a0a9-eee452e6ff50.pdf
@@ -63025,6 +63109,9 @@ Rescheduled for July 1, 2026; company under CIRP, Resolution Plan filed with NCL
 GSTK519307,Vikas WSP,VIKASWSP,661717.0,"Vikas WSP Ltd board meeting on May 28, 2026, to approve audited financial results for FY ending March 31, 2026.
 Company is under CIRP since Feb 2, 2022; managed by Interim Resolution Professional Darshan Singh Anand.","Vikas WSP Ltd board meeting on May 28, 2026, to approve audited financial results for FY ending March 31, 2026.
 Company is under CIRP since Feb 2, 2022; managed by Interim Resolution Professional Darshan Singh Anand.",BSE,2026-05-19T16:18:21,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f75654f3-ffbc-43f2-b46f-0af437f1a2fa.pdf
+GSTK540590,Riddhi Corporate Services,,919778.0,"Riddhi Corporate Services Ltd reappoints Pravinchandra Kodarlal Gor and Alpit Pravinchandra Gor as Directors effective 01-02-2027.
+Both directors possess over 10 years of experience; Pravinchandra is a promoter, and Alpit is his son.","Riddhi Corporate Services Ltd reappoints Pravinchandra Kodarlal Gor and Alpit Pravinchandra Gor as Directors effective 01-02-2027.
+Both directors possess over 10 years of experience; Pravinchandra is a promoter, and Alpit is his son.",BSE,2026-09-05T18:09:16,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=666d2fc1-7d73-4a3f-befd-f8740db37a9f.pdf
 GSTK540590,Riddhi Corporate Services,,593815.0,"Riddhi Corporate Services Ltd announces resignation of statutory auditor M/s Nitin K Shah & Co.
 Resignation cited in letter dated April 21, 2026; no reasons beyond those stated in the letter.","Riddhi Corporate Services Ltd announces resignation of statutory auditor M/s Nitin K Shah & Co.
 Resignation cited in letter dated April 21, 2026; no reasons beyond those stated in the letter.",BSE,2026-04-22T15:59:54,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=4df97698-69c0-4338-8235-8f4f2fba653b.pdf
@@ -63691,6 +63778,9 @@ All resolutions, including the appointment of a Secretarial Auditor, were passed
 GSTK514034,JBF Industries,JBFIND,629442.0,"JBF Industries Ltd to review and approve audited financial results for Q4 and FY ending 31st March 2026 on 19th May.
 The company, under insolvency resolution, complies with SEBI regulations and informed BSE and NSE accordingly.","JBF Industries Ltd to review and approve audited financial results for Q4 and FY ending 31st March 2026 on 19th May.
 The company, under insolvency resolution, complies with SEBI regulations and informed BSE and NSE accordingly.",BSE,2026-05-07T14:39:00,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ec53dc45-274e-4db4-85d7-1f54e8944d58.pdf
+GSTK517170,Edvenswa Enterprises,,919967.0,"Edvenswa Enterprises scheduled its 45th AGM on Sep 29, 2026, via VC/OVAM.
+E-voting cut-off set for Sep 22, 2026; register closure from Sep 22-29, 2026.","Edvenswa Enterprises scheduled its 45th AGM on Sep 29, 2026, via VC/OVAM.
+E-voting cut-off set for Sep 22, 2026; register closure from Sep 22-29, 2026.",BSE,2026-09-05T19:04:31,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=9f6c434b-bf14-4308-b69b-43a17fdafe79.pdf
 GSTK517170,Edvenswa Enterprises,,8.7253042207492e+17,"Edvenswa Enterprises reports Q1 FY26 revenue of ₹3649.2L, PBT of ₹50.9L.
 Mr. Krishna Mohan Adalath appointed CEO effective Aug 4, 2026.","Edvenswa Enterprises reports Q1 FY26 revenue of ₹3649.2L, PBT of ₹50.9L.
 Mr. Krishna Mohan Adalath appointed CEO effective Aug 4, 2026.",ScoutQuest,2026-08-04T22:54:23,https://sqst.in/ZX07A
@@ -64039,6 +64129,9 @@ Shares were issued to Bon Lon Securities Ltd. and Harshit Finvest Pvt. Ltd., bot
 GSTK543211,Bonlon Industries,BONLON,26060115350713.0,"Bonlon Industries reports flat Q4 FY26 results, stabilizing from prior negative trends.
 Net sales stand at 100.6 cr; stock gains modestly by 1.35 on June 1, 2026.","Bonlon Industries reports flat Q4 FY26 results, stabilizing from prior negative trends.
 Net sales stand at 100.6 cr; stock gains modestly by 1.35 on June 1, 2026.",Marketsmojo,2026-06-01T11:01:50,https://www.marketsmojo.com/news/stocks-in-action/bonlon-industries-ltd-reports-flat-quarterly-performance-amidst-market-volatility-4026486
+GSTK544185,Adtech Systems,,919528.0,"Adtech Systems Ltd announces record date for 35th AGM dividend as 24th Sep 2026.
+Book closure set from 25th-30th Sep 2026; Rs 1.10/share dividend proposed.","Adtech Systems Ltd announces record date for 35th AGM dividend as 24th Sep 2026.
+Book closure set from 25th-30th Sep 2026; Rs 1.10/share dividend proposed.",BSE,2026-09-05T17:10:06,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=55cb5d9d-46c3-4913-b9a5-97be3b97f03b.pdf
 GSTK544185,Adtech Systems,,872814.0,"Adtech Systems reappoints M.R. Subramonian as MD and M.R. Krishnan as ED for 3 years from Sept 2026.
 Both reappointments are subject to shareholder approval at the 35th AGM; disclosures available on company website.","Adtech Systems reappoints M.R. Subramonian as MD and M.R. Krishnan as ED for 3 years from Sept 2026.
 Both reappointments are subject to shareholder approval at the 35th AGM; disclosures available on company website.",BSE,2026-08-14T13:41:29,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=3b4f4a3f-13d8-40e2-bff9-84f7aa89fc88.pdf
@@ -65408,6 +65501,9 @@ Trading window remains closed from April 1 to June 1, 2026, as per compliance no
 GSTK539217,Srestha Finvest,,8.314198896355425e+17,"Srestha Finvest allots 11.75 crore equity shares at Rs.1.05 each by converting warrants.
 Warrant holders paid Rs.9.25 crore; new shares equal in rights and dividends.","Srestha Finvest allots 11.75 crore equity shares at Rs.1.05 each by converting warrants.
 Warrant holders paid Rs.9.25 crore; new shares equal in rights and dividends.",ScoutQuest,2026-04-13T12:15:48,https://sqst.in/yYcBK
+GSTK522231,Conart Engineers,,919859.0,"Conart Engineers Ltd will hold its 52nd AGM on 29th Sep 2026 at 2:30 PM via video conference.
+AGM notice and annual report for FY 2025-26 were sent electronically and are available on the company's website.","Conart Engineers Ltd will hold its 52nd AGM on 29th Sep 2026 at 2:30 PM via video conference.
+AGM notice and annual report for FY 2025-26 were sent electronically and are available on the company's website.",BSE,2026-09-05T18:31:31,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b79cc38c-62cc-42c1-845c-62401a66c273.pdf
 GSTK522231,Conart Engineers,,8.750026187744827e+17,"Conart Engineers Q1 FY27 results: Income Rs 2027 lakh, PAT Rs 70 lakh.
 EPS Rs 1.12/share; Gandhali Paluskar appointed as CS & Compliance Officer.","Conart Engineers Q1 FY27 results: Income Rs 2027 lakh, PAT Rs 70 lakh.
 EPS Rs 1.12/share; Gandhali Paluskar appointed as CS & Compliance Officer.",ScoutQuest,2026-08-11T18:38:01,https://sqst.in/HV6Ad
@@ -65905,6 +66001,9 @@ Outcome of the meeting will be disclosed post conclusion per SEBI Listing Regula
 GSTK505324,Manugraph India,MANUGRAPH,567906.0,"Manugraph India clarifies price movement is market-driven, unrelated to company actions.
 Company complies with SEBI Reg. 30, disclosing all material information to stock exchanges.","Manugraph India clarifies price movement is market-driven, unrelated to company actions.
 Company complies with SEBI Reg. 30, disclosing all material information to stock exchanges.",BSE,2026-04-09T17:23:31,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b3490f01-fb5a-4f1a-8896-68dc5c25465e.pdf
+GSTK503691,Sahara One Media & Entertainment,,920047.0,"Sahara One Media's board approved the 45th AGM notice for Sep 30, 2026 via virtual means.
+Key decisions include AGM e-voting details, scrutinizer appointment, and reappointment of Independent Director.","Sahara One Media's board approved the 45th AGM notice for Sep 30, 2026 via virtual means.
+Key decisions include AGM e-voting details, scrutinizer appointment, and reappointment of Independent Director.",BSE,2026-09-05T19:28:59,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=13f9e783-9cba-4a1a-aefe-c6df48487a1b.pdf
 GSTK503691,Sahara One Media & Entertainment,,8.80027773927073e+17,"Sahara One Media flagged concerns in audit report for FY 2026.
 SEBI refund dispute Rs 6.94 cr, recoverability risks Rs 19.16 cr.","Sahara One Media flagged concerns in audit report for FY 2026.
 SEBI refund dispute Rs 6.94 cr, recoverability risks Rs 19.16 cr.",ScoutQuest,2026-08-25T15:26:11,https://sqst.in/XQyej
@@ -66388,6 +66487,9 @@ The meeting will also address other business matters with Chairman's permission 
 GSTK531869,Sacheta Metals,,620144.0,"Sacheta Metals announces board meeting on May 12, 2026, to approve audited financial results.
 The meeting will review results for the quarter and year ending March 31, 2026.","Sacheta Metals announces board meeting on May 12, 2026, to approve audited financial results.
 The meeting will review results for the quarter and year ending March 31, 2026.",BSE,2026-05-04T14:21:25,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=326ba5fe-bde6-4c97-97bd-dd606491d486.pdf
+GSTK512441,Enbee Trade & Finance,,8.8406561930815e+17,"Promoter Amarr Narendra Galla sold 19.8 lakh shares of Enbee Trade & Finance Ltd on Sep 1, 2026.
+Shareholding reduced from 3.31 cr to 3.12 cr shares; transaction value approx ₹57.1 lakh.","Promoter Amarr Narendra Galla sold 19.8 lakh shares of Enbee Trade & Finance Ltd on Sep 1, 2026.
+Shareholding reduced from 3.31 cr to 3.12 cr shares; transaction value approx ₹57.1 lakh.",ScoutQuest,2026-09-05T18:51:08,https://sqst.in/II4ao
 GSTK512441,Enbee Trade & Finance,,8.836830778076346e+17,"Enbee promoter sold 10,14,910 shares, reducing holding to 4.75%.
 Shares listed on BSE; sale occurred on August 31, 2026.","Enbee promoter sold 10,14,910 shares, reducing holding to 4.75%.
 Shares listed on BSE; sale occurred on August 31, 2026.",ScoutQuest,2026-09-04T17:31:03,https://sqst.in/ZygC6
@@ -66415,9 +66517,6 @@ Trading window closed, reopening 48 hours post results announcement as per SEBI 
 GSTK512441,Enbee Trade & Finance,,8.601681921968652e+17,"Enbee Trade & Finance promoter group acquired 0.61 shares via open market on June 29-30, 2026.
 Shareholding rose from 43.35M to 43.35M shares; total share capital at 697M shares.","Enbee Trade & Finance promoter group acquired 0.61 shares via open market on June 29-30, 2026.
 Shareholding rose from 43.35M to 43.35M shares; total share capital at 697M shares.",ScoutQuest,2026-07-01T20:11:18,https://sqst.in/23Knb
-GSTK512441,Enbee Trade & Finance,,748975.0,"Enbee Trade & Finance disclosed under SEBI (SAST) Regulations, promoter Meyhul Gaala acquired 5.93L shares (8.5%).
-The acquisition involved inter-se transfer; equity capital remains 697.29L shares post-acquisition as of June 3, 2026.","Enbee Trade & Finance disclosed under SEBI (SAST) Regulations, promoter Meyhul Gaala acquired 5.93L shares (8.5%).
-The acquisition involved inter-se transfer; equity capital remains 697.29L shares post-acquisition as of June 3, 2026.",BSE,2026-06-30T12:13:22,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=21F9BA24_0B51_4D3A_94E7_C5A4E9CC01CA_121315.pdf
 GSTK533048,Teamo Productions HQ,TPHQ,902686.0,"Teamo Productions HQ Ltd's Board approved the convening of its 20th AGM on Sept 28, 2026.
 The Board approved register/book closures from Sept 22-28, 2026, and appointed SAA as Scrutinizer.","Teamo Productions HQ Ltd's Board approved the convening of its 20th AGM on Sept 28, 2026.
 The Board approved register/book closures from Sept 22-28, 2026, and appointed SAA as Scrutinizer.",BSE,2026-08-31T17:38:42,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ca48bde3-b4c1-4792-a3cc-1a2e91b7f3f3.pdf
@@ -66431,6 +66530,9 @@ Trading window for designated persons remains closed until 48 hours post-results
 GSTK533048,Teamo Productions HQ,TPHQ,676514.0,"Teamo Productions HQ Ltd schedules board meeting on May 27, 2026, to review and approve audited financial results.
 Trading window remains closed for designated persons until 48 hours post-results declaration.","Teamo Productions HQ Ltd schedules board meeting on May 27, 2026, to review and approve audited financial results.
 Trading window remains closed for designated persons until 48 hours post-results declaration.",BSE,2026-05-23T18:03:25,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=3f110131-cd64-44cd-9a59-e74697226004.pdf
+GSTK530617,Sampre Nutritions,,920046.0,"Sampre Nutritions' 35th AGM held on 4th Sept 2026 approved all resolutions with requisite majority.
+Key resolutions included adoption of financial statements, director reappointment, and revision in director remuneration.","Sampre Nutritions' 35th AGM held on 4th Sept 2026 approved all resolutions with requisite majority.
+Key resolutions included adoption of financial statements, director reappointment, and revision in director remuneration.",BSE,2026-09-05T19:28:42,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=be38f5c4-3b18-4373-8e62-f173b0f279c3.pdf
 GSTK530617,Sampre Nutritions,,900703.0,"Sampre Nutritions received BSE in-principle approval for equity shares.
 Shares issued via unsecured loan conversion to promoter group on preferential basis.","Sampre Nutritions received BSE in-principle approval for equity shares.
 Shares issued via unsecured loan conversion to promoter group on preferential basis.",BSE,2026-08-29T18:33:52,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b42b5a81-b276-40f8-951d-9241770ff827.pdf
@@ -67811,6 +67913,9 @@ Trading window closed from April 1, 2026, to 48 hours post results announcement.
 GSTK540726,Trident Texofab,,8.325780850381669e+17,"Trident Texofab responds to BSE query on price movement, ensuring timely disclosure.
 Company attributes price changes to market conditions beyond its control.","Trident Texofab responds to BSE query on price movement, ensuring timely disclosure.
 Company attributes price changes to market conditions beyond its control.",ScoutQuest,2026-04-16T16:58:04,https://sqst.in/UE54V
+GSTK514412,Sarup Industries,,919583.0,"Sarup Industries announced director changes; Mr. Rajinder Kumar Bhatia and Mr. Ajay Kumar Sharma resigned.
+Mrs. Harnarinder Deep Kaur and Mr. Balwinder Khurana appointed as Additional Independent Directors effective 05.09.2026.","Sarup Industries announced director changes; Mr. Rajinder Kumar Bhatia and Mr. Ajay Kumar Sharma resigned.
+Mrs. Harnarinder Deep Kaur and Mr. Balwinder Khurana appointed as Additional Independent Directors effective 05.09.2026.",BSE,2026-09-05T17:21:07,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=5df54ef4-0d82-4cbe-8f48-cd56d0fd0c33.pdf
 GSTK514412,Sarup Industries,,260410191705843.0,"Sarup Industries hit an all-time high of Rs 190.05 on Apr 9, 2026.
 The stock surged 29.9% in six days, outperforming its sector.","Sarup Industries hit an all-time high of Rs 190.05 on Apr 9, 2026.
 The stock surged 29.9% in six days, outperforming its sector.",Marketsmojo,2026-04-09T09:32:22,https://www.marketsmojo.com/news/stocks-in-action/sarup-industries-ltd-stock-hits-all-time-high-at-rs19005-3939126
@@ -68004,6 +68109,9 @@ He brings 31 years' experience and holds M.Com and Diploma in Taxation.",ScoutQu
 GSTK532817,Oriental Trimex,ORIENTALTL,679343.0,"Oriental Trimex Ltd's board meeting is scheduled for May 30, 2026, to review audited financial results.
 The company's trading window will reopen on June 2, 2026, for all designated persons.","Oriental Trimex Ltd's board meeting is scheduled for May 30, 2026, to review audited financial results.
 The company's trading window will reopen on June 2, 2026, for all designated persons.",BSE,2026-05-25T15:38:16,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=60f6ac87-828a-47c9-8719-367567a5b20f.pdf
+GSTK531156,Alfavision Overseas (India),,919862.0,"Alfavision Overseas India Ltd's board approved alteration in Clause III(B) of its Memorandum of Association.
+The board finalized AGM details, annual reports, cut-off date for e-voting, and appointed a scrutinizer.","Alfavision Overseas India Ltd's board approved alteration in Clause III(B) of its Memorandum of Association.
+The board finalized AGM details, annual reports, cut-off date for e-voting, and appointed a scrutinizer.",BSE,2026-09-05T18:32:29,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=132dcb77-1167-4e07-bdb8-65a52c2ce876.pdf
 GSTK531156,Alfavision Overseas (India),,854566.0,"Alfavision Overseas India Ltd schedules board meeting on Aug 14, 2026 at 5 PM to review key financials.
 Agenda includes Q1 FY26 results approval, limited review report, and appointment of independent director.","Alfavision Overseas India Ltd schedules board meeting on Aug 14, 2026 at 5 PM to review key financials.
 Agenda includes Q1 FY26 results approval, limited review report, and appointment of independent director.",BSE,2026-08-10T17:05:21,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=9252f33b-6f25-4781-b8b3-8dc55bedd456.pdf
@@ -68301,6 +68409,9 @@ Growth in profit after tax and net sales drives its financial trend from very po
 GSTK540923,Ashoka Metcast,ASHOKAMET,604138.0,"Ashoka Metcast's board to meet on May 2, 2026, to approve Q4 & FY26 results.
 Trading window remains closed for insiders, reopening 48 hours post-results declaration.","Ashoka Metcast's board to meet on May 2, 2026, to approve Q4 & FY26 results.
 Trading window remains closed for insiders, reopening 48 hours post-results declaration.",BSE,2026-04-27T17:07:00,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=98ded52e-60fd-49eb-8a58-313a37089a9d.pdf
+GSTK521036,Source Industries (India),,920108.0,"Source Industries Ltd appoints M/s Suresh Surana & Associates LLP as Statutory Auditors after resignation of P R S V & Co LLP.
+Audit firm SSA LLP offers diverse services and operates across 14 cities with over 3,000 professionals and ISO certifications.","Source Industries Ltd appoints M/s Suresh Surana & Associates LLP as Statutory Auditors after resignation of P R S V & Co LLP.
+Audit firm SSA LLP offers diverse services and operates across 14 cities with over 3,000 professionals and ISO certifications.",BSE,2026-09-05T19:50:10,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f3403850-26c7-4a20-ad08-2970b6e36e05.pdf
 GSTK521036,Source Industries (India),,26052711608006.0,"Source Ind March 2026 net sales rose 215.1% Y-o-Y to Rs. 0.33 cr.
 Source Ind shares closed Rs. 14.10, yielding 207.2% in 6 months, 253.4% in 12 months.","Source Ind March 2026 net sales rose 215.1% Y-o-Y to Rs. 0.33 cr.
 Source Ind shares closed Rs. 14.10, yielding 207.2% in 6 months, 253.4% in 12 months.",Moneycontrol,2026-05-26T15:00:50,https://www.moneycontrol.com/news/business/earnings/source-ind-standalone-march-2026-net-sales-at-rs-0-33-crore-up-215-08-y-o-y-13931686.html
@@ -68501,6 +68612,9 @@ Jayesh Rambhia reappointed as Independent Director for a five-year term starting
 GSTK517264,Fine-Line Circuits,,2608041750172.0,"Fine Line Circuits Ltd reported Q1 FY26 sales of INR 107.2M, up from INR 72.52M YoY.
 Revenue for the quarter stood at INR 107.32M, compared to INR 72.52M a year ago.","Fine Line Circuits Ltd reported Q1 FY26 sales of INR 107.2M, up from INR 72.52M YoY.
 Revenue for the quarter stood at INR 107.32M, compared to INR 72.52M a year ago.",MarketScreener,2026-08-04T12:00:00,https://www.marketscreener.com/news/fine-line-circuits-limited-reports-earnings-results-for-the-first-quarter-ended-june-30-2026-ce7f50ded88ef423
+GSTK511000,MSL Global,,919598.0,"MSL Global Ltd appoints Ms. Isha Ajay Sekhri as Non-Executive Independent Director, effective 05th Sept 2026.
+Ms. Sekhri specializes in tax, regulatory services, M&A, and provides strategic inputs on corporate governance and compliance.","MSL Global Ltd appoints Ms. Isha Ajay Sekhri as Non-Executive Independent Director, effective 05th Sept 2026.
+Ms. Sekhri specializes in tax, regulatory services, M&A, and provides strategic inputs on corporate governance and compliance.",BSE,2026-09-05T17:25:04,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8e9e9fad-bed6-4cc6-ba51-de9f987ec497.pdf
 GSTK511000,MSL Global,,8.800780996653e+17,"Nitij Ajeet Arenja sold 173,788 shares of MSL Global Ltd at ₹16.38/share.
 The transaction value totaled ₹0.28 crore on 2026-08-25.","Nitij Ajeet Arenja sold 173,788 shares of MSL Global Ltd at ₹16.38/share.
 The transaction value totaled ₹0.28 crore on 2026-08-25.",ScoutQuest,2026-08-25T18:46:10,https://sqst.in/shareMessage?msgId=880078099665300009
@@ -69047,6 +69161,9 @@ Mojo Grade downgraded to Strong Sell, urging heightened caution for investors.",
 GSTK530711,Jagan Lamps,,8.350954831484584e+17,"Jagan Lamps acquired machinery from Hungary's Tungsram, boosting halogen lamp capacity to 32.4 crore bulbs.
 The move aims to enhance manufacturing efficiency and underscores focus on sustainable growth.","Jagan Lamps acquired machinery from Hungary's Tungsram, boosting halogen lamp capacity to 32.4 crore bulbs.
 The move aims to enhance manufacturing efficiency and underscores focus on sustainable growth.",ScoutQuest,2026-04-23T15:41:18,https://sqst.in/aBLfQ
+GSTK531301,Tusaldah,,919875.0,"Tusaldah Ltd's 32nd AGM to be held via VC/OAVM on 28th Sep 2026 at 4 PM.
+Agenda includes financial adoption, director appointment, borrowing limits, and investment approvals.","Tusaldah Ltd's 32nd AGM to be held via VC/OAVM on 28th Sep 2026 at 4 PM.
+Agenda includes financial adoption, director appointment, borrowing limits, and investment approvals.",BSE,2026-09-05T18:36:13,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2236c69f-afd2-4b54-a0a1-9f6a76c3c30b.pdf
 GSTK531301,Tusaldah,,849074.0,"Tusaldah Ltd's board to review unaudited financial results for Q1 FY2026 on 12th August.
 Trading window remains closed till 48 hours post-results declaration per SEBI guidelines.","Tusaldah Ltd's board to review unaudited financial results for Q1 FY2026 on 12th August.
 Trading window remains closed till 48 hours post-results declaration per SEBI guidelines.",BSE,2026-08-07T18:56:43,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=23332b3a-c745-473b-b18d-9c0b553b885f.pdf
@@ -69471,6 +69588,9 @@ Raghubeer Singh appointed as Internal Auditor for FY 2026-27 during board meetin
 GSTK523840,Innovative Tech Pack,,887436.0,"Innovative Tech Pack Ltd announces board meeting on Sep 2, 2026, to approve AGM notice & Board's Report.
 Meeting will fix book closure, record date, and cut-off date for AGM voting eligibility.","Innovative Tech Pack Ltd announces board meeting on Sep 2, 2026, to approve AGM notice & Board's Report.
 Meeting will fix book closure, record date, and cut-off date for AGM voting eligibility.",BSE,2026-08-21T16:02:09,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f1680083-17f5-4f4a-9344-a479e46544f8.pdf
+GSTK540310,Classic Filaments,,919635.0,"Classic Filaments Ltd's board approved acquiring a 51% stake in Procasts Engineering, making it a subsidiary.
+The board also appointed Narendra Singh Negi as internal auditor for FY 2026-27 and discussed AGM-related matters.","Classic Filaments Ltd's board approved acquiring a 51% stake in Procasts Engineering, making it a subsidiary.
+The board also appointed Narendra Singh Negi as internal auditor for FY 2026-27 and discussed AGM-related matters.",BSE,2026-09-05T17:35:06,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=e2da6a94-e4da-40f9-9dc8-7683cf2de8fd.pdf
 GSTK540310,Classic Filaments,,882240.0,"Classic Filaments Ltd allocates 26,94,316 equity shares at ₹51.50/share, raising ₹13.87 crore via preferential issue.
 Post-allotment, paid-up capital rises to ₹8.80 crore; shares rank pari passu and will be subject to SEBI lock-in rules.","Classic Filaments Ltd allocates 26,94,316 equity shares at ₹51.50/share, raising ₹13.87 crore via preferential issue.
 Post-allotment, paid-up capital rises to ₹8.80 crore; shares rank pari passu and will be subject to SEBI lock-in rules.",BSE,2026-08-18T23:18:53,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=15c6a4dc-72ca-4c84-8f3a-2589f2bca14c.pdf
@@ -69498,9 +69618,6 @@ Planned acquisitions include Procasts Engineering (51% stake) and Solven Power S
 GSTK540310,Classic Filaments,,8.43141155735036e+17,"Classic Filaments board approves leadership changes, subject to member consent.
 Plans 4.7 Cr equity issue, acquisitions, IT division, and raises capital limits to ₹100 Cr.","Classic Filaments board approves leadership changes, subject to member consent.
 Plans 4.7 Cr equity issue, acquisitions, IT division, and raises capital limits to ₹100 Cr.",ScoutQuest,2026-05-15T20:31:56,https://sqst.in/7OAB6
-GSTK540310,Classic Filaments,,621415.0,"Classic Filaments Ltd's board meeting on 11th May 2026 will evaluate fund-raising proposals and business growth plans.
-Agenda includes increasing authorized share capital, opening a new division, and borrowing/investment authorizations.","Classic Filaments Ltd's board meeting on 11th May 2026 will evaluate fund-raising proposals and business growth plans.
-Agenda includes increasing authorized share capital, opening a new division, and borrowing/investment authorizations.",BSE,2026-05-04T20:29:39,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2089941f-d457-429f-8263-1913bc7e0019.pdf
 GSTK530747,Challani Capital,,854439.0,"Challani Capital Ltd's board approved unaudited Q1 FY26 financial results and released a limited review report.
 Financial results are available on the company's website, and key regulatory disclosures have been submitted to BSE.","Challani Capital Ltd's board approved unaudited Q1 FY26 financial results and released a limited review report.
 Financial results are available on the company's website, and key regulatory disclosures have been submitted to BSE.",BSE,2026-08-10T16:42:43,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=041ae64d-1939-4806-9c6d-e79ecbecc38d.pdf
@@ -69715,6 +69832,9 @@ VPH & Associates LLP was appointed as the new statutory auditor, pending AGM app
 GSTK511169,RKD Agri & Retail,,860242.0,"RKD Agri & Retail approved Q1 FY26 unaudited results, reporting a profit of ₹7.2L.
 AGM for FY25-26 set for 25-09-2026; Rs. 5.42Cr funds utilized for working capital/loans.","RKD Agri & Retail approved Q1 FY26 unaudited results, reporting a profit of ₹7.2L.
 AGM for FY25-26 set for 25-09-2026; Rs. 5.42Cr funds utilized for working capital/loans.",BSE,2026-08-11T19:34:35,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8496eb5e-69f9-4fd6-abb5-bc88fb5c6dca.pdf
+GSTK539798,Umiya Tubes,,919909.0,"Umiya Tubes' Board approved the Board's Report for FY ended March 31, 2026.
+AGM scheduled for Sept 30, 2026, with e-voting and scrutinizer appointed for the process.","Umiya Tubes' Board approved the Board's Report for FY ended March 31, 2026.
+AGM scheduled for Sept 30, 2026, with e-voting and scrutinizer appointed for the process.",BSE,2026-09-05T18:47:33,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=0247b6c8-a9d7-4bd7-95d2-1dba6014388e.pdf
 GSTK539798,Umiya Tubes,,876074.0,"Umiya Tubes Ltd's board to meet on 19th Aug 2026 to approve Q1 FY27 results.
 Trading window remains closed from 1st July 2026, reopening 48 hours post results announcement.","Umiya Tubes Ltd's board to meet on 19th Aug 2026 to approve Q1 FY27 results.
 Trading window remains closed from 1st July 2026, reopening 48 hours post results announcement.",BSE,2026-08-14T19:42:53,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=1f19dc91-8008-4234-ba89-976d1fdb4484.pdf
@@ -70723,6 +70843,9 @@ The report lacks author analysis and is purely numerical data.",Business Standar
 GSTK500016,Aruna Hotels,,660485.0,"Aruna Hotels Ltd's Board to meet on May 27, 2026, to approve Q4 and FY26 audited results.
 Trading window remains closed from April 1, 2026, until 48 hours post results announcement.","Aruna Hotels Ltd's Board to meet on May 27, 2026, to approve Q4 and FY26 audited results.
 Trading window remains closed from April 1, 2026, until 48 hours post results announcement.",BSE,2026-05-19T11:19:21,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2a452865-b149-4a23-9eb9-7fde585ca832.pdf
+GSTK526554,Salguti Industries,,919688.0,"Salguti Industries Ltd. announces its 41st AGM on Sept 30, 2026, via VC/OAVM.
+FY 2025-26 revenue rose to ₹10,884.8L; net loss recorded at ₹13.2L.","Salguti Industries Ltd. announces its 41st AGM on Sept 30, 2026, via VC/OAVM.
+FY 2025-26 revenue rose to ₹10,884.8L; net loss recorded at ₹13.2L.",BSE,2026-09-05T17:49:10,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d632871b-2bab-48c5-8008-8e8061ccc066.pdf
 GSTK526554,Salguti Industries,,874591.0,"Salguti Industries Ltd submitted unaudited financial results for Q1 ending 30 June 2026.
 Net loss reported at Rs 28.4 lakh; board meeting concluded at 5 PM on 14 August 2026.","Salguti Industries Ltd submitted unaudited financial results for Q1 ending 30 June 2026.
 Net loss reported at Rs 28.4 lakh; board meeting concluded at 5 PM on 14 August 2026.",BSE,2026-08-14T17:27:29,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=1e329095-4238-4a7a-9946-8f63770a5ac0.pdf
@@ -73207,6 +73330,9 @@ Trading window opens 48 hours after results declaration, as per SEBI insider tra
 GSTK530805,Onesource Industries And Ventures,,660843.0,"Onesource Industries' board to meet on May 30, 2026, to approve audited standalone financial results.
 Meeting will cover Q4 and FY results ending March 31, 2026, and other business matters.","Onesource Industries' board to meet on May 30, 2026, to approve audited standalone financial results.
 Meeting will cover Q4 and FY results ending March 31, 2026, and other business matters.",BSE,2026-05-19T13:00:38,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8ac76b21-2c2d-42f2-8f8a-7b4760e29e4f.pdf
+GSTK519574,Hindustan Agrigentics,,919708.0,"Hindustan Agrigenetics Ltd to hold its 36th AGM on 29 Sep 2026 via VC/OAVM.
+Book closure is from 23 Sep to 29 Sep 2026; remote e-voting from 26-28 Sep 2026.","Hindustan Agrigenetics Ltd to hold its 36th AGM on 29 Sep 2026 via VC/OAVM.
+Book closure is from 23 Sep to 29 Sep 2026; remote e-voting from 26-28 Sep 2026.",BSE,2026-09-05T17:54:10,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=cc5747a6-351d-4559-a23d-0607bbab1e0f.pdf
 GSTK519574,Hindustan Agrigentics,,900770.0,"Hindustan Agrigenetics approved AGM notice for 29th Sept 2026 via video conference.
 Book closure set for 23rd-29th Sept; CDSL appointed for e-voting, GR Gupta for scrutiny.","Hindustan Agrigenetics approved AGM notice for 29th Sept 2026 via video conference.
 Book closure set for 23rd-29th Sept; CDSL appointed for e-voting, GR Gupta for scrutiny.",BSE,2026-08-29T19:00:37,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=470c73e5-a735-4ebf-8ed4-3dd98768c115.pdf
@@ -73807,7 +73933,9 @@ Trading window remains closed till 48 hours after financial results announcement
 GSTK501351,Rapid Investments,,260415194841275.0,"Rapid Investments Ltd shifts from 'very attractive' to 'attractive' rating.
 Despite 5% daily gain, long-term returns lag broader market benchmarks.","Rapid Investments Ltd shifts from 'very attractive' to 'attractive' rating.
 Despite 5% daily gain, long-term returns lag broader market benchmarks.",Marketsmojo,2026-04-15T08:00:28,https://www.marketsmojo.com/news/stocks-in-action/rapid-investments-ltd-valuation-shifts-signal-changing-market-sentiment-3946391
-GSTK513430,Maitri Enterprises,,,,,,,
+GSTK513430,Maitri Enterprises,,8.840640338738181e+17,"Maitri Enterprises approved FY25-26 report, set 35th AGM for Sept 30, 2026.
+Proposed director regularisation, ₹40 cr guarantee for related infra firm.","Maitri Enterprises approved FY25-26 report, set 35th AGM for Sept 30, 2026.
+Proposed director regularisation, ₹40 cr guarantee for related infra firm.",ScoutQuest,2026-09-05T18:44:50,https://sqst.in/s9HhX
 GSTK532092,Epuja Spiritech,,851328.0,"Epuja Spiritech Ltd schedules board meeting on Aug 13, 2026 to review Q1 FY27 results.
 Meeting will also address auditor's review report and other board-decided items.","Epuja Spiritech Ltd schedules board meeting on Aug 13, 2026 to review Q1 FY27 results.
 Meeting will also address auditor's review report and other board-decided items.",BSE,2026-08-08T19:20:45,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=94d5c40b-212e-42c5-b0c9-d1060a80323e.pdf
@@ -73832,6 +73960,9 @@ Board approved revised FY2026 results; share capital restructured and 106,314 sh
 GSTK539225,Jiya Eco-Products,JIYAECO,8.422846667985925e+17,"Jiya Eco-Products submitted info memo to BSE; under CIRP since Apr 2023.
 NCLT approved resolution plan on Dec 11, 2024; new promoter holds 95%.","Jiya Eco-Products submitted info memo to BSE; under CIRP since Apr 2023.
 NCLT approved resolution plan on Dec 11, 2024; new promoter holds 95%.",ScoutQuest,2026-05-13T11:48:33,https://sqst.in/jWwGF
+GSTK500540,Premier,PREMIER,919993.0,"Premier Ltd announces its 80th AGM on 30th Sep 2026 via video conferencing.
+AGM to address company financials, director reappointments, and e-voting details provided.","Premier Ltd announces its 80th AGM on 30th Sep 2026 via video conferencing.
+AGM to address company financials, director reappointments, and e-voting details provided.",BSE,2026-09-05T19:12:40,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=5a4cdf37-adba-47d3-a1cb-0903efba73a9.pdf
 GSTK500540,Premier,PREMIER,8.757095493821591e+17,"Premier Ltd's Q1 FY27 loss stands at Rs.176 lakhs; net worth eroded.
 Operations suspended; resolution plan approved, pending NCLT approval.","Premier Ltd's Q1 FY27 loss stands at Rs.176 lakhs; net worth eroded.
 Operations suspended; resolution plan approved, pending NCLT approval.",ScoutQuest,2026-08-13T17:27:06,https://sqst.in/GnSeX
@@ -75492,6 +75623,9 @@ The AGM will address adoption of financial statements, director reappointments, 
 GSTK507508,Riga Sugar Co,,851871.0,"Riga Sugar Co. Ltd's board meeting on Aug 13, 2026, to approve Q1 FY26 results.
 Disclosure made under SEBI norms; details available on rigasugar.com.","Riga Sugar Co. Ltd's board meeting on Aug 13, 2026, to approve Q1 FY26 results.
 Disclosure made under SEBI norms; details available on rigasugar.com.",BSE,2026-08-09T16:16:37,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=cdc7c95a-f39f-4423-b2d9-3e65a72c4e88.pdf
+GSTK519285,Tarai Foods,,919701.0,"Tarai Foods Ltd announced its 36th AGM on September 28, 2026, via video conferencing (VC). Key agenda includes adoption of financial statements and reappointment of Mr. G.S. Sandhu as director.
+The AGM will use e-voting and VC platforms. Shareholders must register email IDs for updates and can submit queries or register as speakers before the meeting.","Tarai Foods Ltd announced its 36th AGM on September 28, 2026, via video conferencing (VC). Key agenda includes adoption of financial statements and reappointment of Mr. G.S. Sandhu as director.
+The AGM will use e-voting and VC platforms. Shareholders must register email IDs for updates and can submit queries or register as speakers before the meeting.",BSE,2026-09-05T17:51:35,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=283aac26-5693-4143-ac4d-1243325fd702.pdf
 GSTK519285,Tarai Foods,,875440.0,"Tarai Foods Ltd's Independent Director Bhupender Singh Johal resigns, effective 14.08.2026.
 Resignation due to personal reasons; no additional cause cited by Johal.","Tarai Foods Ltd's Independent Director Bhupender Singh Johal resigns, effective 14.08.2026.
 Resignation due to personal reasons; no additional cause cited by Johal.",BSE,2026-08-14T18:40:58,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=9447520e-43fe-45c1-8702-8dbbb59ab78c.pdf
@@ -76649,6 +76783,9 @@ Net income rose to INR 8.7M vs INR 5.6M; EPS increased to INR 1.92 from INR 1.23
 GSTK511110,VB Desai Financial Services,,657743.0,"V.B. Desai Financial Services to hold a Board Meeting on May 25, 2028.
 Meeting to approve audited financial results for Q4 and FY ending March 31, 2026.","V.B. Desai Financial Services to hold a Board Meeting on May 25, 2028.
 Meeting to approve audited financial results for Q4 and FY ending March 31, 2026.",BSE,2026-05-18T14:29:53,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=71605bba-89e0-451e-b42b-0456e1b05451.pdf
+GSTK539117,Sujala Trading & Holdings,,919655.0,"Sujala Trading & Holdings Ltd's board approved the Director's Report for FY 2025-26 and set the AGM on 30th Sept 2026.
+Reappointments and new director appointments, including Subhadeep Mukherjee, Pankaj Jain, and Vipin Champawat, were finalized.","Sujala Trading & Holdings Ltd's board approved the Director's Report for FY 2025-26 and set the AGM on 30th Sept 2026.
+Reappointments and new director appointments, including Subhadeep Mukherjee, Pankaj Jain, and Vipin Champawat, were finalized.",BSE,2026-09-05T17:40:35,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=88d4f9ad-590c-4bcb-9996-c91094613250.pdf
 GSTK539117,Sujala Trading & Holdings,,867960.0,"Sujala Trading rescheduled its Board Meeting from 13th to 14th August 2026.
 Meeting will review unaudited Q1 FY26 financials and other business matters.","Sujala Trading rescheduled its Board Meeting from 13th to 14th August 2026.
 Meeting will review unaudited Q1 FY26 financials and other business matters.",BSE,2026-08-13T14:13:03,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=dce79d0e-98ec-44a1-9f81-6faf0ffb2682.pdf
@@ -77388,6 +77525,9 @@ Trading window remains closed for designated persons till 48 hrs post results.",
 GSTK530735,Super Bakers,,669374.0,"Super Bakers India Ltd to hold a board meeting on 30th May 2026 to review FY 2025-26 audited results.
 Trading window remains closed till 48 hours post-results declaration as per SEBI insider trading norms.","Super Bakers India Ltd to hold a board meeting on 30th May 2026 to review FY 2025-26 audited results.
 Trading window remains closed till 48 hours post-results declaration as per SEBI insider trading norms.",BSE,2026-05-21T16:27:06,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=9a29ce65-22ff-415a-992a-905f7c596c44.pdf
+GSTK531661,Hittco Tools,,919729.0,"Hittco Tools' board approved AGM details, book closure dates (24-30 Sep 2026), and e-voting (27-29 Sep).
+Appointments include Ranjan Kotekar as Independent Director and Surendra Bhandari's reappointment as MD, pending shareholder approval.","Hittco Tools' board approved AGM details, book closure dates (24-30 Sep 2026), and e-voting (27-29 Sep).
+Appointments include Ranjan Kotekar as Independent Director and Surendra Bhandari's reappointment as MD, pending shareholder approval.",BSE,2026-09-05T17:59:25,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7b1555ad-a012-4a09-a06e-4c1814c051d1.pdf
 GSTK531661,Hittco Tools,,854985.0,"Hittco Tools Ltd approved unaudited financial results for Q1 FY2026, reporting revenue of ₹202.5 lakh.
 Ms. Sonali M appointed as Company Secretary and Compliance Officer; trading window opens Aug 17, 2026.","Hittco Tools Ltd approved unaudited financial results for Q1 FY2026, reporting revenue of ₹202.5 lakh.
 Ms. Sonali M appointed as Company Secretary and Compliance Officer; trading window opens Aug 17, 2026.",BSE,2026-08-10T17:58:08,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d88ce093-3c68-49ba-a10d-d20a88393054.pdf
@@ -77536,6 +77676,9 @@ The AGM is set for Sep 24, 2026; auditors GMCA & Co. reappointed for a 5-year te
 GSTK531323,Jayatma Industries,,26052712015749.0,"Jayatma Industries' Q4 FY26 net sales fell 76.2% Y-o-Y to Rs 2.94 crore.
 Net loss reduced 83.1% Y-o-Y to Rs 0.25 crore; shares gained 29.2% over 12 months.","Jayatma Industries' Q4 FY26 net sales fell 76.2% Y-o-Y to Rs 2.94 crore.
 Net loss reduced 83.1% Y-o-Y to Rs 0.25 crore; shares gained 29.2% over 12 months.",Moneycontrol,2026-05-27T11:11:28,https://www.moneycontrol.com/news/business/earnings/jayatma-industr-standalone-march-2026-net-sales-at-rs-2-94-crore-down-76-2-y-o-y-13932590.html
+GSTK539593,Shivansh Finserve,,8.840676409668698e+17,"Shivansh Finserve Ltd raises authorized capital from ₹10.25 Cr to ₹50 Cr.
+Acquires 19.5% stake in two firms via share swap; AGM on Sept 29, 2026.","Shivansh Finserve Ltd raises authorized capital from ₹10.25 Cr to ₹50 Cr.
+Acquires 19.5% stake in two firms via share swap; AGM on Sept 29, 2026.",ScoutQuest,2026-09-05T18:59:10,https://sqst.in/Msq9R
 GSTK539593,Shivansh Finserve,,874958.0,"Shivansh Finserve Ltd approved Q1 FY2026 unaudited results and director resignation.
 Statutory auditor resigned; board reviewed business activities during 14th Aug 2026 meeting.","Shivansh Finserve Ltd approved Q1 FY2026 unaudited results and director resignation.
 Statutory auditor resigned; board reviewed business activities during 14th Aug 2026 meeting.",BSE,2026-08-14T17:58:15,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7188d603-5951-4e8c-9680-112108960930.pdf
@@ -78055,6 +78198,9 @@ Company received cancellation notice on 6 July 2026, seeks advice for reinstatem
 GSTK519214,Williamson Financial Services,,764797.0,"Williamson Financial Services announced RBI canceled its NBFC certificate per Section 45-IA of the RBI Act, 1934.
 The company is seeking advice to address the matter and explore certificate restoration options.","Williamson Financial Services announced RBI canceled its NBFC certificate per Section 45-IA of the RBI Act, 1934.
 The company is seeking advice to address the matter and explore certificate restoration options.",BSE,2026-07-07T15:33:46,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=65d0d4d7-d647-43ce-941b-4773ca19d15f.pdf
+GSTK524752,Decipher Labs,,919938.0,"Decipher Labs approved auditor appointments, director resignation, committee reconstitution, and set AGM for 30 Sep'26.
+Mrs. Lakshmi Vijaya Nimmala resigned as Independent Director due to pre-occupation; AGM voting by M/s. S.S. Reddy & Associates.","Decipher Labs approved auditor appointments, director resignation, committee reconstitution, and set AGM for 30 Sep'26.
+Mrs. Lakshmi Vijaya Nimmala resigned as Independent Director due to pre-occupation; AGM voting by M/s. S.S. Reddy & Associates.",BSE,2026-09-05T18:56:06,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=e20783d2-9377-4a1c-b990-33f811766b18.pdf
 GSTK524752,Decipher Labs,,869467.0,"Decipher Labs Ltd reported unaudited financial results for Q1 FY2026, recording a consolidated loss of ₹218.5 lakh.
 The company appointed Mr. Bhupendralal Waghray as an Independent Director for 5 years, effective 13th Aug 2026.","Decipher Labs Ltd reported unaudited financial results for Q1 FY2026, recording a consolidated loss of ₹218.5 lakh.
 The company appointed Mr. Bhupendralal Waghray as an Independent Director for 5 years, effective 13th Aug 2026.",BSE,2026-08-13T17:21:26,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=4fc27ece-61b8-43c3-9472-294099959369.pdf
@@ -78221,6 +78367,9 @@ The AGM will include adopting FY 2025-26 financials and reappointing Mr. Pankaj 
 GSTK531314,Integra Capital,,8.318719559149684e+17,"Integra Capital confirms non-Large Corporate status as of 31st Mar 2026.
 SEBI's Oct 2023 circular impacts debt issuance rules for large entities.","Integra Capital confirms non-Large Corporate status as of 31st Mar 2026.
 SEBI's Oct 2023 circular impacts debt issuance rules for large entities.",ScoutQuest,2026-04-14T18:12:09,https://sqst.in/9xh40
+GSTK501311,Jayabharat Credit,,920000.0,"Jayabharat Credit Ltd schedules its 83rd AGM on 30 Sep 2026 via VC/OAVM.
+Book closure from 24 to 30 Sep 2026; e-voting available for members.","Jayabharat Credit Ltd schedules its 83rd AGM on 30 Sep 2026 via VC/OAVM.
+Book closure from 24 to 30 Sep 2026; e-voting available for members.",BSE,2026-09-05T19:14:26,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ccad918e-79c8-4993-8955-7125dd974b73.pdf
 GSTK501311,Jayabharat Credit,,862686.0,"Jayabharat Credit Ltd reported Q1 FY2026 unaudited results with a net loss of ₹26.7 lakhs.
 Company's negative net worth of ₹6,219.8 lakhs highlights uncertainty about its going concern status.","Jayabharat Credit Ltd reported Q1 FY2026 unaudited results with a net loss of ₹26.7 lakhs.
 Company's negative net worth of ₹6,219.8 lakhs highlights uncertainty about its going concern status.",BSE,2026-08-12T14:17:00,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=e67db257-2de1-4d7e-8093-9591919e7dad.pdf
@@ -78698,6 +78847,9 @@ Agenda includes approval of standalone financial results and auditor report for 
 GSTK531334,Vikalp Securities,,614944.0,"Vikalp Securities to hold Board Meeting on 6th May 2026 for Q4, FY26 results.
 Meeting to review audited standalone financials and statutory auditors' report.","Vikalp Securities to hold Board Meeting on 6th May 2026 for Q4, FY26 results.
 Meeting to review audited standalone financials and statutory auditors' report.",BSE,2026-04-30T18:07:44,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d0721cba-dd1e-4c70-9151-9fb9f3949fca.pdf
+GSTK531387,Hasti Finance,,919623.0,"Hasti Finance's board approved its 32nd AGM on Sept 30, 2026, via video conference.
+Nitin Somani reappointed as MD for 5 years; Deepika Mishra named as e-voting scrutinizer.","Hasti Finance's board approved its 32nd AGM on Sept 30, 2026, via video conference.
+Nitin Somani reappointed as MD for 5 years; Deepika Mishra named as e-voting scrutinizer.",BSE,2026-09-05T17:32:19,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=13c315a1-b514-4d3e-b8b8-081aacb8cf95.pdf
 GSTK531387,Hasti Finance,,856345.0,"Hasti Finance Ltd's Board meeting on Aug 14, 2026, to review Q1 FY27 results.
 Trading window closed from July 1, 2026, till 48 hours post-results announcement.","Hasti Finance Ltd's Board meeting on Aug 14, 2026, to review Q1 FY27 results.
 Trading window closed from July 1, 2026, till 48 hours post-results announcement.",BSE,2026-08-10T23:47:02,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f471c208-9390-4224-9772-a06cbbd45c3e.pdf
@@ -79308,6 +79460,9 @@ Net loss stands at Rs 135.99 lakh; board meeting held on 13th Aug, 2026 for appr
 GSTK521188,United Textiles,,797267.0,"United Textiles Ltd's board meeting set for 13th Aug 2026 to review Q1 FY26 results.
 Trading window closed from 30th June 2026 to 48 hours post-result declaration as per insider trading rules.","United Textiles Ltd's board meeting set for 13th Aug 2026 to review Q1 FY26 results.
 Trading window closed from 30th June 2026 to 48 hours post-result declaration as per insider trading rules.",BSE,2026-07-21T15:48:59,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8fbbb91c-7000-42cf-9f36-c58a1a5f7d38.pdf
+GSTK531812,SGN Telecoms,,920138.0,"SGN Telecoms Ltd approved Board’s report for FY 2025-26 and set AGM for Sep 29, 2026.
+Book closure fixed Sep 23-29; scrutinizer appointed for e-voting at AGM.","SGN Telecoms Ltd approved Board’s report for FY 2025-26 and set AGM for Sep 29, 2026.
+Book closure fixed Sep 23-29; scrutinizer appointed for e-voting at AGM.",BSE,2026-09-05T20:06:13,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a0efb7e3-0003-4176-aaa6-053d529488a2.pdf
 GSTK531812,SGN Telecoms,,868626.0,"SGN Telecoms Ltd. board approved Q1 FY2026 unaudited results on 13-Aug-2026.
 Company reported a net loss of Rs 9.3M for the quarter ending 30-Jun-2026.","SGN Telecoms Ltd. board approved Q1 FY2026 unaudited results on 13-Aug-2026.
 Company reported a net loss of Rs 9.3M for the quarter ending 30-Jun-2026.",BSE,2026-08-13T15:56:59,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=78dc84f3-b042-4776-b946-8cb43ee4e697.pdf
@@ -80814,6 +80969,9 @@ Agenda includes appointing Ashish Rameshwar Agarwal as Independent Director for 
 GSTK504365,Ridhi Synthetics,,664733.0,"Ridhi Synthetics Ltd's board to meet on May 28, 2026, to approve audited FY26 results.
 Trading window closed since April 15, 2026, to reopen 48 hours post results declaration.","Ridhi Synthetics Ltd's board to meet on May 28, 2026, to approve audited FY26 results.
 Trading window closed since April 15, 2026, to reopen 48 hours post results declaration.",BSE,2026-05-20T14:02:13,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c9dc6fef-88e3-4a3f-9244-b21549769992.pdf
+GSTK501270,Antariksh Industries,,919597.0,"Antariksh Industries sets Sept 22, 2026 as record date for FY 2025-26 final dividend.
+Dividend of Rs 0.50/share (5%) to be paid post AGM on Sept 29, 2026, subject to TDS.","Antariksh Industries sets Sept 22, 2026 as record date for FY 2025-26 final dividend.
+Dividend of Rs 0.50/share (5%) to be paid post AGM on Sept 29, 2026, subject to TDS.",BSE,2026-09-05T17:24:49,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ffc86875-a49b-4ea9-b313-ccd2d37f65c0.pdf
 GSTK501270,Antariksh Industries,,8.821535758626065e+17,"Antariksh Industries' IDC submitted recommendations for an open offer under SEBI (SAST) Regulations, 2011.","Antariksh Industries' IDC submitted recommendations for an open offer under SEBI (SAST) Regulations, 2011.",ScoutQuest,2026-08-31T12:13:22,https://sqst.in/UhYDr
 GSTK501270,Antariksh Industries,,26072452074609.0,"Antariksh Industries posted a standalone net loss of Rs 0.13 crore for Q1 FY26.
 No sales were reported in Q1 FY26, compared to Rs 3.4 crore in Q1 FY25.","Antariksh Industries posted a standalone net loss of Rs 0.13 crore for Q1 FY26.
@@ -80949,6 +81107,9 @@ Company faces net worth erosion, cash losses, and loan default-led asset sales b
 GSTK508963,Trustwave Securities,,902843.0,"Trustwave Securities Ltd announces its 42nd AGM on 24th Sept 2026 via VC/OAVM at 1 PM IST.
 AGM agenda includes adoption of financial statements, director reappointment, and e-voting provisions detailed.","Trustwave Securities Ltd announces its 42nd AGM on 24th Sept 2026 via VC/OAVM at 1 PM IST.
 AGM agenda includes adoption of financial statements, director reappointment, and e-voting provisions detailed.",BSE,2026-08-31T18:12:43,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=41a094a5-7362-4578-927a-1b4825ed9e0d.pdf
+GSTK532470,MPF Systems,,919911.0,"MPF Systems Ltd accepted resignation of statutory auditors M/s. S K Bhavsar & Co. on Sept 5, 2026.
+New auditor M/s. Sarang Shivajirao Chavan & Associates appointed to fill vacancy, pending AGM approval.","MPF Systems Ltd accepted resignation of statutory auditors M/s. S K Bhavsar & Co. on Sept 5, 2026.
+New auditor M/s. Sarang Shivajirao Chavan & Associates appointed to fill vacancy, pending AGM approval.",BSE,2026-09-05T18:47:51,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=211f20ca-2bcb-4252-b944-14f954c66f15.pdf
 GSTK532470,MPF Systems,,780036.0,"MPF Systems Ltd held its 33rd AGM on July 14, 2026, chaired by MD Parshottambhai Rupareliya.
 Key resolutions included adoption of financials, director appointments, and alteration of object clause.","MPF Systems Ltd held its 33rd AGM on July 14, 2026, chaired by MD Parshottambhai Rupareliya.
 Key resolutions included adoption of financials, director appointments, and alteration of object clause.",BSE,2026-07-14T13:18:50,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=85e3a802-a679-42ae-acb2-4fa58ea93416.pdf
