@@ -1,4 +1,7 @@
 StockID,Company,NSE Code,NewsID,Title,Summary,Source,PubDate,URL
+GSTK500325,Reliance Industries,RELIANCE,26091429872817.0,"RIL's METL appoints Manish Jaiswal as CEO for township project.
+METL is developing Reliance MET City over 8,250 acres in Jhajjar.","RIL's METL appoints Manish Jaiswal as CEO for township project.
+METL is developing Reliance MET City over 8,250 acres in Jhajjar.",The Hindu BusinessLine,2026-09-14T19:05:55,https://www.thehindubusinessline.com/companies/ril-arm-model-economic-township-ltd-appoints-manish-jaiswal-as-ceo/article71466090.ece
 GSTK500325,Reliance Industries,RELIANCE,934013.0,"Reliance Industries Ltd dipped 1.48% on NSE to Rs 1255.2, marking its fifth consecutive session of decline.
 The stock is down 10% YoY vs Nifty's 7.1% fall and a 8.6% rise in Nifty Energy index.","Reliance Industries Ltd dipped 1.48% on NSE to Rs 1255.2, marking its fifth consecutive session of decline.
 The stock is down 10% YoY vs Nifty's 7.1% fall and a 8.6% rise in Nifty Energy index.",Business Standard,2026-09-11T15:31:01,https://www.business-standard.com/markets/capital-market-news/reliance-industries-ltd-drops-for-fifth-straight-session-126091100739_1.html
@@ -24,9 +27,6 @@ This could become the largest debt deal of the year for the issuer.",Livesquawk,
 GSTK500325,Reliance Industries,RELIANCE,924200.0,"Reliance Industries to meet analysts, investors on Sep 10.
 Meeting aims to discuss updates and market outlook.","Reliance Industries to meet analysts, investors on Sep 10.
 Meeting aims to discuss updates and market outlook.",Livesquawk,2026-09-07T21:44:28,
-GSTK500325,Reliance Industries,RELIANCE,8.846318741298541e+17,"VA Tech bags repeat order from RIL worth ₹100-250 crore for advanced ETP.
-The project will be executed at RIL's Jamnagar facility.","VA Tech bags repeat order from RIL worth ₹100-250 crore for advanced ETP.
-The project will be executed at RIL's Jamnagar facility.",ScoutQuest,2026-09-07T08:21:14,https://sqst.in/shareMessage?msgId=884631874129854109
 GSTK532454,Bharti Airtel,BHARTIARTL,8.858409816730868e+17,"Bharti Airtel faces penalties of Rs. 6.75L and Rs. 2.16L for breaches.
 Company plans to contest one penalty and pay the other, citing norms scrutiny.","Bharti Airtel faces penalties of Rs. 6.75L and Rs. 2.16L for breaches.
 Company plans to contest one penalty and pay the other, citing norms scrutiny.",ScoutQuest,2026-09-10T16:25:48,https://sqst.in/Bkuhe
@@ -1365,6 +1365,9 @@ The project adds 562 ckm transmission lines, 9,000 MVA capacity, and boosts AESL
 GSTK539254,Adani Energy Solutions,ADANIENSOL,26081912323927.0,"Adani Energy Solutions' credit ratings affirmed at IND AAA Stable and IND A1.
 Ratings apply to company's various debt facilities.","Adani Energy Solutions' credit ratings affirmed at IND AAA Stable and IND A1.
 Ratings apply to company's various debt facilities.",Capital Market,2026-08-19T12:00:00,https://www.capitalmarket.com/markets/news/corporate-news/adani-energy-solutions-receives-affirmation-in-credit-ratings/1725594
+GSTK530965,Indian Oil Corporation,IOC,26091429874633.0,"IOC, BPCL, HPCL set for Q2 rebound with Rs 15,000 crore profit.
+Sequential recovery follows Rs 18,150 crore aggregate losses in Q1.","IOC, BPCL, HPCL set for Q2 rebound with Rs 15,000 crore profit.
+Sequential recovery follows Rs 18,150 crore aggregate losses in Q1.",Financial Express,2026-09-14T19:03:00,https://www.financialexpress.com/policy/economy-omcs-head-for-sharp-q2-rebound-as-marketing-margins-recover-4339061/
 GSTK530965,Indian Oil Corporation,IOC,26091127989165.0,"Crude above $100/barrel may pressure OMCs if fuel prices stay unchanged.
 Impact on OMCs depends on retail pricing, government policies, and refining margins.","Crude above $100/barrel may pressure OMCs if fuel prices stay unchanged.
 Impact on OMCs depends on retail pricing, government policies, and refining margins.",Business Standard,2026-09-11T10:55:02,https://www.business-standard.com/economy/news/crude-oil-above-100-omc-margins-hpcl-bpcl-iocl-126091100369_1.html
@@ -1392,9 +1395,6 @@ IOC cites govt control over director appointments and requests fine waiver, as a
 GSTK530965,Indian Oil Corporation,IOC,26082113320405.0,"IndianOil signs 5-year deal with Mauritius for fuel supply.
 Agreement covers petrol, diesel, and aviation turbine fuel (ATF).","IndianOil signs 5-year deal with Mauritius for fuel supply.
 Agreement covers petrol, diesel, and aviation turbine fuel (ATF).",The Hindu,2026-08-20T21:20:19,https://www.thehindu.com/business/indianoil-inks-supply-agreement-with-mauritius-for-petrol-diesel-atf/article71370353.ece
-GSTK530965,Indian Oil Corporation,IOC,877394.0,"Indian Oil Corporation appoints Dr. Alka Mundra as Independent Director effective 15 Aug 2026.
-Dr. Mundra, aged 52, holds expertise in governance, law, public policy, and social development.","Indian Oil Corporation appoints Dr. Alka Mundra as Independent Director effective 15 Aug 2026.
-Dr. Mundra, aged 52, holds expertise in governance, law, public policy, and social development.",BSE,2026-08-15T14:25:08,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=3a754153-2206-4a12-b312-bd6aa2d803b4.pdf
 GSTK500420,Torrent Pharmaceuticals,TORNTPHARM,932597.0,"Torrent Pharmaceuticals announces participation in investor meets, including Jefferies India Forum and Kotak Healthcare Forum.
 Scheduled meetings from 17-21 Sep 2026 include group and one-on-one sessions in Gurgaon and Mumbai.","Torrent Pharmaceuticals announces participation in investor meets, including Jefferies India Forum and Kotak Healthcare Forum.
 Scheduled meetings from 17-21 Sep 2026 include group and one-on-one sessions in Gurgaon and Mumbai.",BSE,2026-09-10T21:26:44,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=e17b028f-5647-458d-b140-16524eee955a.pdf
@@ -1657,6 +1657,9 @@ RBI holds repo rate at 5.25%; GDP growth revised to 6.7% FY27. CPI inflation low
 GSTK532868,DLF,DLF,837256.0,"HDFC Securities updated Q1 ratings, targets for 12 stocks, including DLF, Marico, and Godrej Properties.
 DLF target raised to Rs 752, citing FY28 as an inflection point due to large projects.","HDFC Securities updated Q1 ratings, targets for 12 stocks, including DLF, Marico, and Godrej Properties.
 DLF target raised to Rs 752, citing FY28 as an inflection point due to large projects.",NDTV Profit,2026-08-05T09:08:26,https://www.ndtvprofit.com/markets/dlf-emami-kansai-nerolac-nykaa-bse-marico-godrej-properties-century-plyboards-nocil-prince-pipes-q1-review-by-hdfc-securities-11867273#publisher=newsstand
+GSTK532755,Tech Mahindra,TECHM,937062.0,"Tech Mahindra approves allotment of 25,329 equity shares under ESOP 2014 and ESOP 2018.
+Shares have a par value of ₹5 each; total issued capital now ₹4900.8M after allotment.","Tech Mahindra approves allotment of 25,329 equity shares under ESOP 2014 and ESOP 2018.
+Shares have a par value of ₹5 each; total issued capital now ₹4900.8M after allotment.",BSE,2026-09-14T22:15:45,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=287f9157-1bb1-42d1-86a8-70e1fcce0ef7.pdf
 GSTK532755,Tech Mahindra,TECHM,8.861942826042354e+17,"Tech Mahindra and Wipro rose 1% as IT stocks saw buying interest.
 Dr Reddy’s gained 2%, while Cochin Shipyard fell 9% on FY27 guidance.","Tech Mahindra and Wipro rose 1% as IT stocks saw buying interest.
 Dr Reddy’s gained 2%, while Cochin Shipyard fell 9% on FY27 guidance.",ScoutQuest,2026-09-11T15:49:41,https://sqst.in/shareMessage?msgId=886194282604235397
@@ -1684,9 +1687,6 @@ Nifty IT rallied 20% since July lows; UBS sees selective opportunities due to AI
 GSTK532755,Tech Mahindra,TECHM,886707.0,"Kotak downgraded Infosys, TCS to 'Add' and LTM to 'Sell' citing pricing pressure and market challenges.
 Infosys faces AI adoption challenges; LTM struggles with growth and execution; preferred picks include Tech Mahindra, Coforge.","Kotak downgraded Infosys, TCS to 'Add' and LTM to 'Sell' citing pricing pressure and market challenges.
 Infosys faces AI adoption challenges; LTM struggles with growth and execution; preferred picks include Tech Mahindra, Coforge.",CNBC TV 18,2026-08-21T09:51:24,https://www.cnbctv18.com/market/infosys-tcs-ltm-share-price-kotak-downgrades-deal-wins-ai-deflation-concerns-valuations-target-buy-sell-returns-19974208.htm
-GSTK532755,Tech Mahindra,TECHM,880880.0,"Nifty IT index fell nearly 2% on NSE, declining for the third consecutive day due to profit booking.
-Brokerages favor TCS, Tech Mahindra, Coforge, and Persistent Systems for strong execution and AI capabilities.","Nifty IT index fell nearly 2% on NSE, declining for the third consecutive day due to profit booking.
-Brokerages favor TCS, Tech Mahindra, Coforge, and Persistent Systems for strong execution and AI capabilities.",Business Standard,2026-08-18T12:40:37,https://www.business-standard.com/markets/news/nifty-it-index-slips-nearly-2-for-second-straight-day-here-s-why-126081800430_1.html
 GSTK544569,Tata Motors Commercial Vehicles,TMCV,8.855822537314395e+17,"Tata Motors Ltd receives NCLT approval to merge two subsidiaries.
 Shareholders and creditors may submit representations; info on website.","Tata Motors Ltd receives NCLT approval to merge two subsidiaries.
 Shareholders and creditors may submit representations; info on website.",ScoutQuest,2026-09-09T23:17:42,https://sqst.in/rm6w2
@@ -1741,6 +1741,9 @@ Concerns over store expansion, slower discretionary demand, and competition weig
 GSTK500251,Trent,TRENT,845696.0,"Morgan Stanley maintains Overweight on Trent; hikes target price to ₹3,406 citing strong 1QFY27 EBITDA margin and growth.
 Zudio-led expansion and FY27 store-addition plans intact, but Middle East conflict may impact near-term consumer sentiment.","Morgan Stanley maintains Overweight on Trent; hikes target price to ₹3,406 citing strong 1QFY27 EBITDA margin and growth.
 Zudio-led expansion and FY27 store-addition plans intact, but Middle East conflict may impact near-term consumer sentiment.",Livesquawk,2026-08-07T08:58:42,
+GSTK517334,Samvardhana Motherson International,MOTHERSON,26091429859405.0,"Samvardhana Motherson International Ltd to invest ₹11,000 cr in Tamil Nadu.
+MoU signed with Guidance Tamil Nadu during CM Vijya's UK visit.","Samvardhana Motherson International Ltd to invest ₹11,000 cr in Tamil Nadu.
+MoU signed with Guidance Tamil Nadu during CM Vijya's UK visit.",The Hindu BusinessLine,2026-09-14T18:31:57,https://www.thehindubusinessline.com/companies/tamil-nadu-secures-major-investment-commitments-from-global-companies-during-cm-vijyas-uk-visit/article71466048.ece
 GSTK517334,Samvardhana Motherson International,MOTHERSON,8.868010870457892e+17,"Samvardhana Motherson's subsidiary fined $48,432 by Michigan Treasury for tax shortfall.
 Penalty covers April 2022-March 2024 period; no material impact on parent firm.","Samvardhana Motherson's subsidiary fined $48,432 by Michigan Treasury for tax shortfall.
 Penalty covers April 2022-March 2024 period; no material impact on parent firm.",ScoutQuest,2026-09-13T08:00:55,https://sqst.in/79fZw
@@ -1766,9 +1769,6 @@ The meeting will focus on company updates and future outlook.",Livesquawk,2026-0
 GSTK517334,Samvardhana Motherson International,MOTHERSON,8.804142286880541e+17,"Samvardhana Motherson's subsidiary opens a new Pune unit for Electronic Manufacturing Services.
 The facility has an initial capacity of 1.5M pieces annually with INR 940M investment.","Samvardhana Motherson's subsidiary opens a new Pune unit for Electronic Manufacturing Services.
 The facility has an initial capacity of 1.5M pieces annually with INR 940M investment.",ScoutQuest,2026-08-26T17:01:49,https://sqst.in/PtZGG
-GSTK517334,Samvardhana Motherson International,MOTHERSON,8.804015996429055e+17,"Samvardhana Motherson's 150,000 CCDs priced at ₹100,000 each, earn 6.5% annual interest.
-Interest payment for 2nd year due on Sept 30, 2026; CCDs convertible into equity shares.","Samvardhana Motherson's 150,000 CCDs priced at ₹100,000 each, earn 6.5% annual interest.
-Interest payment for 2nd year due on Sept 30, 2026; CCDs convertible into equity shares.",ScoutQuest,2026-08-26T16:11:38,https://sqst.in/I9kCk
 GSTK511243,Cholamandalam Investment & Finance Company,CHOLAFIN,8.86853348048464e+17,"Cholamandalam Investment reports significant share trading rise; no undisclosed info linked.
 Surge attributed to market activity; company adheres to disclosure compliance.","Cholamandalam Investment reports significant share trading rise; no undisclosed info linked.
 Surge attributed to market activity; company adheres to disclosure compliance.",ScoutQuest,2026-09-13T11:28:35,https://sqst.in/NB3wC
@@ -2059,6 +2059,9 @@ The sale, not a related party or slump sale, fetched ₹19.1 crore as per the ag
 GSTK532810,Power Finance Corporation,PFC,891143.0,"PFC withdrew its 3-year bond issue due to elevated yields, accepting ₹2,500 crore through a 15-year bond at 7.55% coupon.
 REC plans to raise ₹6,000 crore via NCDs rated AAA/Stable, reflecting issuer challenges amid rising corporate bond yields.","PFC withdrew its 3-year bond issue due to elevated yields, accepting ₹2,500 crore through a 15-year bond at 7.55% coupon.
 REC plans to raise ₹6,000 crore via NCDs rated AAA/Stable, reflecting issuer challenges amid rising corporate bond yields.",Business Standard,2026-08-24T19:20:39,https://www.business-standard.com/markets/news/pfc-withdraws-three-year-bond-issue-as-yields-remain-elevated-in-market-126082401105_1.html
+GSTK500547,Bharat Petroleum Corporation,BPCL,26091429874633.0,"IOC, BPCL, HPCL set for Q2 rebound with Rs 15,000 crore profit.
+Sequential recovery follows Rs 18,150 crore aggregate losses in Q1.","IOC, BPCL, HPCL set for Q2 rebound with Rs 15,000 crore profit.
+Sequential recovery follows Rs 18,150 crore aggregate losses in Q1.",Financial Express,2026-09-14T19:03:00,https://www.financialexpress.com/policy/economy-omcs-head-for-sharp-q2-rebound-as-marketing-margins-recover-4339061/
 GSTK500547,Bharat Petroleum Corporation,BPCL,8.862698073182378e+17,"BPCL faces Rs. 26.3M stamp duty penalties from Gujarat authorities.
 Penalties stem from past amalgamation, land allotment; BPCL plans to appeal.","BPCL faces Rs. 26.3M stamp duty penalties from Gujarat authorities.
 Penalties stem from past amalgamation, land allotment; BPCL plans to appeal.",ScoutQuest,2026-09-11T20:49:48,https://sqst.in/55nGu
@@ -2082,7 +2085,6 @@ GSTK500547,Bharat Petroleum Corporation,BPCL,8.807723580051662e+17,BPCL shared C
 GSTK500547,Bharat Petroleum Corporation,BPCL,26082717862726.0,"BPCL aims to increase Kochi refinery capacity to 17 mmtpa from 15.5 mmtpa.
 The expansion focuses on refinery-petrochemical integration and higher-value product diversification.","BPCL aims to increase Kochi refinery capacity to 17 mmtpa from 15.5 mmtpa.
 The expansion focuses on refinery-petrochemical integration and higher-value product diversification.",The Hindu BusinessLine,2026-08-27T15:03:14,https://www.thehindubusinessline.com/companies/bpcl-plans-to-raise-kochi-refinery-capacity-to-17-mmtpa/article71395670.ece
-GSTK500547,Bharat Petroleum Corporation,BPCL,8.775225730887368e+17,"BPCL board approves raising ₹5,000 crore through non-convertible debentures.","BPCL board approves raising ₹5,000 crore through non-convertible debentures.",ScoutQuest,2026-08-18T17:31:25,https://sqst.in/shareMessage?msgId=877522573088736765
 GSTK542652,Polycab India,POLYCAB,933331.0,"Havells, KEI, Polycab stocks dip up to 16% post UltraTech's W&C brand launch.
 UltraTech plans ₹1,800 crore investment to reach 7% W&C market share by FY30.","Havells, KEI, Polycab stocks dip up to 16% post UltraTech's W&C brand launch.
 UltraTech plans ₹1,800 crore investment to reach 7% W&C market share by FY30.",Business Standard,2026-09-11T10:54:33,https://www.business-standard.com/markets/news/havells-kei-polycab-wires-and-cables-stocks-fall-up-to-16-in-one-week-post-ultratech-s-entry-tech-view-here-126091100341_1.html
@@ -3839,6 +3841,9 @@ The transaction was valued at ₹1,650.4 crore.",ScoutQuest,2026-09-03T08:51:52,
 GSTK544632,Meesho,MEESHO,8.830271403380942e+17,"Meesho's floor price set at ₹205/share, a 3.1% discount to NSE closing price.
 The total deal value for Meesho shares is approximately $151 million.","Meesho's floor price set at ₹205/share, a 3.1% discount to NSE closing price.
 The total deal value for Meesho shares is approximately $151 million.",ScoutQuest,2026-09-02T22:04:36,https://sqst.in/RhiJz
+GSTK500104,Hindustan Petroleum Corporation,HINDPETRO,26091429874633.0,"IOC, BPCL, HPCL set for Q2 rebound with Rs 15,000 crore profit.
+Sequential recovery follows Rs 18,150 crore aggregate losses in Q1.","IOC, BPCL, HPCL set for Q2 rebound with Rs 15,000 crore profit.
+Sequential recovery follows Rs 18,150 crore aggregate losses in Q1.",Financial Express,2026-09-14T19:03:00,https://www.financialexpress.com/policy/economy-omcs-head-for-sharp-q2-rebound-as-marketing-margins-recover-4339061/
 GSTK500104,Hindustan Petroleum Corporation,HINDPETRO,934590.0,"Hindustan Petroleum to hold analyst and investor meeting on Sep 22 at 2 PM.
 Meeting likely to cover business updates and performance outlook.","Hindustan Petroleum to hold analyst and investor meeting on Sep 22 at 2 PM.
 Meeting likely to cover business updates and performance outlook.",Livesquawk,2026-09-11T19:04:49,
@@ -3864,9 +3869,6 @@ GSTK500104,Hindustan Petroleum Corporation,HINDPETRO,924899.0,"Hindustan Petrole
 BSE Oil & Gas index dropped 0.5% to 25886.65, while Indraprastha Gas and Indian Oil lost 0.8% and 0.7%, respectively.","Hindustan Petroleum fell 1% to Rs 353.1, losing 10.2% in one month vs 1.8% drop in BSE Oil & Gas index.
 BSE Oil & Gas index dropped 0.5% to 25886.65, while Indraprastha Gas and Indian Oil lost 0.8% and 0.7%, respectively.",Business Standard,2026-09-08T10:16:12,https://www.business-standard.com/markets/capital-market-news/hindustan-petroleum-corporation-ltd-falls-1-126090800238_1.html
 GSTK500104,Hindustan Petroleum Corporation,HINDPETRO,913404.0,HPCL to host meeting with analysts and investors on Sept 11 at 2 PM.,HPCL to host meeting with analysts and investors on Sept 11 at 2 PM.,Livesquawk,2026-09-03T17:21:09,
-GSTK500104,Hindustan Petroleum Corporation,HINDPETRO,904215.0,"Hindustan Petroleum announces senior management change effective Sep 01, 2026.
-Shri Subodh Batra appointed as Executive Director (I/C) for Supplies, Operations & Distribution.","Hindustan Petroleum announces senior management change effective Sep 01, 2026.
-Shri Subodh Batra appointed as Executive Director (I/C) for Supplies, Operations & Distribution.",BSE,2026-09-01T11:02:06,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b3dceb70-83b8-445e-a9dd-4f11e844cd17.pdf
 GSTK540716,ICICI Lombard General Insurance Company,ICICIGI,933105.0,"UBS maintains Neutral rating on ICICI Lombard with ₹1,930 target amid industry price aggression.
 Management focuses on pricing discipline, avoids price-led competition, confident of superior profitability.","UBS maintains Neutral rating on ICICI Lombard with ₹1,930 target amid industry price aggression.
 Management focuses on pricing discipline, avoids price-led competition, confident of superior profitability.",Livesquawk,2026-09-11T09:10:13,
@@ -5107,6 +5109,9 @@ GSTK543066,SBI Cards And Payment Services,SBICARD,893320.0,SBI Cards plans to me
 GSTK543066,SBI Cards And Payment Services,SBICARD,8.784588635441243e+17,"Bernstein downgrades SBI Card to underperform, cuts target price to ₹430.
 The downgrade cites structural challenges in the revolver-led credit card model.","Bernstein downgrades SBI Card to underperform, cuts target price to ₹430.
 The downgrade cites structural challenges in the revolver-led credit card model.",ScoutQuest,2026-08-21T07:31:54,https://sqst.in/shareMessage?msgId=878458863544124276
+GSTK532149,Bank Of India,BANKINDIA,937058.0,"Bank of India participated in a Non-Deal Roadshow in London to engage with institutional investors.
+Discussions were based on publicly available documents, disclosed under SEBI Regulation 30.","Bank of India participated in a Non-Deal Roadshow in London to engage with institutional investors.
+Discussions were based on publicly available documents, disclosed under SEBI Regulation 30.",BSE,2026-09-14T22:12:03,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=3ab9a345-c828-4744-9b7f-054d48f1e1b4.pdf
 GSTK532149,Bank Of India,BANKINDIA,26091128173783.0,"Bank of India maintains 14-15% credit growth guidance for FY despite crude at $100/barrel.
 BoI MD CEO Rajneesh Karnatak confirms no asset quality impact amid West Asia conflict.","Bank of India maintains 14-15% credit growth guidance for FY despite crude at $100/barrel.
 BoI MD CEO Rajneesh Karnatak confirms no asset quality impact amid West Asia conflict.",CNBC TV18,2026-09-11T15:32:58,https://www.cnbctv18.com/business/companies/gff-2026-bank-of-india-sticks-to-14-15-credit-growth-guidance-sees-no-stress-from-west-asia-crisis-crude-oil-gold-prices-rbi-vodafone-renewable-energy-19989383.htm
@@ -5134,9 +5139,6 @@ BoI reported highest-ever PAT of Rs. 10,527.1 Cr in FY26, showcasing improved as
 GSTK532149,Bank Of India,BANKINDIA,898646.0,"Bank of India announces participation in 'Ashwamedh - Elara India Dialogue 2026' by Elara Capital.
 No unpublished price-sensitive info will be shared; details sourced from public documents.","Bank of India announces participation in 'Ashwamedh - Elara India Dialogue 2026' by Elara Capital.
 No unpublished price-sensitive info will be shared; details sourced from public documents.",BSE,2026-08-28T11:25:10,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=cb5decfe-416c-439a-9649-9f5e1ee116a8.pdf
-GSTK532149,Bank Of India,BANKINDIA,883736.0,"Infomerics reaffirmed IVR AAA/Stable rating for BOI's Basel III Tier-II Bonds, citing sovereign ownership and strong earnings.
-BOI's GNPA improved to 1.81%, CASA ratio declined to 36.7%, and CRAR strengthened to 18.69% in Q1FY27.","Infomerics reaffirmed IVR AAA/Stable rating for BOI's Basel III Tier-II Bonds, citing sovereign ownership and strong earnings.
-BOI's GNPA improved to 1.81%, CASA ratio declined to 36.7%, and CRAR strengthened to 18.69% in Q1FY27.",BSE,2026-08-19T18:17:46,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c060e008-a2f6-4096-8451-80d51d99259d.pdf
 GSTK540755,General Insurance Corporation of India,GICRE,26090724678444.0,"NSE IPO to generate Rs 7,200 crore for five public sector insurers.
 Sale includes 40M shares at an assumed valuation of Rs 1,800 per share.","NSE IPO to generate Rs 7,200 crore for five public sector insurers.
 Sale includes 40M shares at an assumed valuation of Rs 1,800 per share.",The Economic Times,2026-09-07T06:07:12,https://economictimes.indiatimes.com/markets/ipos/fpos/nse-ipo-set-to-deliver-massive-gains-to-state-run-insurance-firms/articleshow/133857192.cms
@@ -8909,6 +8911,9 @@ The financials comply with Indian Accounting Standards and legal requirements.",
 GSTK543945,Netweb Technologies India,NETWEB,672804898.0,"BofA starts coverage on Netweb Tech citing India's AI infra growth, sets target price.
 Netweb Tech shares drop 11%, largest single-day fall since Jan 2025, before board meeting.","BofA starts coverage on Netweb Tech citing India's AI infra growth, sets target price.
 Netweb Tech shares drop 11%, largest single-day fall since Jan 2025, before board meeting.",moneycontrol.com,2026-08-13T00:00:00,https://www.moneycontrol.com/news/tags/netweb-technologies.html
+GSTK544283,Acme Solar Holdings,ACMESOLAR,8.873814654522102e+17,"ACME Solar commissioned 53.63 MW/300 MWh BESS Phase-I in Rajasthan.
+Project's total capacity is 300 MW/1581 MWh; COD slated for Sep 16, 2026.","ACME Solar commissioned 53.63 MW/300 MWh BESS Phase-I in Rajasthan.
+Project's total capacity is 300 MW/1581 MWh; COD slated for Sep 16, 2026.",ScoutQuest,2026-09-14T22:27:08,https://sqst.in/SXbgn
 GSTK544283,Acme Solar Holdings,ACMESOLAR,8.858972608483524e+17,"ACME Solar approves formation of ACME Renewables FZCO in UAE.
 New unit to focus on procurement, supply chain, and raw material hedging.","ACME Solar approves formation of ACME Renewables FZCO in UAE.
 New unit to focus on procurement, supply chain, and raw material hedging.",ScoutQuest,2026-09-10T20:09:26,https://sqst.in/shareMessage?msgId=885897260848352390
@@ -8936,9 +8941,9 @@ Refinancing via NaBFID loan reduced borrowing costs by ~150 bps.",ScoutQuest,202
 GSTK544283,Acme Solar Holdings,ACMESOLAR,861321.0,"ACME Solar Holdings announced full redemption of offshore dollar bonds using domestic refinancing.
 The refinancing was achieved under RBI's framework, reducing costs by ~3.6% to Rs. 8,198 crore.","ACME Solar Holdings announced full redemption of offshore dollar bonds using domestic refinancing.
 The refinancing was achieved under RBI's framework, reducing costs by ~3.6% to Rs. 8,198 crore.",BSE,2026-08-12T08:48:06,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=76664520-a90b-451b-9c94-7bb56cef30ed.pdf
-GSTK544283,Acme Solar Holdings,ACMESOLAR,2608105362341.0,"ACME Solar plans Rs 20k crore capex to expand renewable power.
-Company targets 10 GWh battery deployment, energy storage at 25% now.","ACME Solar plans Rs 20k crore capex to expand renewable power.
-Company targets 10 GWh battery deployment, energy storage at 25% now.",The Economic Times,2026-08-09T12:00:00,https://economictimes.indiatimes.com/industry/renewables/acme-solar-plans-to-spend-up-to-rs-20k-crore-on-capex-ceo/articleshow/133073612.cms
+GSTK534309,NBCC (India),NBCC,8.87369822068501e+17,"NBCC (India) Ltd opens branch office in South Yarra, Australia.
+Offers PMC, EPC services; collaborates with Goldfields Pvt. Ltd in Australia.","NBCC (India) Ltd opens branch office in South Yarra, Australia.
+Offers PMC, EPC services; collaborates with Goldfields Pvt. Ltd in Australia.",ScoutQuest,2026-09-14T21:40:52,https://sqst.in/pXEu1
 GSTK534309,NBCC (India),NBCC,925776.0,"NBCC (India) Ltd appoints D K Chhajer & Co. as statutory auditor for FY 2026-27.
 CAG confirmed the appointment under Section 139 of Companies Act, 2013.","NBCC (India) Ltd appoints D K Chhajer & Co. as statutory auditor for FY 2026-27.
 CAG confirmed the appointment under Section 139 of Companies Act, 2013.",BSE,2026-09-08T14:56:53,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7fde1e24-cf0a-4e00-9619-79e39dd4f88d.pdf
@@ -8964,9 +8969,6 @@ GSTK534309,NBCC (India),NBCC,867747.0,"NBCC secures ₹234.8 crore ITBP order fo
 NBCC Q1 profit rises 17.2% YoY; announces ₹0.15 interim dividend, plans REIT subsidiary.","NBCC secures ₹234.8 crore ITBP order for Ladakh infrastructure redevelopment.
 NBCC Q1 profit rises 17.2% YoY; announces ₹0.15 interim dividend, plans REIT subsidiary.",CNBC TV 18,2026-08-13T13:16:53,https://www.cnbctv18.com/market/nbcc-bags-rs-235-crore-order-indo-tibetan-border-police-ladakh-infra-19968436.htm
 GSTK534309,NBCC (India),NBCC,867270.0,"NBCC secures a new contract worth ₹235 crore, boosting order intake.","NBCC secures a new contract worth ₹235 crore, boosting order intake.",Livesquawk,2026-08-13T12:01:57,
-GSTK534309,NBCC (India),NBCC,8.756276851915677e+17,"NBCC awarded Rs. 234.78 Cr work order for PMC services in Ladakh.
-Project involves 28 BOPs for ITBP; no related party transactions.","NBCC awarded Rs. 234.78 Cr work order for PMC services in Ladakh.
-Project involves 28 BOPs for ITBP; no related party transactions.",ScoutQuest,2026-08-13T12:01:48,https://sqst.in/ubiye
 GSTK541770,CreditAccess Grameen,CREDITACC,914390.0,CreditAccess Grameen raises Rs 300 crore through non-convertible debentures.,CreditAccess Grameen raises Rs 300 crore through non-convertible debentures.,Business Standard,2026-09-03T20:04:01,https://www.business-standard.com/markets/capital-market-news/creditaccess-grameen-successfully-raises-rs-300-cr-via-ncds-126090301410_1.html
 GSTK541770,CreditAccess Grameen,CREDITACC,913637.0,"CreditAccess Grameen raised ₹300 Cr via bilateral NCD issuance placed with Barclays Bank.
 The NCDs have tenures of 24 & 36 months with 9.15% & 9.25% annual coupons, repayable as bullet payments.","CreditAccess Grameen raised ₹300 Cr via bilateral NCD issuance placed with Barclays Bank.
@@ -11078,6 +11080,9 @@ Trading window remains closed till 3rd August 2026 as per SEBI regulations.",BSE
 GSTK532181,Gujarat Mineral Development Corporation,GMDCLTD,772022.0,"Experts suggest holding Solar Industries, Balaji Amines, Bharat Dynamics, GMDC due to strong fundamentals and potential growth.
 Bharti Airtel, UNO Minda recommended for accumulation amid technical indicators signaling upward momentum and long-term growth.","Experts suggest holding Solar Industries, Balaji Amines, Bharat Dynamics, GMDC due to strong fundamentals and potential growth.
 Bharti Airtel, UNO Minda recommended for accumulation amid technical indicators signaling upward momentum and long-term growth.",NDTV Profit,2026-07-10T09:14:08,https://www.ndtvprofit.com/markets/buy-sell-or-hold-bharti-airtel-solar-industries-balaji-amines-bharat-dynamics-uno-minda-gmdc-ask-profit-11751921#publisher=newsstand
+GSTK544225,OLA Electric Mobility,OLAELEC,937109.0,"Ola Electric schedules analyst meeting with Emkay Global on Sep 17, 2026.
+Interaction at Ola Future Factory; no UPSI to be discussed; updates on firm's website.","Ola Electric schedules analyst meeting with Emkay Global on Sep 17, 2026.
+Interaction at Ola Future Factory; no UPSI to be discussed; updates on firm's website.",BSE,2026-09-14T23:55:49,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f707f163-3b59-4d51-8878-fa3211892e8e.pdf
 GSTK544225,OLA Electric Mobility,OLAELEC,931158.0,"Ola Electric rose 7.5%, hitting ₹40.51, driven by value buying after a three-session decline.
 Ather Energy gained 4% to ₹1,648.6 as Nomura raised its target price to ₹1,926 with a 'Buy' rating.","Ola Electric rose 7.5%, hitting ₹40.51, driven by value buying after a three-session decline.
 Ather Energy gained 4% to ₹1,648.6 as Nomura raised its target price to ₹1,926 with a 'Buy' rating.",Livemint,2026-09-10T11:26:40,https://www.livemint.com/market/stock-market-news/why-ola-electric-and-ather-energy-shares-are-rising-today-explained-11789015393295.html
@@ -11105,9 +11110,6 @@ Company targets 500+ dealership footprint, transitioning owned stores to experie
 GSTK544225,OLA Electric Mobility,OLAELEC,914298.0,"Ola Electric plans fresh fundraising after ₹780-cr QIP, with board meeting on Sep 5 to explore options.
 Ola invests ₹2,000 cr in subsidiaries for EV, battery-cell production; aims retail, manufacturing expansion.","Ola Electric plans fresh fundraising after ₹780-cr QIP, with board meeting on Sep 5 to explore options.
 Ola invests ₹2,000 cr in subsidiaries for EV, battery-cell production; aims retail, manufacturing expansion.",The Hindu Business Line,2026-09-03T18:37:16,https://www.thehindubusinessline.com/markets/ola-electric-weighs-fresh-fundraising-three-months-after-780-crore-qip/article71423817.ece
-GSTK544225,OLA Electric Mobility,OLAELEC,26090322595404.0,"Ola Electric's board will meet on Sep 5 to discuss fresh fundraising.
-The electric two-wheeler maker disclosed this in a regulatory filing.","Ola Electric's board will meet on Sep 5 to discuss fresh fundraising.
-The electric two-wheeler maker disclosed this in a regulatory filing.",The Economic Times,2026-09-03T12:12:27,https://economictimes.indiatimes.com/tech/technology/ola-electric-board-to-meet-on-september-5-to-consider-fresh-fundraise/articleshow/133727813.cms
 GSTK532548,Century Plyboards (India),CENTURYPLY,8.80321006095737e+17,"Century Plyboards' Q1 growth surges, raising questions about continued momentum in FY27.","Century Plyboards' Q1 growth surges, raising questions about continued momentum in FY27.",ScoutQuest,2026-08-26T10:51:23,https://sqst.in/ii4Fn
 GSTK532548,Century Plyboards (India),CENTURYPLY,890668.0,"Century Plyboards announces its 45th AGM on 16 Sep 2026 via video conference.
 Shareholders can access AGM notice and FY 2025-26 report online; dividend set at Re. 1/share.","Century Plyboards announces its 45th AGM on 16 Sep 2026 via video conference.
@@ -16269,6 +16271,9 @@ Report focuses on financial metrics, lacks detailed analysis or commentary.",Bus
 GSTK538835,Intellect Design Arena,INTELLECT,8.709362216504718e+17,"Intellect Design Arena's Q1 FY27 revenue grew 19% YoY to INR 872 Cr.
 LTM PBT surpassed INR 500 Cr; 19 customers added, Purple Fabric separated to advance AI.","Intellect Design Arena's Q1 FY27 revenue grew 19% YoY to INR 872 Cr.
 LTM PBT surpassed INR 500 Cr; 19 customers added, Purple Fabric separated to advance AI.",ScoutQuest,2026-07-31T13:19:36,https://sqst.in/5JP2i
+GSTK543463,Manyavar- Vedant Fashions Ltd.,MANYAVAR,937106.0,"Vedant Fashions Ltd announced an investor meet on Sep 17, 2026.
+The meeting will be virtual, with no unpublished price-sensitive info discussed.","Vedant Fashions Ltd announced an investor meet on Sep 17, 2026.
+The meeting will be virtual, with no unpublished price-sensitive info discussed.",BSE,2026-09-14T23:50:19,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=5ae39144-ec47-49bb-8f15-87bdf1a32af8.pdf
 GSTK543463,Manyavar- Vedant Fashions Ltd.,MANYAVAR,8.855870813795387e+17,"Vedant Fashions received GST appeal order on Aug 28, 2026.
 Interest and penalties totaling ₹2,73,471 were set aside; no adverse impact.","Vedant Fashions received GST appeal order on Aug 28, 2026.
 Interest and penalties totaling ₹2,73,471 were set aside; no adverse impact.",ScoutQuest,2026-09-09T23:36:53,https://sqst.in/mmW7o
@@ -16292,9 +16297,6 @@ GSTK543463,Manyavar- Vedant Fashions Ltd.,MANYAVAR,837798.0,"Vedant Fashions sur
 Net profit rose 14.7% YoY to Rs 80.6 crore; EBITDA margin improved to 43.5%, driving investor confidence.","Vedant Fashions surged 5.2% to Rs 512.95, outperforming Sensex's 0.31% gain due to strong Q1 FY27 results.
 Net profit rose 14.7% YoY to Rs 80.6 crore; EBITDA margin improved to 43.5%, driving investor confidence.",NDTV Profit,2026-08-05T11:53:10,https://www.ndtvprofit.com/markets/26-percent-return-in-one-month-this-stock-jumped-over-5-percent-in-trade-heres-why-11867987#publisher=newsstand
 GSTK543463,Manyavar- Vedant Fashions Ltd.,MANYAVAR,8.206598493235242e+18,"NK Securities Research sells 1,239,806 shares of Vedant Fashions at avg price of 474.6.","NK Securities Research sells 1,239,806 shares of Vedant Fashions at avg price of 474.6.",NSE Bulk Trades,2026-08-04T21:00:15,https://www.nseindia.com/report-detail/display-bulk-and-block-deals
-GSTK543463,Manyavar- Vedant Fashions Ltd.,MANYAVAR,2.8323445026053586e+18,"Vedant Fashions Ltd's stock (MANYAVAR) saw 1.88M shares bought at avg price of ₹473.5.
-Trade executed by Microcurves Trading Pvt Ltd; transaction classified as BUY.","Vedant Fashions Ltd's stock (MANYAVAR) saw 1.88M shares bought at avg price of ₹473.5.
-Trade executed by Microcurves Trading Pvt Ltd; transaction classified as BUY.",NSE Bulk Trades,2026-08-04T21:00:15,https://www.nseindia.com/report-detail/display-bulk-and-block-deals
 GSTK532163,Saregama India,SAREGAMA,929000.0,"Saregama India gains 2.78%, trading at Rs 510.9 on NSE, outperforming NIFTY (-0.32%) and Nifty Media (-0.44%).
 The stock is up 2.24% YoY but dropped 3.61% in the last month; PE stands at 41.1 TTM.","Saregama India gains 2.78%, trading at Rs 510.9 on NSE, outperforming NIFTY (-0.32%) and Nifty Media (-0.44%).
 The stock is up 2.24% YoY but dropped 3.61% in the last month; PE stands at 41.1 TTM.",Business Standard,2026-09-09T13:31:36,https://www.business-standard.com/markets/capital-market-news/saregama-india-ltd-soars-2-78-gains-for-third-straight-session-126090900616_1.html
@@ -64777,6 +64779,9 @@ Trading window closed from April 1 to May 24, 2026, per SEBI norms.",BSE,2026-05
 GSTK531667,RR Metalmakers India,,8.329590674877042e+17,"RR MetalMakers sold its Gujarat plant on Apr 16, 2026 for Rs. 2.65 crore plus taxes.
 The plant contributed 6.7% to turnover but had negative net worth; buyer Ojas Ecopower unrelated to promoters.","RR MetalMakers sold its Gujarat plant on Apr 16, 2026 for Rs. 2.65 crore plus taxes.
 The plant contributed 6.7% to turnover but had negative net worth; buyer Ojas Ecopower unrelated to promoters.",ScoutQuest,2026-04-17T18:11:57,https://sqst.in/X5218
+GSTK532761,HandsOn Global Management (HGM),HGM,937067.0,"HGM Ltd announces board meeting on Sep 17, 2026, for strategic investment review.
+Meeting notice sent to NSE and BSE under SEBI Regulation 30 compliance.","HGM Ltd announces board meeting on Sep 17, 2026, for strategic investment review.
+Meeting notice sent to NSE and BSE under SEBI Regulation 30 compliance.",BSE,2026-09-14T22:24:52,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=478a78f0-376d-4745-81c3-3385ae39a1b4.pdf
 GSTK532761,HandsOn Global Management (HGM),HGM,913981.0,"HGM approved a ₹5.5 Cr short-term loan to XBP Asia IT Solutions with 10% interest.
 The Board meeting was held on Sept 3, 2026, and lasted 30 minutes.","HGM approved a ₹5.5 Cr short-term loan to XBP Asia IT Solutions with 10% interest.
 The Board meeting was held on Sept 3, 2026, and lasted 30 minutes.",BSE,2026-09-03T19:13:45,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f2a5d670-fe76-4e30-963c-d56f7f434675.pdf
