@@ -2,6 +2,31 @@ StockID,Company,NSE Code,NewsID,Title,Summary,Source,PubDate,URL
 GSTK500325,Reliance Industries,RELIANCE,26092839588390.0,"Reliance plans $1B securitization deal to boost borrowing.
 This marks another entry by Reliance into the ABS market.","Reliance plans $1B securitization deal to boost borrowing.
 This marks another entry by Reliance into the ABS market.",Moneycontrol,2026-09-28T12:00:00,https://www.moneycontrol.com/news/business/companies/reliance-plans-1-billion-securitization-deal-in-borrowing-push-14040060.html
+GSTK500325,Reliance Industries,RELIANCE,26092738940795.0,"LCC Projects wins ₹70.35 crore civil contracts from Reliance Industries for Kutch RE Project.
+The contracts involve infrastructure work under Kutch RE Project Z2 in Gujarat.","LCC Projects wins ₹70.35 crore civil contracts from Reliance Industries for Kutch RE Project.
+The contracts involve infrastructure work under Kutch RE Project Z2 in Gujarat.",Equity Bulls,2026-09-27T12:00:00,https://www.equitybulls.com/category.php?id=375858
+GSTK500325,Reliance Industries,RELIANCE,26092537815444.0,"RIL to raise Rs 10,000 crore next week with 10-year maturity at 7.85-7.90% coupon.
+Adani Airport Holdings and others raised over Rs 14,500 crore this Friday.","RIL to raise Rs 10,000 crore next week with 10-year maturity at 7.85-7.90% coupon.
+Adani Airport Holdings and others raised over Rs 14,500 crore this Friday.",The Economic Times,2026-09-25T11:30:00,https://cfo.economictimes.indiatimes.com/news/corporate-finance/reliance-to-raise-rs-10000-crore-next-week-as-companies-rush-to-tap-surplus-bank-liquidity/134476666
+GSTK500325,Reliance Industries,RELIANCE,8.909600962094994e+17,"Reliance execs attended BofA Asia Pacific Conference in Hong Kong.
+No unpublished price-sensitive information was shared at the event.","Reliance execs attended BofA Asia Pacific Conference in Hong Kong.
+No unpublished price-sensitive information was shared at the event.",ScoutQuest,2026-09-24T19:27:20,https://sqst.in/YH2Pc
+GSTK500325,Reliance Industries,RELIANCE,957490.0,"Reliance Industries plans to raise ₹10,000 crore (~$1.04B) via 10-year bonds at a 7.9% annual coupon.
+This issuance will take Reliance's outstanding bonds to ₹54,000 crore, following a ₹12,000 crore raise two weeks ago.","Reliance Industries plans to raise ₹10,000 crore (~$1.04B) via 10-year bonds at a 7.9% annual coupon.
+This issuance will take Reliance's outstanding bonds to ₹54,000 crore, following a ₹12,000 crore raise two weeks ago.",Livemint,2026-09-24T14:19:47,https://www.livemint.com/companies/news/reliance-industries-said-to-eye-1-billion-debt-fundraise-11790239027278.html
+GSTK500325,Reliance Industries,RELIANCE,957345.0,"Reliance Industries (RIL) shares hit ₹1,226.1, a 17-month low, down 22% in 2026, underperforming Sensex (-13%).
+RIL faces cyclical risks in O2C, competitive retail challenges, and telecom sector demands, but Jio IPO offers value potential.","Reliance Industries (RIL) shares hit ₹1,226.1, a 17-month low, down 22% in 2026, underperforming Sensex (-13%).
+RIL faces cyclical risks in O2C, competitive retail challenges, and telecom sector demands, but Jio IPO offers value potential.",Business Standard,2026-09-24T13:15:35,https://www.business-standard.com/markets/news/reliance-industries-down-2-at-17-month-low-what-s-making-street-nervous-126092400512_1.html
+GSTK500325,Reliance Industries,RELIANCE,957076.0,"Reliance Industries plans to raise $1B via 10-year INR bonds.
+Funding aims to support corporate needs and extend debt maturity.","Reliance Industries plans to raise $1B via 10-year INR bonds.
+Funding aims to support corporate needs and extend debt maturity.",Livesquawk,2026-09-24T12:21:55,
+GSTK500325,Reliance Industries,RELIANCE,956610.0,"Reliance NSE block trade: ~196,828 shares worth Rs. 24.4 crore at Rs. 1,238.7/share.","Reliance NSE block trade: ~196,828 shares worth Rs. 24.4 crore at Rs. 1,238.7/share.",Livesquawk,2026-09-24T09:30:46,
+GSTK500325,Reliance Industries,RELIANCE,26092436720322.0,"RCPL quadruples authorised capital to ₹40,000 crore to expand FMCG business.
+Regulatory filings show increased borrowing, investment limits for RCPL's growth.","RCPL quadruples authorised capital to ₹40,000 crore to expand FMCG business.
+Regulatory filings show increased borrowing, investment limits for RCPL's growth.",The Economic Times,2026-09-24T02:01:12,https://economictimes.indiatimes.com/industry/cons-products/fmcg/reliance-consumer-products-quadruples-authorised-capital-to-40000-crore-as-fmcg-business-scales-up/articleshow/134445016.cms
+GSTK500325,Reliance Industries,RELIANCE,955709.0,"Reliance Industries Ltd participated in CITIC CLSA Investors’ Forum 2026 in Hong Kong.
+No unpublished price-sensitive information was disclosed during the meeting.","Reliance Industries Ltd participated in CITIC CLSA Investors’ Forum 2026 in Hong Kong.
+No unpublished price-sensitive information was disclosed during the meeting.",BSE,2026-09-23T18:54:28,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=aa2dc8d9-c621-42be-9861-bb170f4f2bda.pdf
 GSTK532454,Bharti Airtel,BHARTIARTL,26092839984854.0,"Reliance Jio led wireless mobile subscriber additions in August, gaining nearly 2.4 million users, according to data released by TRAI.
 Bharti Airtel followed with an addition of approximately 2.2 million mobile subscribers during the month.","Reliance Jio led wireless mobile subscriber additions in August, gaining nearly 2.4 million users, according to data released by TRAI.
 Bharti Airtel followed with an addition of approximately 2.2 million mobile subscribers during the month.",The Hindu BusinessLine,2026-09-28T19:49:07,https://www.thehindubusinessline.com/info-tech/jio-gains-24-million-mobile-users-in-august-airtel-21-million-trai-data/article71520420.ece
@@ -366,6 +391,9 @@ Projected sales and EBITDA CAGRs are 17% and 21% till FY29, driven by store grow
 GSTK500114,Titan Company,TITAN,933043.0,"Motilal Oswal maintains 'Buy' on Titan, setting a target price of Rs 6,000, citing strong jewelry growth and a 17% sales CAGR over FY26-29E.
 Titan's Tanishq leads with high brand recall, store expansion, and diversification into watches and eyewear; industry formalization boosts margins.","Motilal Oswal maintains 'Buy' on Titan, setting a target price of Rs 6,000, citing strong jewelry growth and a 17% sales CAGR over FY26-29E.
 Titan's Tanishq leads with high brand recall, store expansion, and diversification into watches and eyewear; industry formalization boosts margins.",NDTV Profit,2026-09-11T07:38:20,https://www.ndtvprofit.com/markets/titan-shares-motilal-oswal-maintains-buy-on-strong-jewelry-growth-outlook-check-target-price-upside-12031088#publisher=newsstand
+GSTK500520,Mahindra & Mahindra,M&M,26092940615816.0,"Brazilian aerospace firm Embraer will tie up with India's Mahindra Group to compete against Lockheed.
+The partnership plans to pitch the KC-390 Millennium jet for the Indian Air Force's mega 60-aircraft multi-role transport aircraft (MTA) contract.","Brazilian aerospace firm Embraer will tie up with India's Mahindra Group to compete against Lockheed.
+The partnership plans to pitch the KC-390 Millennium jet for the Indian Air Force's mega 60-aircraft multi-role transport aircraft (MTA) contract.",The Times of India,2026-09-28T22:51:00,https://timesofindia.indiatimes.com/defence/news/embraer-will-tie-up-with-mahindra-to-compete-with-lockheed-tata-for-iafs-60-transport-aircraft-contract/articleshow/134548036.cms
 GSTK500520,Mahindra & Mahindra,M&M,965309.0,"Mahindra & Mahindra's credit ratings reaffirmed by ICRA: [ICRA]AAA (Stable) for long-term and [ICRA]A1+ for short-term facilities.
 M&M's strong financial profile supported by robust cash flows, diversified business, and leadership in domestic tractor and UV markets.","Mahindra & Mahindra's credit ratings reaffirmed by ICRA: [ICRA]AAA (Stable) for long-term and [ICRA]A1+ for short-term facilities.
 M&M's strong financial profile supported by robust cash flows, diversified business, and leadership in domestic tractor and UV markets.",BSE,2026-09-28T14:44:26,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=aa8d0a6f-7a34-4ccc-8ff9-61a1e51425b3.pdf
@@ -391,9 +419,6 @@ GSTK500520,Mahindra & Mahindra,M&M,8.888123900147396e+17,"Crisil Ratings reaffir
 Ratings reflect leadership in tractors, LCVs, robust finances, and strong market position.","Crisil Ratings reaffirms Mahindra & Mahindra's AAA/Stable and A1+ ratings.
 Ratings reflect leadership in tractors, LCVs, robust finances, and strong market position.",ScoutQuest,2026-09-18T21:13:07,https://sqst.in/shareMessage?msgId=888812390014739551
 GSTK500520,Mahindra & Mahindra,M&M,939171.0,Mahindra & Mahindra to meet analysts and investors on Sep 21 at 9 AM.,Mahindra & Mahindra to meet analysts and investors on Sep 21 at 9 AM.,Livesquawk,2026-09-15T20:54:08,
-GSTK500520,Mahindra & Mahindra,M&M,938946.0,"M&M schedules analyst/investor meetings at J.P. Morgan, CLSA, BOFA events.
-Meetings span Mumbai & Hong Kong; no sensitive info to be disclosed per SEBI norms.","M&M schedules analyst/investor meetings at J.P. Morgan, CLSA, BOFA events.
-Meetings span Mumbai & Hong Kong; no sensitive info to be disclosed per SEBI norms.",BSE,2026-09-15T18:54:15,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=1f490112-51e1-43d5-8c51-ac8099e32b76.pdf
 GSTK533096,Adani Power,ADANIPOWER,966382.0,Adani Power plans a meeting with analysts and investors on Oct 26.,Adani Power plans a meeting with analysts and investors on Oct 26.,Livesquawk,2026-09-28T17:34:34,
 GSTK533096,Adani Power,ADANIPOWER,963964.0,"Adani Power finalizes merger of 10 subsidiaries; SAIL, BCCL sign MoU for coal block development.
 RCF awards ₹797 crore contract to L&T; Edelweiss confirms Carlyle's ₹2,000 crore Nido Home Finance stake.","Adani Power finalizes merger of 10 subsidiaries; SAIL, BCCL sign MoU for coal block development.
@@ -4172,6 +4197,9 @@ SEBI exempted the acquisition from open offer obligations, intended for family s
 GSTK544277,Waaree Energies,WAAREEENER,911548.0,"Waaree Energies targets FY27 operating EBITDA of ₹7,000–₹7,700 crores.
 The company aims to achieve 29 GW module capacity by FY27.","Waaree Energies targets FY27 operating EBITDA of ₹7,000–₹7,700 crores.
 The company aims to achieve 29 GW module capacity by FY27.",Livesquawk,2026-09-02T22:31:09,
+GSTK532541,Coforge,COFORGE,26092940550315.0,"Coforge has appointed Akhil Gupta as chairman following weeks of intense boardroom turmoil.
+The turmoil stemmed from former chairman O P Bhatt's abrupt resignation on September 9, after an internal audit revealed he withheld an evaluation report assigning his performance the lowest rating.","Coforge has appointed Akhil Gupta as chairman following weeks of intense boardroom turmoil.
+The turmoil stemmed from former chairman O P Bhatt's abrupt resignation on September 9, after an internal audit revealed he withheld an evaluation report assigning his performance the lowest rating.",Moneycontrol,2026-09-29T02:54:43,https://www.moneycontrol.com/news/business/companies/coforge-appoints-akhil-gupta-as-chairman-after-weeks-of-boardroom-turmoil-14040423.html
 GSTK532541,Coforge,COFORGE,967512.0,"Coforge Limited's Board has approved the appointment of Mr. Akhil Kumar Gupta as an Additional Director (Non-Executive Independent Director) and Chairperson of the Board for a five-year term starting September 29, 2026, subject to shareholder approval.
 Mr. Gupta, a Chartered Accountant with over 40 years of experience, is the former Vice Chairman of Bharti Enterprises and currently chairs the boards of 360 ONE WAM Ltd and Bharti Life Insurance Ltd.","Coforge Limited's Board has approved the appointment of Mr. Akhil Kumar Gupta as an Additional Director (Non-Executive Independent Director) and Chairperson of the Board for a five-year term starting September 29, 2026, subject to shareholder approval.
 Mr. Gupta, a Chartered Accountant with over 40 years of experience, is the former Vice Chairman of Bharti Enterprises and currently chairs the boards of 360 ONE WAM Ltd and Bharti Life Insurance Ltd.",BSE,2026-09-28T22:14:18,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=55f98612-cd3e-4375-af14-d2a49be1ad6f.pdf
@@ -4199,9 +4227,6 @@ Q1 revenue grew 24.2% to ₹5,527.7 crore; profit fell 15.3% due to one-off cost
 GSTK532541,Coforge,COFORGE,26091329100476.0,"Coforge denies board discord after independent director DK Singh's resignation.
 KPMG flagged internal audit gaps in August; directors had renewed terms earlier.","Coforge denies board discord after independent director DK Singh's resignation.
 KPMG flagged internal audit gaps in August; directors had renewed terms earlier.",Financial Express,2026-09-13T06:26:00,https://www.financialexpress.com/business/industry-coforge-denies-differences-in-board-after-independent-director-dk-singh-resigns-4338182/
-GSTK532541,Coforge,COFORGE,934904.0,"Coforge's NRC Chair DK Singh resigns after KPMG audit flags governance issues, marking the second high-profile departure after Chairman O.P. Bhatt.
-Coforge reconstitutes NRC, appoints interim leaders amid governance scrutiny, aiming to rebuild stakeholder trust and ensure transparency.","Coforge's NRC Chair DK Singh resigns after KPMG audit flags governance issues, marking the second high-profile departure after Chairman O.P. Bhatt.
-Coforge reconstitutes NRC, appoints interim leaders amid governance scrutiny, aiming to rebuild stakeholder trust and ensure transparency.",NDTV Profit,2026-09-11T20:50:25,https://www.ndtvprofit.com/business/second-exit-at-coforge-nrc-chair-dk-singh-resigns-after-kmpg-audit-flags-hidden-scores-12034464#publisher=newsstand
 GSTK544289,NTPC Green Energy,NTPCGREEN,962571.0,"NTPC Green Energy Ltd declared 81.34 MW of Kalasar Solar Project in Rajasthan operational.
 The group's total installed capacity increased to 11,058.57 MW with this addition.","NTPC Green Energy Ltd declared 81.34 MW of Kalasar Solar Project in Rajasthan operational.
 The group's total installed capacity increased to 11,058.57 MW with this addition.",BSE,2026-09-26T09:00:26,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2447fee4-1f71-46e9-bc06-df3966619947.pdf
