@@ -1,4 +1,7 @@
 StockID,Company,NSE Code,NewsID,Title,Summary,Source,PubDate,URL
+GSTK500325,Reliance Industries,RELIANCE,3655462.0,"At Jio Platforms' IPO press conference, Isha Ambani highlighted Reliance Industries' 29% annualised returns since its 1977 listing.
+Akash Ambani emphasized substantial growth opportunities ahead for Jio Platforms.","At Jio Platforms' IPO press conference, Isha Ambani highlighted Reliance Industries' 29% annualised returns since its 1977 listing.
+Akash Ambani emphasized substantial growth opportunities ahead for Jio Platforms.",ET NOW,2026-10-16T01:33:54,https://x.com/ETNOWlive/status/2110824003007128027
 GSTK500325,Reliance Industries,RELIANCE,3645664.0,"Reliance Jio is slated for a ₹30,188 crore initial public offering.
 Akash and Isha Ambani have unveiled Reliance's next big vision.","Reliance Jio is slated for a ₹30,188 crore initial public offering.
 Akash and Isha Ambani have unveiled Reliance's next big vision.",ScoutQuest,2026-10-15T17:01:06,https://sqst.in/H3fz4
@@ -20,9 +23,6 @@ Dr Reddy's received three USFDA observations, Morepen Labs got tax relief, and A
 GSTK500325,Reliance Industries,RELIANCE,3633520.0,Reliance Industries shares are in focus after Jio announced the price band for India's largest IPO.,Reliance Industries shares are in focus after Jio announced the price band for India's largest IPO.,ScoutQuest,2026-10-15T06:52:33,https://sqst.in/shareMessage?msgId=898380293552021074
 GSTK500325,Reliance Industries,RELIANCE,3629161.0,Jio IPO sparks investor buzz with GMP hitting 20% as Reliance's telecom arm announces price band and dates.,Jio IPO sparks investor buzz with GMP hitting 20% as Reliance's telecom arm announces price band and dates.,The Economic Times,2026-10-14T22:38:26,https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipo-sparks-investor-buzz-gmp-hits-20-as-reliances-telecom-arm-announces-price-band-dates/articleshow/134946913.cms
 GSTK500325,Reliance Industries,RELIANCE,3626422.0,"Reliance Jio has reserved Rs 2,500 crore worth of shares in its IPO reservation for RIL shareholders.","Reliance Jio has reserved Rs 2,500 crore worth of shares in its IPO reservation for RIL shareholders.",The Economic Times,2026-10-14T19:31:55,https://economictimes.indiatimes.com/markets/ipos/fpos/diwali-offer-for-ril-shareholders-reliance-jio-sets-aside-rs-2500-crore-shares-in-ipo-reservation/articleshow/134944234.cms
-GSTK500325,Reliance Industries,RELIANCE,3624535.0,"Reliance subsidiary Jio Platforms filed its RHP for an IPO offering up to 27 crore fresh equity shares.
-The IPO opens October 21 and closes October 23, 2026, with reservations for eligible RIL shareholders and employees.","Reliance subsidiary Jio Platforms filed its RHP for an IPO offering up to 27 crore fresh equity shares.
-The IPO opens October 21 and closes October 23, 2026, with reservations for eligible RIL shareholders and employees.",BSE,2026-10-14T18:35:09,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=9f9c9b25-75e8-45ba-83a4-e230e7657f54.pdf
 GSTK532454,Bharti Airtel,BHARTIARTL,3622276.0,"Bharti Airtel received a notice from DoT imposing a Rs 1.5 lakh penalty for alleged subscriber verification norms violation.
 The penalty follows a July 2026 CAF audit, and Bharti Airtel has opted not to contest and pay it.","Bharti Airtel received a notice from DoT imposing a Rs 1.5 lakh penalty for alleged subscriber verification norms violation.
 The penalty follows a July 2026 CAF audit, and Bharti Airtel has opted not to contest and pay it.",BSE,2026-10-14T16:05:17,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a8d5d220-d9ab-4f1f-95eb-4bccc395a36a.pdf
@@ -1415,6 +1415,7 @@ HAL gains 3% on GE Aero engine update; HEG up 3% ahead of demerger eligibility."
 GSTK540719,SBI Life Insurance Company,SBILIFE,915457.0,"SBI Life traded 210,055 shares on NSE block at Rs. 1754.8.
 The total transaction value was approximately Rs. 36.86 crore.","SBI Life traded 210,055 shares on NSE block at Rs. 1754.8.
 The total transaction value was approximately Rs. 36.86 crore.",Livesquawk,2026-09-04T13:06:53,
+GSTK507685,Wipro,WIPRO,3655153.0,Wipro's weak deal bookings have clouded the company's overall growth outlook.,Wipro's weak deal bookings have clouded the company's overall growth outlook.,Financial Express,2026-10-16T00:00:17,https://t.co/LhmNqtLSkh
 GSTK507685,Wipro,WIPRO,3654235.0,"Wipro projects Q3 revenue at $2,571M–$2,625M (-1.5% to +0.5% QoQ CC), citing furlough impacts and fewer working days.
 The deal pipeline remains strong despite administrative delays; over 2,000 engineers are deployed in its AI-Native unit.","Wipro projects Q3 revenue at $2,571M–$2,625M (-1.5% to +0.5% QoQ CC), citing furlough impacts and fewer working days.
 The deal pipeline remains strong despite administrative delays; over 2,000 engineers are deployed in its AI-Native unit.",ScoutQuest,2026-10-15T22:32:49,https://sqst.in/wUoo2
@@ -1440,9 +1441,6 @@ The policy shifts may potentially influence client demand and project timelines 
 GSTK507685,Wipro,WIPRO,3644515.0,"Wipro executive reports that demand conditions remain mostly stable this quarter.
 The executive commentary suggests limited near-term volatility in customer demand.","Wipro executive reports that demand conditions remain mostly stable this quarter.
 The executive commentary suggests limited near-term volatility in customer demand.",Livesquawk,2026-10-15T16:36:53,
-GSTK507685,Wipro,WIPRO,3643675.0,"Wipro's net profit missed estimates at Rs 3,200 crore, down 4.5%, while revenue rose 0.9% in line with expectations.
-EBIT margin stood at 16.1%; RSB's Chakri Lokpriya noted cheap valuations limit downside despite muted deal bookings.","Wipro's net profit missed estimates at Rs 3,200 crore, down 4.5%, while revenue rose 0.9% in line with expectations.
-EBIT margin stood at 16.1%; RSB's Chakri Lokpriya noted cheap valuations limit downside despite muted deal bookings.",ScoutQuest,2026-10-15T16:00:52,https://sqst.in/w7OT2
 GSTK544780,Vedanta Aluminium Metal,VAML,3481902.0,"VAML witnessed a BSE block trade valued at approximately Rs. 20.1 crore.
 The transaction involved around 503,680 shares executed at a price of Rs. 398.5 per share.","VAML witnessed a BSE block trade valued at approximately Rs. 20.1 crore.
 The transaction involved around 503,680 shares executed at a price of Rs. 398.5 per share.",Livesquawk,2026-10-05T10:06:53,
@@ -2547,6 +2545,9 @@ The reported net profit missed Street estimates, which were pegged at ₹6.3B.",
 GSTK540777,HDFC Life Insurance Company,HDFCLIFE,3643672.0,"HDFC Life's Board approved unaudited standalone results for the quarter and half-year ended September 30, 2026.
 The Board approved raising up to ₹500 crore via subordinated NCDs and setting up a GIFT IFSC office.","HDFC Life's Board approved unaudited standalone results for the quarter and half-year ended September 30, 2026.
 The Board approved raising up to ₹500 crore via subordinated NCDs and setting up a GIFT IFSC office.",ScoutQuest,2026-10-15T16:01:31,https://sqst.in/5BStm
+GSTK540777,HDFC Life Insurance Company,HDFCLIFE,3654859.0,"HDFC Life expects near-term disruption from proposed IRDAI norms but anticipates emerging stronger.
+CEO Vibha Padalkar stated market forces will determine distribution cost savings passed to policyholders.","HDFC Life expects near-term disruption from proposed IRDAI norms but anticipates emerging stronger.
+CEO Vibha Padalkar stated market forces will determine distribution cost savings passed to policyholders.",Moneycontrol,2026-10-15T12:00:00,https://www.moneycontrol.com/banking/hdfc-life-sees-near-term-disruption-from-proposed-irdai-norms-but-expects-to-emerge-stronger-article-14053241.html
 GSTK540777,HDFC Life Insurance Company,HDFCLIFE,3637543.0,HDFC Life is set to announce its Q2 financial results today.,HDFC Life is set to announce its Q2 financial results today.,ScoutQuest,2026-10-15T10:59:03,https://sqst.in/shareMessage?msgId=898442327010385781
 GSTK540777,HDFC Life Insurance Company,HDFCLIFE,3500478.0,"HDFC Life Insurance Company will host an earnings conference call on Thursday, October 15, 2026, at 16:15 IST with analysts and investors to discuss its H1 FY27 financial performance.
 Investors can pre-register for quicker access to the call, and an audio recording will be made available on the company's website in due course.","HDFC Life Insurance Company will host an earnings conference call on Thursday, October 15, 2026, at 16:15 IST with analysts and investors to discuss its H1 FY27 financial performance.
@@ -2554,9 +2555,6 @@ Investors can pre-register for quicker access to the call, and an audio recordin
 GSTK540777,HDFC Life Insurance Company,HDFCLIFE,969610.0,"HDFC Life Insurance approved the grant of 23,85,355 stock options at Rs. 531.6 each and 11,05,140 performance restricted stock units at Rs. 10 each under its 2025 schemes.
 Both options and units vest over three years—30% on the first anniversary, 30% on the second, and 40% on the third—and must be exercised within 4 years from vesting.","HDFC Life Insurance approved the grant of 23,85,355 stock options at Rs. 531.6 each and 11,05,140 performance restricted stock units at Rs. 10 each under its 2025 schemes.
 Both options and units vest over three years—30% on the first anniversary, 30% on the second, and 40% on the third—and must be exercised within 4 years from vesting.",BSE,2026-09-29T17:31:00,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b2610f9d-66f2-4f42-9e44-b592baea12f0.pdf
-GSTK540777,HDFC Life Insurance Company,HDFCLIFE,617080739.0,"HDFC Life dropped -5.1%, trading at 514-535.35 today.
-52-week range: 508.7-788.5; data delayed by 15 minutes.","HDFC Life dropped -5.1%, trading at 514-535.35 today.
-52-week range: 508.7-788.5; data delayed by 15 minutes.",reuters.com,2026-09-24T13:20:06,https://www.reuters.com/jp/markets/companies/HDFL.NS/key-metrics/financial-strength
 GSTK500087,Cipla,CIPLA,3606223.0,"Cipla to announce its unaudited Q2FY27 financial results on October 27, 2026.
 The company will host an earnings conference call on October 27, 2026, at 16:00 hrs IST.","Cipla to announce its unaudited Q2FY27 financial results on October 27, 2026.
 The company will host an earnings conference call on October 27, 2026, at 16:00 hrs IST.",BSE,2026-10-13T18:53:26,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=10415382-a94b-4f11-a507-c7c91a0fca3b.pdf
@@ -3587,6 +3585,9 @@ Meeting aims to discuss company updates with stakeholders.",Livesquawk,2026-09-2
 GSTK524804,Aurobindo Pharma,AUROPHARMA,949489.0,"Aurobindo Pharma Ltd to join JP Morgan Healthcare Trip in Hyderabad.
 The meeting on Sep 24, 2026, won't disclose unpublished price-sensitive info.","Aurobindo Pharma Ltd to join JP Morgan Healthcare Trip in Hyderabad.
 The meeting on Sep 24, 2026, won't disclose unpublished price-sensitive info.",BSE,2026-09-21T16:05:21,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=42291a58-249a-40a2-8298-c3f5de92e623.pdf
+GSTK500116,IDBI Bank,IDBI,3655474.0,"Prem Watsa outlines Fairfax's $5.6 billion IDBI Bank deal, with Peter Clarke explaining the funding structure.
+Combining IDBI Bank, Digit Insurance, and IIFL Capital could create an integrated financial services entity, says Watsa.","Prem Watsa outlines Fairfax's $5.6 billion IDBI Bank deal, with Peter Clarke explaining the funding structure.
+Combining IDBI Bank, Digit Insurance, and IIFL Capital could create an integrated financial services entity, says Watsa.",ET NOW,2026-10-16T01:52:22,https://x.com/ETNOWlive/status/2110828652955066513
 GSTK500116,IDBI Bank,IDBI,3653764.0,"Fairfax gets no right of first refusal in IDBI Bank's residual stake sale.
 The government approved the strategic sale and outlined open-market options for the remaining shares.","Fairfax gets no right of first refusal in IDBI Bank's residual stake sale.
 The government approved the strategic sale and outlined open-market options for the remaining shares.",The Hindu Business Line,2026-10-15T21:40:18,https://www.thehindubusinessline.com/money-and-banking/no-right-of-first-refusal-to-fairfax-for-residual-stake-sale-in-idbi-bank/article71588716.ece?utm_campaign=mrf-twitter-businessline&utm_source=twitter&utm_medium=social&mrfcid=202610156ad0fae96a29701657af026c
@@ -3610,9 +3611,6 @@ GSTK500116,IDBI Bank,IDBI,3641716.0,"IDBI Bank privatization is completed; the g
 LIC will reduce its stake to 15% over two years, while the strategic buyer triggers an open offer of at least 6%.","IDBI Bank privatization is completed; the government will hold under 15% equity with no board seat or management role.
 LIC will reduce its stake to 15% over two years, while the strategic buyer triggers an open offer of at least 6%.",ScoutQuest,2026-10-15T14:42:01,https://sqst.in/VlEnM
 GSTK500116,IDBI Bank,IDBI,3641593.0,DIPAM Secretary Arunish Chawla speaks exclusively regarding the sale of IDBI Bank to Fairfax.,DIPAM Secretary Arunish Chawla speaks exclusively regarding the sale of IDBI Bank to Fairfax.,ET NOW,2026-10-15T14:30:05,https://x.com/i/broadcasts/1pJkOXgAYeyJj
-GSTK500116,IDBI Bank,IDBI,3645340.0,"Canada’s trade minister called India's approval to sell IDBI Bank stake to Toronto-based Fairfax Financial a big win.
-Minister Maninder Sidhu highlighted the decision while leading the Team Canada Trade Mission to India.","Canada’s trade minister called India's approval to sell IDBI Bank stake to Toronto-based Fairfax Financial a big win.
-Minister Maninder Sidhu highlighted the decision while leading the Team Canada Trade Mission to India.",Hindustan Times,2026-10-15T13:16:15,https://www.hindustantimes.com/world-news/canada-calls-sale-of-60-stake-in-idbi-bank-to-toronto-firm-a-big-win-101792050375898.html
 GSTK500469,Federal Bank,FEDERALBNK,3563623.0,"CARE Ratings reaffirmed the credit ratings for Federal Bank's Tier II Bonds and Infrastructure Bonds.
 The credit ratings for both bond instruments have been reaffirmed at CARE AA; Stable.","CARE Ratings reaffirmed the credit ratings for Federal Bank's Tier II Bonds and Infrastructure Bonds.
 The credit ratings for both bond instruments have been reaffirmed at CARE AA; Stable.",Capital Market,2026-10-10T12:00:00,https://www.capitalmarket.com/markets/news/corporate-news/federal-bank-receives-affirmation-in-credit-ratings-for-bonds/1736085
@@ -5641,6 +5639,9 @@ Shareholders must be on record 2 business days before the ex-dividend date to qu
 GSTK533758,APL Apollo Tubes,APLAPOLLO,26082818627739.0,"APL Apollo Tubes up 2.5% at Rs 2243 on NSE; gains 19.9% in 1 month.
 Stock up 39.7% Y-o-Y; Nifty Metal index fell 46.7% in same period.","APL Apollo Tubes up 2.5% at Rs 2243 on NSE; gains 19.9% in 1 month.
 Stock up 39.7% Y-o-Y; Nifty Metal index fell 46.7% in same period.",Capital Market,2026-08-28T12:00:00,http://capitalmarket.com/markets/news/live-news/apl-apollo-tubes-ltd-gains-for-third-straight-session/1727736
+GSTK544397,Ather Energy,ATHERENERG,3654607.0,"IRDAI granted Ather Energy's subsidiary, Ather Insurance, registration to act as a Corporate Agent for insurance distribution.
+The license enables Ather Energy to diversify revenue streams by offering life, general, and health insurance to customers.","IRDAI granted Ather Energy's subsidiary, Ather Insurance, registration to act as a Corporate Agent for insurance distribution.
+The license enables Ather Energy to diversify revenue streams by offering life, general, and health insurance to customers.",BSE,2026-10-15T23:01:55,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a1182ba7-2aa9-4b96-a6b8-3b36e4a74a36.pdf
 GSTK544397,Ather Energy,ATHERENERG,3455991.0,"Ather Energy Limited has allotted 1,14,350 equity shares of face value INR 1 each to eligible employees upon the exercise of stock options under the Ather Energy ESOP 2025 Plan.
 Consequent to the allotment, the company's paid-up equity share capital increased from INR 39,66,03,751 to INR 39,67,18,101. The newly allotted shares will rank pari-passu with existing equity shares.","Ather Energy Limited has allotted 1,14,350 equity shares of face value INR 1 each to eligible employees upon the exercise of stock options under the Ather Energy ESOP 2025 Plan.
 Consequent to the allotment, the company's paid-up equity share capital increased from INR 39,66,03,751 to INR 39,67,18,101. The newly allotted shares will rank pari-passu with existing equity shares.",BSE,2026-10-01T17:37:13,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=12c0dd2a-5629-4a87-9b0c-0ba43fc6c419.pdf
@@ -5664,9 +5665,6 @@ GSTK544397,Ather Energy,ATHERENERG,903953.0,"JPMorgan maintains Overweight on At
 Better pricing drives 17–25% FY29–31E EBITDA upgrade, supporting market-share expansion for Ather Energy.","JPMorgan maintains Overweight on Ather Energy, sets ₹1,850 target citing EV adoption barrier solutions.
 Better pricing drives 17–25% FY29–31E EBITDA upgrade, supporting market-share expansion for Ather Energy.",Livesquawk,2026-09-01T08:40:59,
 GSTK544397,Ather Energy,ATHERENERG,5.940332638035958e+18,Hero MotoCorp buys 11.88M shares of Ather Energy at ₹1480 each.,Hero MotoCorp buys 11.88M shares of Ather Energy at ₹1480 each.,NSE Bulk Trades,2026-08-28T21:00:14,https://www.nseindia.com/report-detail/display-bulk-and-block-deals
-GSTK544397,Ather Energy,ATHERENERG,8.811597479071951e+17,"Government of Singapore sold 11.88M shares of Ather Energy at ₹1480/share.
-Total transaction value amounted to ₹1,758.2 crore on 2026-08-28.","Government of Singapore sold 11.88M shares of Ather Energy at ₹1480/share.
-Total transaction value amounted to ₹1,758.2 crore on 2026-08-28.",ScoutQuest,2026-08-28T18:24:15,https://sqst.in/shareMessage?msgId=881159747907195075
 GSTK544307,Vishal Mega Mart,VMM,3644977.0,"Vishal Mega Mart scheduled an earnings conference call on October 21, 2026, to discuss Q2 and H1 results.
 The call will be represented by MD & CEO Gunender Kapur and CFO Amit Gupta at 4:00 PM IST.","Vishal Mega Mart scheduled an earnings conference call on October 21, 2026, to discuss Q2 and H1 results.
 The call will be represented by MD & CEO Gunender Kapur and CFO Amit Gupta at 4:00 PM IST.",BSE,2026-10-15T16:44:25,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=1c8f4cd5-e4b3-4385-a37d-9453a31b5c58.pdf
@@ -6093,6 +6091,9 @@ This is projected to drive above-average volume growth to meet annual double-dig
 GSTK532827,Page Industries,PAGEIND,871722.0,"Page Industries maintains annual EBITDA margin guidance at 19%-21%, expecting input costs to stabilize.
 Stability assumes no further escalation in the Middle East situation, as per concall update.","Page Industries maintains annual EBITDA margin guidance at 19%-21%, expecting input costs to stabilize.
 Stability assumes no further escalation in the Middle East situation, as per concall update.",Livesquawk,2026-08-14T08:39:41,
+GSTK500003,Aegis Logistics,AEGISLOG,3655372.0,"Aegis Logistics posted FY26 revenue of INR 8,333 cr and PAT of INR 1,107 cr, up from INR 787 cr.
+Q1FY27 PAT surged to INR 545 cr; company targets expansions, M&A, and new energy projects under Project GATI.","Aegis Logistics posted FY26 revenue of INR 8,333 cr and PAT of INR 1,107 cr, up from INR 787 cr.
+Q1FY27 PAT surged to INR 545 cr; company targets expansions, M&A, and new energy projects under Project GATI.",ScoutQuest,2026-10-16T01:02:25,https://sqst.in/WUqyI
 GSTK500003,Aegis Logistics,AEGISLOG,3650641.0,"Aegis Logistics commissioned a 35,000 MT per annum LPG bottling plant at JNPA, effective October 15, 2026.
 Part of the J2 Project greenfield terminal, the plant will subsequently be transferred to Aegis Vopak Terminals.","Aegis Logistics commissioned a 35,000 MT per annum LPG bottling plant at JNPA, effective October 15, 2026.
 Part of the J2 Project greenfield terminal, the plant will subsequently be transferred to Aegis Vopak Terminals.",ScoutQuest,2026-10-15T19:31:13,https://sqst.in/DPlGU
@@ -6118,9 +6119,6 @@ The ratings reflect a strong credit profile with a positive outlook.",ScoutQuest
 GSTK500003,Aegis Logistics,AEGISLOG,929066.0,"Brent Crude hits $100/bbl after 3 months; Nifty Oil & Gas index down 3.9% since May 2026.
 Aegis Logistics surged 82%, while ONGC and HPCL declined 17% and 13%, respectively.","Brent Crude hits $100/bbl after 3 months; Nifty Oil & Gas index down 3.9% since May 2026.
 Aegis Logistics surged 82%, while ONGC and HPCL declined 17% and 13%, respectively.",Business Standard,2026-09-09T14:03:12,https://www.business-standard.com/markets/news/brent-crude-hits-100-bbl-after-3-months-nifty-oil-gas-stocks-then-now-126090900670_1.html
-GSTK500003,Aegis Logistics,AEGISLOG,904842.0,"Aegis Logistics Ltd received an independent ESG rating score of 58 from CRISIL ESG Ratings.
-The rating was based on publicly available data; the company did not engage CRISIL.","Aegis Logistics Ltd received an independent ESG rating score of 58 from CRISIL ESG Ratings.
-The rating was based on publicly available data; the company did not engage CRISIL.",BSE,2026-09-01T14:43:49,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=1dfa4def-e4af-4e03-9b22-d5260cf53413.pdf
 GSTK500660,GlaxoSmithKline Pharmaceuticals,GLAXO,3602128.0,"GlaxoSmithKline Pharmaceuticals' board will meet on November 3, 2026, to consider Q2 and half-year financial results.
 The board will review and approve un-audited financial results for the period ended September 30, 2026.","GlaxoSmithKline Pharmaceuticals' board will meet on November 3, 2026, to consider Q2 and half-year financial results.
 The board will review and approve un-audited financial results for the period ended September 30, 2026.",BSE,2026-10-13T16:03:49,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=749226b5-27ef-469d-b8a0-287404946614.pdf
@@ -8418,6 +8416,9 @@ GSTK543235,Angel One,ANGELONE,3646195.0,"Angel One reported Q2 revenue of ₹14.
 GSTK543235,Angel One,ANGELONE,3646045.0,"Angel One approved Q2 financial results and declared an interim dividend of Rs. 1.4 per equity share.
 The record date for the interim dividend is October 22, 2026, with payment scheduled by November 14, 2026.","Angel One approved Q2 financial results and declared an interim dividend of Rs. 1.4 per equity share.
 The record date for the interim dividend is October 22, 2026, with payment scheduled by November 14, 2026.",BSE,2026-10-15T17:17:08,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=e76e5768-3c2b-4d89-b25e-fbbe5745495e.pdf
+GSTK543235,Angel One,ANGELONE,3654865.0,"Angel One reported Q2 revenue of INR 14,315.4 million, up from INR 12,042.0 million a year ago.
+The company announced earnings results for the second quarter and six months ended September 30, 2026.","Angel One reported Q2 revenue of INR 14,315.4 million, up from INR 12,042.0 million a year ago.
+The company announced earnings results for the second quarter and six months ended September 30, 2026.",MarketScreener India,2026-10-15T12:00:00,https://in.marketscreener.com/news/angel-one-limited-reports-earnings-results-for-the-second-quarter-and-six-months-ended-september-30-ce785dd3df8efe25
 GSTK543235,Angel One,ANGELONE,3526867.0,"Angel One added 37,000 new active clients in September.
 The additions indicate continued user growth for the company.","Angel One added 37,000 new active clients in September.
 The additions indicate continued user growth for the company.",Livesquawk,2026-10-08T12:22:56,
@@ -8436,9 +8437,6 @@ The company's client base expanded to 40 million in September, registering a 17.
 GSTK543235,Angel One,ANGELONE,3493710.0,"Angel One reported a 17.3% YoY growth in its total client base to 40.0 million in Q2 FY27, while its average client funding book expanded 40.5% YoY to reach a record ₹74.6 billion.
 Overall ADTO based on option premium turnover surged 91.3% YoY to ₹2,640 billion during the quarter, aided by a 105.5% YoY increase in commodity ADTO to ₹2,438 billion.","Angel One reported a 17.3% YoY growth in its total client base to 40.0 million in Q2 FY27, while its average client funding book expanded 40.5% YoY to reach a record ₹74.6 billion.
 Overall ADTO based on option premium turnover surged 91.3% YoY to ₹2,640 billion during the quarter, aided by a 105.5% YoY increase in commodity ADTO to ₹2,438 billion.",BSE,2026-10-06T07:34:52,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=0f4fa3bc-1819-4277-8032-02c3fab6d743.pdf
-GSTK543235,Angel One,ANGELONE,957638.0,"Macquarie stays 'neutral' on Angel One, citing market share losses and higher marketing spends impacting growth and profitability.
-Angel One's FY26-30 revenue CAGR forecast is 10%, below industry TAM CAGR of 17-18%, with lower core business EBITDA margins.","Macquarie stays 'neutral' on Angel One, citing market share losses and higher marketing spends impacting growth and profitability.
-Angel One's FY26-30 revenue CAGR forecast is 10%, below industry TAM CAGR of 17-18%, with lower core business EBITDA margins.",Business Standard,2026-09-24T14:58:35,https://www.business-standard.com/markets/news/macquarie-sees-low-growth-market-share-losses-for-angel-one-here-s-why-126092400645_1.html
 GSTK500877,Apollo Tyres,APOLLOTYRE,3500300.0,"Apollo Tyres Ltd announced that Chief Financial Officer Gaurav Kumar has resigned from his position, effective from the close of business hours on October 6, 2026.
 He stepped down to pursue personal and professional challenges outside the organization, confirming there are no other material reasons for his departure.","Apollo Tyres Ltd announced that Chief Financial Officer Gaurav Kumar has resigned from his position, effective from the close of business hours on October 6, 2026.
 He stepped down to pursue personal and professional challenges outside the organization, confirming there are no other material reasons for his departure.",BSE,2026-10-06T16:57:35,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=338934ba-f72b-48e9-81d0-6b16928946f6.pdf
@@ -9301,6 +9299,9 @@ Announcement date for corporate actions is set for 24/07/2026.",moneycontrol.com
 GSTK509496,Cemindia Projects,CEMPRO,2034242149.0,"Cemindia Projects benefits from Adani's $125B capex with strong order growth.
 Higher revenue, improved EBITDA and ROCE position Cemindia amid infra spending.","Cemindia Projects benefits from Adani's $125B capex with strong order growth.
 Higher revenue, improved EBITDA and ROCE position Cemindia amid infra spending.",Economic Times,2026-08-10T00:00:00,https://economictimes.com/markets/stocks/news/how-adanis-125-billion-capex-boom-is-creating-new-winners-on-dalal-street/articleshow/133079045.cms
+GSTK544179,Go Digit General Insurance,GODIGIT,3655474.0,"Prem Watsa outlines Fairfax's $5.6 billion IDBI Bank deal, with Peter Clarke explaining the funding structure.
+Combining IDBI Bank, Digit Insurance, and IIFL Capital could create an integrated financial services entity, says Watsa.","Prem Watsa outlines Fairfax's $5.6 billion IDBI Bank deal, with Peter Clarke explaining the funding structure.
+Combining IDBI Bank, Digit Insurance, and IIFL Capital could create an integrated financial services entity, says Watsa.",ET NOW,2026-10-16T01:52:22,https://x.com/ETNOWlive/status/2110828652955066513
 GSTK544179,Go Digit General Insurance,GODIGIT,3653656.0,"Fairfax was named strategic buyer for a 60.8% IDBI Bank stake at INR 81 per share, totaling INR 528.8 billion.
 Fairfax proposes transferring its Go Digit and IIFL Capital stakes to IDBI Bank, pending regulatory approvals.","Fairfax was named strategic buyer for a 60.8% IDBI Bank stake at INR 81 per share, totaling INR 528.8 billion.
 Fairfax proposes transferring its Go Digit and IIFL Capital stakes to IDBI Bank, pending regulatory approvals.",ScoutQuest,2026-10-15T21:51:52,https://sqst.in/OrkW9
@@ -9328,9 +9329,6 @@ The rating highlights strong debt servicing safety and very low credit risk amid
 GSTK544179,Go Digit General Insurance,GODIGIT,955847.0,"Go Digit General Insurance updates its amalgamation scheme per IRDAI advice, incorporating Section 35 of the Insurance Act.
 The revised scheme awaits approvals from NCLT, IRDAI, and shareholders, with no material changes beyond regulatory compliance.","Go Digit General Insurance updates its amalgamation scheme per IRDAI advice, incorporating Section 35 of the Insurance Act.
 The revised scheme awaits approvals from NCLT, IRDAI, and shareholders, with no material changes beyond regulatory compliance.",BSE,2026-09-23T19:31:00,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=571e0564-609b-4301-be2b-be3d108814d1.pdf
-GSTK544179,Go Digit General Insurance,GODIGIT,932423.0,"Mr. Giridhar Aramane resigns as Independent Director of Go Digit General Insurance Ltd.
-Resignation due to increased responsibilities as CMD of Unitech Ltd from Sept 10, 2026.","Mr. Giridhar Aramane resigns as Independent Director of Go Digit General Insurance Ltd.
-Resignation due to increased responsibilities as CMD of Unitech Ltd from Sept 10, 2026.",BSE,2026-09-10T19:41:24,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=030dcae7-a799-476e-8986-dd7f62109fe2.pdf
 GSTK506076,Grindwell Norton,GRINDWELL,912473.0,"Grindwell Norton received an ESG rating of '64' from NSRAL for FY 2025-26.
 NSRAL independently prepared the report using publicly available data; no company engagement involved.","Grindwell Norton received an ESG rating of '64' from NSRAL for FY 2025-26.
 NSRAL independently prepared the report using publicly available data; no company engagement involved.",BSE,2026-09-03T13:10:37,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=28e75884-8cf5-4da8-a6b6-65159b01d80b.pdf
@@ -13319,6 +13317,9 @@ Post allotment, paid-up share capital stands at Rs. 17.3 crore with 17.3 crore s
 GSTK544700,Fractal Analytics,FRACTAL,888257.0,"Fractal Analytics Ltd grants 1,52,000 employee stock options at Rs. 855.25 each under its 2019 ESOP plan.
 Options will vest in 4 tranches over 4 years and must be exercised within 10 years of grant.","Fractal Analytics Ltd grants 1,52,000 employee stock options at Rs. 855.25 each under its 2019 ESOP plan.
 Options will vest in 4 tranches over 4 years and must be exercised within 10 years of grant.",BSE,2026-08-21T20:58:30,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=27b25698-7e07-4ccc-a14a-6d597b713ba5.pdf
+GSTK542904,Ujjivan Small Finance Bank,UJJIVANSFB,3654619.0,"Ujjivan Small Finance Bank completed a direct assignment transaction of unsecured standard assets qualifying for Priority Sector Lending.
+The bank received the first tranche of Rs 500 crores under the transaction as per RBI guidelines.","Ujjivan Small Finance Bank completed a direct assignment transaction of unsecured standard assets qualifying for Priority Sector Lending.
+The bank received the first tranche of Rs 500 crores under the transaction as per RBI guidelines.",BSE,2026-10-15T23:04:11,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6f82c234-f30c-46d1-a37a-fe606875e038.pdf
 GSTK542904,Ujjivan Small Finance Bank,UJJIVANSFB,3602977.0,"Ujjivan Small Finance Bank's board to consider raising funds via a preferential equity issue.
 The board meeting to evaluate the fundraising proposal is scheduled for October 16.","Ujjivan Small Finance Bank's board to consider raising funds via a preferential equity issue.
 The board meeting to evaluate the fundraising proposal is scheduled for October 16.",ET NOW,2026-10-13T16:14:40,https://x.com/ETNOWlive/status/2109958490924199948
@@ -13344,7 +13345,6 @@ No stocks will be excluded from the October series. Year-to-date in 2026, shares
 GSTK542904,Ujjivan Small Finance Bank,UJJIVANSFB,945385.0,"Ujjivan SFB launches 'Nothing Small About Us' campaign with R. Madhavan as ambassador.
 Campaign aims to counter 'Small' perception, showcasing Ujjivan's scale, offerings, and customer reach.","Ujjivan SFB launches 'Nothing Small About Us' campaign with R. Madhavan as ambassador.
 Campaign aims to counter 'Small' perception, showcasing Ujjivan's scale, offerings, and customer reach.",BSE,2026-09-18T10:04:57,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=3ea6fbc4-a088-4ad1-ad02-1bc4889866d3.pdf
-GSTK542904,Ujjivan Small Finance Bank,UJJIVANSFB,944754.0,Ujjivan Small Finance Bank schedules meetings with analysts and investors on Sep 22.,Ujjivan Small Finance Bank schedules meetings with analysts and investors on Sep 22.,Livesquawk,2026-09-17T20:05:42,
 GSTK544583,Canara HSBC Life Insurance Company,CANHLIFE,3647122.0,"Canara HSBC Life Insurance released the earnings call transcript for the quarter and half-year ended September 30, 2026.
 The transcript is accessible on the company website following the audio analyst meet held on October 9, 2026.","Canara HSBC Life Insurance released the earnings call transcript for the quarter and half-year ended September 30, 2026.
 The transcript is accessible on the company website following the audio analyst meet held on October 9, 2026.",BSE,2026-10-15T17:53:50,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c56d0030-d1c6-4b7b-9f28-358ba236d60f.pdf
@@ -22861,6 +22861,9 @@ Order backlog fell 41.4% YoY to ₹15,454M due to FGD contract terminations; EBI
 GSTK532309,GE Power India,GVPIL,866632.0,"GE Power India wins Rs. 550 crore fuel conversion project award in Saudi Arabia.
 The project focuses on fuel conversion, enhancing global operations for GE Power India.","GE Power India wins Rs. 550 crore fuel conversion project award in Saudi Arabia.
 The project focuses on fuel conversion, enhancing global operations for GE Power India.",Livesquawk,2026-08-13T07:59:48,
+GSTK542760,Sterling and Wilson Renewable Energy,SWSOLAR,3654871.0,"SWREL reported a consolidated net profit of Rs 16.9 crore in Q2, driven by reduced expenses.
+The renewable energy EPC company had clocked a net loss of Rs 477.7 crore in Q2 FY25.","SWREL reported a consolidated net profit of Rs 16.9 crore in Q2, driven by reduced expenses.
+The renewable energy EPC company had clocked a net loss of Rs 477.7 crore in Q2 FY25.",News18,2026-10-15T20:15:03,https://www.news18.com/agency-feeds/swrel-reports-rs-17-cr-net-profit-in-q2-10383875.html
 GSTK542760,Sterling and Wilson Renewable Energy,SWSOLAR,3648496.0,Sterling and Wilson Renewable Energy Limited has announced its financial results for the second quarter.,Sterling and Wilson Renewable Energy Limited has announced its financial results for the second quarter.,ET NOW,2026-10-15T18:09:03,https://x.com/ETNOWlive/status/2110712055154262521
 GSTK542760,Sterling and Wilson Renewable Energy,SWSOLAR,3646906.0,"SWSOLAR reported Q2 EBITDA of 568M rupees, surging sharply from 42M rupees year-over-year.
 The company's Q2 EBITDA margin expanded to 3.8% from 0.3% year-over-year.","SWSOLAR reported Q2 EBITDA of 568M rupees, surging sharply from 42M rupees year-over-year.
@@ -22884,9 +22887,6 @@ The contracts enhance its order book and execution pipeline significantly.",Live
 GSTK542760,Sterling and Wilson Renewable Energy,SWSOLAR,940694.0,"Sterling and Wilson Renewable Energy Ltd will attend an investor meet on Sep 21, 2026.
 The meet is organized by Anand Rathi Share & Stockbrokers Ltd.","Sterling and Wilson Renewable Energy Ltd will attend an investor meet on Sep 21, 2026.
 The meet is organized by Anand Rathi Share & Stockbrokers Ltd.",BSE,2026-09-16T16:25:32,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=82bf3ee9-0831-49e4-842a-3525ccc05baa.pdf
-GSTK542760,Sterling and Wilson Renewable Energy,SWSOLAR,932909.0,"Sterling And Wilson Renewable Energy's unit SWSS starts arbitration vs OEG Inc.
-Counterclaims by SWSS against OEG Inc. remain undetermined.","Sterling And Wilson Renewable Energy's unit SWSS starts arbitration vs OEG Inc.
-Counterclaims by SWSS against OEG Inc. remain undetermined.",Livesquawk,2026-09-11T05:31:00,
 GSTK539883,Pilani Investment & Industries Corporation,PILANIINVS,3550453.0,"Pilani Investment submitted a CFO certificate confirming proper utilization of Commercial Paper proceeds for the quarter ended September 30, 2026.
 The company reported total outstanding Commercial Papers worth Rs 2,000 crore across multiple tranches as of September 30, 2026.","Pilani Investment submitted a CFO certificate confirming proper utilization of Commercial Paper proceeds for the quarter ended September 30, 2026.
 The company reported total outstanding Commercial Papers worth Rs 2,000 crore across multiple tranches as of September 30, 2026.",BSE,2026-10-09T15:50:01,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=419f3f8d-e807-4a8b-8e08-c166980a6774.pdf
@@ -27007,6 +27007,9 @@ The ratings cover Rs. 162.5 crore facilities, including term loans, cash credit,
 GSTK532150,Indraprastha Medical Corporation,INDRAMEDCO,8.463966224697518e+17,"Apollo Hospitals plans to increase stake in Indraprastha Medical, pending court reopening.
 Delhi government holds a 26% stake in Indraprastha Medical.","Apollo Hospitals plans to increase stake in Indraprastha Medical, pending court reopening.
 Delhi government holds a 26% stake in Indraprastha Medical.",ScoutQuest,2026-05-24T20:08:00,https://sqst.in/shareMessage?msgId=846396622469751853
+GSTK504341,Ravindra Energy,RELTD,3655045.0,"Ravindra Energy's joint entity, Energy In Motion, inaugurated an electric heavy commercial vehicle complex at Talegaon, Pune.
+The facility has an initial capacity of 5,000 vehicles per shift annually, representing part of a ₹1,000 crore investment.","Ravindra Energy's joint entity, Energy In Motion, inaugurated an electric heavy commercial vehicle complex at Talegaon, Pune.
+The facility has an initial capacity of 5,000 vehicles per shift annually, representing part of a ₹1,000 crore investment.",BSE,2026-10-15T23:56:54,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a9b2ae3b-52d2-47f8-874b-3350493a1580.pdf
 GSTK504341,Ravindra Energy,RELTD,3640483.0,"Ravindra Energy clarified that the recent spurt in trading volume is purely market-driven with no undisclosed material information.
 The company confirmed compliance with disclosure regulations, noting only a scheduled press release is planned for disclosure today.","Ravindra Energy clarified that the recent spurt in trading volume is purely market-driven with no undisclosed material information.
 The company confirmed compliance with disclosure regulations, noting only a scheduled press release is planned for disclosure today.",BSE,2026-10-15T13:49:11,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=db855a62-ae9a-4191-b8a3-077e7dc6e2f3.pdf
@@ -27034,7 +27037,6 @@ The partnership targets key freight corridors, starting with 50 e-HCVs on the Mu
 GSTK504341,Ravindra Energy,RELTD,8.804442389373682e+17,"Ravindra Energy offers ₹41 crore corporate guarantee to an associate.
 Associate holds 49.54% equity; guarantee is non-fund based, no financial impact.","Ravindra Energy offers ₹41 crore corporate guarantee to an associate.
 Associate holds 49.54% equity; guarantee is non-fund based, no financial impact.",ScoutQuest,2026-08-26T19:01:04,https://sqst.in/XC5e3
-GSTK504341,Ravindra Energy,RELTD,888427.0,Ravindra Energy Ltd disclosed share encumbrance creation by its promoters under SEBI (SAST) Regulation 31(1).,Ravindra Energy Ltd disclosed share encumbrance creation by its promoters under SEBI (SAST) Regulation 31(1).,BSE,2026-08-22T00:40:36,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=0a0867ff-b6be-4afb-a17d-dcd316d9b959.pdf
 GSTK524091,Carysil,CARYSIL,3600544.0,"Ashish Kacholia cut stakes in three stocks during Q2FY27, including Carysil and Dhabriya Polywood.","Ashish Kacholia cut stakes in three stocks during Q2FY27, including Carysil and Dhabriya Polywood.",ET NOW,2026-10-13T14:18:45,https://www.etnownews.com/markets/ashish-kacholia-sells-stake-carysil-dhabriya-polywood-brand-concepts-september-quarter-portfolio-changes-article-156327861
 GSTK524091,Carysil,CARYSIL,3549817.0,Ashish Kacholia sold over 2 lakh shares of Carysil during the second quarter.,Ashish Kacholia sold over 2 lakh shares of Carysil during the second quarter.,The Economic Times,2026-10-09T14:45:00,https://economictimes.indiatimes.com/markets/stocks/news/ashish-kacholia-sells-over-2-lakh-carysil-shares-in-q2-how-has-the-stock-fared/articleshow/134824722.cms
 GSTK524091,Carysil,CARYSIL,952690.0,"Carysil Ltd presented its strategic roadmap, focusing on global kitchen solutions, innovation, and ESG commitments.
@@ -42263,6 +42265,9 @@ Rs. 200 cr from the preferential issue was utilized for debt repayment, with no 
 GSTK532721,VISA Chrome,VISASTEEL,838925.0,"VISA Chrome Ltd board meeting set for Aug 12, 2026, to review Q1 FY27 results.
 Trading window closed till 48 hours post financial results per SEBI regulations.","VISA Chrome Ltd board meeting set for Aug 12, 2026, to review Q1 FY27 results.
 Trading window closed till 48 hours post financial results per SEBI regulations.",BSE,2026-08-05T16:01:11,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=466e95dc-cbba-4091-a7b0-a30ff407189a.pdf
+GSTK544144,Popular Vehicles and Services Limited,PVSL,3654700.0,"Popular Vehicles reported Q2FY27 new vehicle volume growth of 51% YoY, with total revenue rising 40% YoY.
+Debt rose sequentially on inventory build ahead of price hikes, while vehicle inventory reduced to around 41 days.","Popular Vehicles reported Q2FY27 new vehicle volume growth of 51% YoY, with total revenue rising 40% YoY.
+Debt rose sequentially on inventory build ahead of price hikes, while vehicle inventory reduced to around 41 days.",ScoutQuest,2026-10-15T23:17:19,https://sqst.in/H4wIh
 GSTK544144,Popular Vehicles and Services Limited,PVSL,3579256.0,"Popular Vehicles and Services will attend a virtual investor group meeting organized by Citi Research on October 15, 2026.
 Discussions will be based strictly on publicly available information, with no unpublished price-sensitive information shared.","Popular Vehicles and Services will attend a virtual investor group meeting organized by Citi Research on October 15, 2026.
 Discussions will be based strictly on publicly available information, with no unpublished price-sensitive information shared.",BSE,2026-10-12T13:19:25,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=0ac50936-05b5-490b-8a75-ec68e9a3bd64.pdf
@@ -42290,9 +42295,6 @@ Resolutions received over 99.99% votes in favor, including reappointment of John
 GSTK544144,Popular Vehicles and Services Limited,PVSL,890169.0,"Popular Vehicles issues corrigendum for AGM on Aug 28, 2026.
 Corrigendum updates disclosures for auditor appointment as per SEBI norms.","Popular Vehicles issues corrigendum for AGM on Aug 28, 2026.
 Corrigendum updates disclosures for auditor appointment as per SEBI norms.",BSE,2026-08-24T14:49:24,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ecd5a0d3-d527-49f8-b156-8939a920f0b1.pdf
-GSTK544144,Popular Vehicles and Services Limited,PVSL,8.778809153929389e+17,"Popular Vehicles reported 44% YoY revenue growth to INR 1,890 crore.
-EBITDA surged 87% YoY to INR 71.5 crore; margins at 3.8%.","Popular Vehicles reported 44% YoY revenue growth to INR 1,890 crore.
-EBITDA surged 87% YoY to INR 71.5 crore; margins at 3.8%.",ScoutQuest,2026-08-19T17:15:20,https://sqst.in/WQ7Be
 GSTK543539,Modi's Navnirman,MODIS,951483.0,"Modis Navnirman Ltd to attend Arihant's Bharat Connect Conference on Sep 28, 2026.
 Discussions will be based on public info, adhering to SEBI regulations; details on company website.","Modis Navnirman Ltd to attend Arihant's Bharat Connect Conference on Sep 28, 2026.
 Discussions will be based on public info, adhering to SEBI regulations; details on company website.",BSE,2026-09-22T12:20:27,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ba2da74c-119d-461b-a50a-749a1994213a.pdf
@@ -74227,6 +74229,9 @@ Trading window remains closed for insiders until 48 hours post financial results
 GSTK531402,LWS Knitwear,,674862.0,"LWS Knitwear's board meeting on 29 May 2026 will review audited FY26 results.
 Trading window remains closed till 48 hours after Q4 FY26 results declaration.","LWS Knitwear's board meeting on 29 May 2026 will review audited FY26 results.
 Trading window remains closed till 48 hours after Q4 FY26 results declaration.",BSE,2026-05-22T20:25:54,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d7e470c4-1576-4983-9938-90160f1158aa.pdf
+GSTK524434,Asian Petro Products and Exports,,3655345.0,"Asian Petroproducts & Exports will hold an Extra-Ordinary General Meeting on Friday, 6 November 2026 at 12:30 p.m.
+The EGM will be conducted via Video Conferencing, allowing shareholders to attend and vote online.","Asian Petroproducts & Exports will hold an Extra-Ordinary General Meeting on Friday, 6 November 2026 at 12:30 p.m.
+The EGM will be conducted via Video Conferencing, allowing shareholders to attend and vote online.",ScoutQuest,2026-10-16T01:00:24,https://sqst.in/T9nAf
 GSTK524434,Asian Petro Products and Exports,,3587509.0,"Asian Petroproducts' board will meet on October 15, 2026, to consider fundraising via preferential equity shares and convertible warrants.
 The fundraise covers issues to promoters and non-promoter categories, subject to shareholder approval at an upcoming EGM.","Asian Petroproducts' board will meet on October 15, 2026, to consider fundraising via preferential equity shares and convertible warrants.
 The fundraise covers issues to promoters and non-promoter categories, subject to shareholder approval at an upcoming EGM.",BSE,2026-10-12T18:50:37,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=be9103c3-c2f9-4756-97b9-bac798fd921f.pdf
