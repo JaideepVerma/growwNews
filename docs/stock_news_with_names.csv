@@ -1,4 +1,7 @@
 StockID,Company,NSE Code,NewsID,Title,Summary,Source,PubDate,URL
+GSTK500325,Reliance Industries,RELIANCE,3715729.0,"US to discuss refining more Venezuelan crude with India and Reliance Industries.
+The discussions will take place during Rubio's visit to India.","US to discuss refining more Venezuelan crude with India and Reliance Industries.
+The discussions will take place during Rubio's visit to India.",The Hindu Business Line,2026-10-20T18:45:51,https://www.thehindubusinessline.com/news/rubio-says-us-to-discuss-refining-more-venezuelan-crude-with-indias-reliance/article71604357.ece?utm_campaign=mrf-twitter-businessline&utm_source=twitter&utm_medium=social&mrfcid=202610206ad7602bd9d86f1e713b3319
 GSTK500325,Reliance Industries,RELIANCE,3697786.0,"Jio Platforms' Rs 30,200 crore IPO drew a record aggregate institutional demand of about Rs 2.5 lakh crore.
 The landmark demand underscores strong investor interest in Reliance Industries' digital businesses.","Jio Platforms' Rs 30,200 crore IPO drew a record aggregate institutional demand of about Rs 2.5 lakh crore.
 The landmark demand underscores strong investor interest in Reliance Industries' digital businesses.",The Economic Times,2026-10-19T14:15:00,https://economictimes.indiatimes.com/markets/stocks/news/jios-mega-ipo-breaks-all-records-with-rs-2-5-lakh-crore-anchor-demand-blackrock-gic-lic-participate/articleshow/135043514.cms
@@ -26,9 +29,6 @@ Akash and Isha Ambani have unveiled Reliance's next big vision.",ScoutQuest,2026
 GSTK500325,Reliance Industries,RELIANCE,3644188.0,"RIL shareholders needed to buy shares by October 13 for Jio Platforms' Rs 2,500 crore reserved IPO quota.
 Though the eligibility cut-off was October 14, India's stock market settlement rules necessitated buying by October 13.","RIL shareholders needed to buy shares by October 13 for Jio Platforms' Rs 2,500 crore reserved IPO quota.
 Though the eligibility cut-off was October 14, India's stock market settlement rules necessitated buying by October 13.",The Economic Times,2026-10-15T16:15:00,https://economictimes.indiatimes.com/markets/ipos/fpos/october-13-or-14-what-was-the-deadline-to-buy-ril-shares-for-jio-ipo-reservation/articleshow/134964490.cms
-GSTK500325,Reliance Industries,RELIANCE,3649195.0,"Jio Platforms asks investors to value it as a tech company rather than a mobile carrier.
-It plans to sell in-house network software abroad, though operations currently remain overwhelmingly domestic.","Jio Platforms asks investors to value it as a tech company rather than a mobile carrier.
-It plans to sell in-house network software abroad, though operations currently remain overwhelmingly domestic.",The Hindu BusinessLine,2026-10-15T15:25:21,https://www.thehindubusinessline.com/info-tech/reliances-jio-pitches-itself-as-tech-company-plans-to-sell-network-stack-abroad/article71587448.ece
 GSTK532454,Bharti Airtel,BHARTIARTL,3710995.0,"Jio Platforms' Rs 30,213 crore IPO opens on October 21, 2026, featuring an entirely fresh issue of 27 crore shares.
 Investors weigh subscribing to Mukesh Ambani-led Jio's IPO against purchasing shares of listed rival Bharti Airtel.","Jio Platforms' Rs 30,213 crore IPO opens on October 21, 2026, featuring an entirely fresh issue of 27 crore shares.
 Investors weigh subscribing to Mukesh Ambani-led Jio's IPO against purchasing shares of listed rival Bharti Airtel.",The Economic Times,2026-10-20T09:57:08,https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipo-vs-airtel-shares-which-telecom-giant-offers-greater-valuation-comfort-to-investors/articleshow/135053174.cms
@@ -113,6 +113,7 @@ GSTK532174,ICICI Bank,ICICIBANK,3692176.0,"Bernstein maintains an Outperform rat
 The brokerage highlights robust loan growth, solid fee income, and around 20% YoY growth in PPoP and EPS.","Bernstein maintains an Outperform rating on ICICI Bank with a target price of ₹1,800.
 The brokerage highlights robust loan growth, solid fee income, and around 20% YoY growth in PPoP and EPS.",ScoutQuest,2026-10-19T07:40:21,https://sqst.in/shareMessage?msgId=899841875928247792
 GSTK532174,ICICI Bank,ICICIBANK,3692092.0,"Nomura has upgraded ICICI Bank to 'Buy' with a target price of ₹1,740 per share.","Nomura has upgraded ICICI Bank to 'Buy' with a target price of ₹1,740 per share.",ScoutQuest,2026-10-19T07:29:10,https://sqst.in/shareMessage?msgId=899839060031924669
+GSTK500112,State Bank of India,SBIN,3714736.0,A hacker claims that 3.75 lakh SBI customer records have been leaked on the dark web.,A hacker claims that 3.75 lakh SBI customer records have been leaked on the dark web.,ET NOW,2026-10-20T17:44:15,https://www.etnownews.com/technology/sbi-data-breach-hacker-claims-3-75-lakh-customer-records-leaked-on-dark-web-article-156372994
 GSTK500112,State Bank of India,SBIN,3700186.0,CareEdge Global IFSC will sell a 19.8% stake to State Bank of India and NSEIX.,CareEdge Global IFSC will sell a 19.8% stake to State Bank of India and NSEIX.,Business Standard,2026-10-19T16:20:08,https://www.business-standard.com/markets/news/careedge-global-ifsc-to-sell-19-8-stake-to-state-bank-of-india-nseix-126101900618_1.html
 GSTK500112,State Bank of India,SBIN,3682744.0,"SBI paid ₹6,000 crore redemption proceeds on its Additional Tier 1 bonds via exercise of call option.
 The bank also disbursed annual interest of ₹463.2 crore on October 17, 2026, leaving zero outstanding amount.","SBI paid ₹6,000 crore redemption proceeds on its Additional Tier 1 bonds via exercise of call option.
@@ -136,9 +137,6 @@ GSTK500112,State Bank of India,SBIN,974092.0,"State Bank of India, the country's
 GSTK500112,State Bank of India,SBIN,964758.0,"State Bank of India reported a block trade worth Rs. 77.74 crores.
 The trade involved ~805,626 shares at a price of Rs. 965.00 per share.","State Bank of India reported a block trade worth Rs. 77.74 crores.
 The trade involved ~805,626 shares at a price of Rs. 965.00 per share.",Livesquawk,2026-09-28T12:12:32,
-GSTK500112,State Bank of India,SBIN,26092437128151.0,"NSE's Rs 22,562-cr IPO yields Rs 12,802-cr profit for 10 PSUs.
-Key PSU shareholders include SBI and LIC; IPO priced at upper band.","NSE's Rs 22,562-cr IPO yields Rs 12,802-cr profit for 10 PSUs.
-Key PSU shareholders include SBI and LIC; IPO priced at upper band.",The Economic Times,2026-09-24T12:00:00,https://economictimes.indiatimes.com/markets/ipos/fpos/psus-in-nse-ipo-how-much-did-sbi-other-government-entities-make-in-indias-second-largest-offer/articleshow/134456776.cms
 GSTK532540,Tata Consultancy Services,TCS,3695239.0,"TCS will deploy TCS BaNCS for Treasury at Indian Bank's Colombo branch, marking the platform's entry into Sri Lanka.
 Indian Bank already uses it in India and GIFT City; scope includes real-time positions and risk controls.","TCS will deploy TCS BaNCS for Treasury at Indian Bank's Colombo branch, marking the platform's entry into Sri Lanka.
 Indian Bank already uses it in India and GIFT City; scope includes real-time positions and risk controls.",ScoutQuest,2026-10-19T11:31:28,https://sqst.in/QFYff
@@ -169,6 +167,9 @@ TCS declared an interim dividend of Rs 12 per share, while Vedanta announced a p
 GSTK532540,Tata Consultancy Services,TCS,3577474.0,"TCS prioritises investments for future growth, which could intensify competition across the IT industry.
 The company remains non-committal regarding the timeline for near-term profit margin recovery.","TCS prioritises investments for future growth, which could intensify competition across the IT industry.
 The company remains non-committal regarding the timeline for near-term profit margin recovery.",Moneycontrol,2026-10-12T10:11:22,https://www.moneycontrol.com/news/opinion/tcs-s-growth-focus-can-intensify-competition-for-it-industry-14049766.html
+GSTK500034,Bajaj Finance,BAJFINANCE,3712717.0,"Bajaj Finance's gold loan book doubled to Rs 24,000 crore, while Stage 2 assets spiked to Rs 1,100 crore.
+The lender discontinued short-tenor three-month schemes to curb accidental delinquencies, shifting toward 12-month loan tenures.","Bajaj Finance's gold loan book doubled to Rs 24,000 crore, while Stage 2 assets spiked to Rs 1,100 crore.
+The lender discontinued short-tenor three-month schemes to curb accidental delinquencies, shifting toward 12-month loan tenures.",NDTV Profit,2026-10-20T12:53:42,https://www.ndtvprofit.com/markets/bajaj-finances-gold-loan-book-doubles-then-it-pulls-the-plug-on-a-scheme-12209784#publisher=newsstand
 GSTK500034,Bajaj Finance,BAJFINANCE,3710671.0,Brokerages project up to 23% upside for Bajaj Finance's share price target following its Q2 results.,Brokerages project up to 23% upside for Bajaj Finance's share price target following its Q2 results.,ET NOW,2026-10-20T10:33:26,https://t.co/ElDuupOQ7S
 GSTK500034,Bajaj Finance,BAJFINANCE,3707053.0,"Bajaj Finance is halving new loans to customers with three or more lending relationships to 3.5% by March 2027.
 The reduction in fresh lending comes amid growing concerns over customer indebtedness.","Bajaj Finance is halving new loans to customers with three or more lending relationships to 3.5% by March 2027.
@@ -192,9 +193,6 @@ Net interest income is projected to rise 24% during the second quarter.",The Eco
 GSTK500034,Bajaj Finance,BAJFINANCE,3668725.0,"Bajaj Finance plans to raise up to 35 billion rupees through five-year zero-coupon bonds.
 The proposed bond issuance includes a greenshoe option of 20 billion rupees, according to bankers.","Bajaj Finance plans to raise up to 35 billion rupees through five-year zero-coupon bonds.
 The proposed bond issuance includes a greenshoe option of 20 billion rupees, according to bankers.",MarketScreener,2026-10-16T12:00:00,https://www.marketscreener.com/news/india-new-issue-bajaj-finance-to-issue-zero-coupon-5-year-bonds-bankers-say-ce785cdad88af12c
-GSTK500034,Bajaj Finance,BAJFINANCE,3597364.0,"Bajaj Finance scheduled an earnings conference call on October 19, 2026, to discuss Q2 FY27 financial results.
-Vice Chairman Rajeev Jain and CFO Sandeep Jain will host the call at 6:00 PM IST.","Bajaj Finance scheduled an earnings conference call on October 19, 2026, to discuss Q2 FY27 financial results.
-Vice Chairman Rajeev Jain and CFO Sandeep Jain will host the call at 6:00 PM IST.",BSE,2026-10-13T11:47:09,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2b45cbcd-a093-4983-817e-7bd6ab6c059c.pdf
 GSTK500510,Larsen & Toubro,LT,3700990.0,L&T has partnered with Maersk for the first planned ship drydocking in India.,L&T has partnered with Maersk for the first planned ship drydocking in India.,ET NOW,2026-10-19T16:39:25,https://x.com/ETNOWlive/status/2112139048123056308
 GSTK500510,Larsen & Toubro,LT,3694024.0,"L&T has secured a major new contract worth over ₹150 billion.
 The win signals continued strength in large-scale project wins across infrastructure and industrial execution.","L&T has secured a major new contract worth over ₹150 billion.
@@ -249,6 +247,9 @@ GSTK543526,Life Insurance Corporation of India Ltd.,LICI,973089.0,Life Insurance
 GSTK543526,Life Insurance Corporation of India Ltd.,LICI,8.930964439927803e+17,"LIC Chief Financial Officer Shatmanyu Shrivastava is set to retire.
 Four other senior officials are also retiring along with the CFO.","LIC Chief Financial Officer Shatmanyu Shrivastava is set to retire.
 Four other senior officials are also retiring along with the CFO.",ScoutQuest,2026-09-30T16:56:25,https://sqst.in/shareMessage?msgId=893096443992780262
+GSTK500696,Hindustan Unilever,HINDUNILVR,3713932.0,"HUL Q2 revenue is estimated to grow 7.3% YoY to Rs 17,430 crore, according to Zee Business.
+The company's board agenda includes considering an interim dividend alongside Q2 revenue and PAT results.","HUL Q2 revenue is estimated to grow 7.3% YoY to Rs 17,430 crore, according to Zee Business.
+The company's board agenda includes considering an interim dividend alongside Q2 revenue and PAT results.",Zee Business,2026-10-20T12:00:00,https://www.zeebiz.com/market-news/news-hul-q2-results-preview-what-to-expect-on-revenue-pat-interim-dividend-on-board-agenda-404199
 GSTK500696,Hindustan Unilever,HINDUNILVR,3688291.0,"FSSAI issued notices to Hindustan Unilever over allegedly misleading claims on Horlicks Women's Plus and Mother's Plus drinks.
 The authority flagged Horlicks Women's Plus Chocolate drink for non-compliant claims regarding bone strength and healthy muscles.","FSSAI issued notices to Hindustan Unilever over allegedly misleading claims on Horlicks Women's Plus and Mother's Plus drinks.
 The authority flagged Horlicks Women's Plus Chocolate drink for non-compliant claims regarding bone strength and healthy muscles.",NDTV,2026-10-18T12:29:48,https://www.ndtv.com/food/food-authority-issues-notice-to-horlicks-drinks-over-misleading-womens-health-claims-12201885
@@ -276,7 +277,9 @@ The trade included ~164,105 shares at Rs. 1,944 per share.",Livesquawk,2026-09-2
 GSTK500696,Hindustan Unilever,HINDUNILVR,939896.0,"FMCG stocks surged as Nifty FMCG index rose 1.5%, led by Nestle India, ITC, HUL, and Patanjali Foods.
 Festive demand and market recovery boosted sentiment, but crude oil prices and Fed policy uncertainty pose risks.","FMCG stocks surged as Nifty FMCG index rose 1.5%, led by Nestle India, ITC, HUL, and Patanjali Foods.
 Festive demand and market recovery boosted sentiment, but crude oil prices and Fed policy uncertainty pose risks.",NDTV Profit,2026-09-16T10:33:51,https://www.ndtvprofit.com/markets/fmcg-stocks-surge-nestle-india-itc-hul-share-price-jump-over-2-12052625#publisher=newsstand
-GSTK500696,Hindustan Unilever,HINDUNILVR,933491.0,"Hindustan Unilever Ltd. witnessed an NSE block trade of Rs. 15.43 Cr for ~79,657 shares at Rs. 1937.60/share.","Hindustan Unilever Ltd. witnessed an NSE block trade of Rs. 15.43 Cr for ~79,657 shares at Rs. 1937.60/share.",Livesquawk,2026-09-11T12:16:03,
+GSTK524715,Sun Pharmaceutical Industries,SUNPHARMA,3714565.0,"Sun Pharma's UNLOXCYT received NCCN Category 2A preferred recommendation for treating locally advanced cutaneous squamous cell carcinoma.
+The FDA-approved drug demonstrated a 55% objective response rate with under 1% high-grade immune-mediated adverse reactions.","Sun Pharma's UNLOXCYT received NCCN Category 2A preferred recommendation for treating locally advanced cutaneous squamous cell carcinoma.
+The FDA-approved drug demonstrated a 55% objective response rate with under 1% high-grade immune-mediated adverse reactions.",BSE,2026-10-20T17:33:54,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=9a434af1-62a4-4822-a754-fa547098def0.pdf
 GSTK524715,Sun Pharmaceutical Industries,SUNPHARMA,3697468.0,"Sun Pharmaceutical Industries plans to raise 100 billion rupees via five-year and one-day bonds across two tranches.
 The planned bond issuance includes a greenshoe option of 30 billion rupees, according to merchant bankers.","Sun Pharmaceutical Industries plans to raise 100 billion rupees via five-year and one-day bonds across two tranches.
 The planned bond issuance includes a greenshoe option of 30 billion rupees, according to merchant bankers.",MarketScreener India,2026-10-19T11:58:55,https://in.marketscreener.com/news/india-new-issue-sun-pharma-to-issue-over-five-year-bonds-bankers-say-ce785cdad08ef520
@@ -302,9 +305,6 @@ GSTK524715,Sun Pharmaceutical Industries,SUNPHARMA,3520612.0,"Sun Pharma's board
 The proposed issue comprises listed, rated, unsecured, and redeemable non-convertible debentures.","Sun Pharma's board will meet on October 12 to consider issuing NCDs worth up to ₹15,000 crore.
 The proposed issue comprises listed, rated, unsecured, and redeemable non-convertible debentures.",CNBC TV18,2026-10-07T21:21:57,https://www.cnbctv18.com/market/stocks/sun-pharmaceutical-share-price-board-to-consider-rs-15000-crore-ncd-issue-on-october-12-20007048.htm
 GSTK524715,Sun Pharmaceutical Industries,SUNPHARMA,3518473.0,"Sun Pharma's board will meet on October 12 to consider issuing NCDs worth ₹15,000 crore.","Sun Pharma's board will meet on October 12 to consider issuing NCDs worth ₹15,000 crore.",ET NOW,2026-10-07T21:08:24,https://x.com/ETNOWlive/status/2107858084530196579
-GSTK524715,Sun Pharmaceutical Industries,SUNPHARMA,3517393.0,"Sun Pharma's board will meet on October 12 to consider issuing NCDs worth up to ₹15,000 crore.
-The proposed non-convertible debenture issue will be executed via private placement.","Sun Pharma's board will meet on October 12 to consider issuing NCDs worth up to ₹15,000 crore.
-The proposed non-convertible debenture issue will be executed via private placement.",Livesquawk,2026-10-07T20:41:19,
 GSTK500209,Infosys,INFY,3699079.0,"Infosys will announce its Q2 results for the quarter ended September 30, 2026, on October 23, 2026.
 The company will host a press conference at 4:30 p.m. IST and an earnings conference call at 6:00 p.m. IST.","Infosys will announce its Q2 results for the quarter ended September 30, 2026, on October 23, 2026.
 The company will host a press conference at 4:30 p.m. IST and an earnings conference call at 6:00 p.m. IST.",BSE,2026-10-19T15:41:22,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=4a39bee0-4f0d-4b6e-9383-284a0ca26e0f.pdf
@@ -365,6 +365,9 @@ The company does not expect any deficit in the monsoon to meaningfully impact it
 GSTK532500,Maruti Suzuki India,MARUTI,8.934341079400518e+17,"Maruti Suzuki reported H1 FY volumes of 11 lakh units against a targeted 35% growth, gaining the highest market share among OEMs in Q2 and H1. Wholesale volumes stood at 37,433 units, aided by new plant commissioning and ramp-up.
 The company outperformed industry growth in both 18% GST vehicles (35% vs 29%) and 40% GST SUV/MPV segments (33% vs 20%). H1 wholesale gains of 2.2% were driven by small cars, with entry hatch surging 86%.","Maruti Suzuki reported H1 FY volumes of 11 lakh units against a targeted 35% growth, gaining the highest market share among OEMs in Q2 and H1. Wholesale volumes stood at 37,433 units, aided by new plant commissioning and ramp-up.
 The company outperformed industry growth in both 18% GST vehicles (35% vs 29%) and 40% GST SUV/MPV segments (33% vs 20%). H1 wholesale gains of 2.2% were driven by small cars, with entry hatch surging 86%.",ScoutQuest,2026-10-01T15:18:10,https://sqst.in/DTb5F
+GSTK500114,Titan Company,TITAN,3712609.0,"Titan Company's Board will meet on November 5, 2026, to consider and approve Q2 unaudited financial results.
+The trading window for designated persons remains closed until 48 hours after the conclusion of the Board meeting.","Titan Company's Board will meet on November 5, 2026, to consider and approve Q2 unaudited financial results.
+The trading window for designated persons remains closed until 48 hours after the conclusion of the Board meeting.",BSE,2026-10-20T14:42:56,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=e9e04a61-ebc4-47ec-868d-20d8a3c5d631.pdf
 GSTK500114,Titan Company,TITAN,3705583.0,"Titan has redeemed commercial paper worth Rs 1,000 crore.","Titan has redeemed commercial paper worth Rs 1,000 crore.",The Economic Times,2026-10-19T20:58:52,https://economictimes.indiatimes.com/markets/bonds/titan-redeems-rs-1000-crore-commercial-paper/articleshow/135050383.cms
 GSTK500114,Titan Company,TITAN,3682804.0,Titan's CEO sees encouraging signs as consumer demand builds ahead of the Diwali festive season.,Titan's CEO sees encouraging signs as consumer demand builds ahead of the Diwali festive season.,ScoutQuest,2026-10-17T18:04:45,https://sqst.in/A5Z9X
 GSTK500114,Titan Company,TITAN,3680815.0,"Titan reported a 25% YoY growth across its consumer businesses in Q2.
@@ -388,9 +391,12 @@ The company remains optimistic for festive demand driven by concentrated wedding
 GSTK500114,Titan Company,TITAN,3525274.0,"Titan's core jewellery business is growing over 20%, driven by rising natural diamond demand across Tanishq, CaratLane, and Mia.
 Improved product mix and higher studded share are expected to boost margins despite Q2 festive timing challenges.","Titan's core jewellery business is growing over 20%, driven by rising natural diamond demand across Tanishq, CaratLane, and Mia.
 Improved product mix and higher studded share are expected to boost margins despite Q2 festive timing challenges.",ScoutQuest,2026-10-08T10:56:14,https://sqst.in/shareMessage?msgId=895904903235882915
-GSTK500114,Titan Company,TITAN,3524323.0,"Titan reported strong Q2 performance and expects higher growth in the next quarter.
-The company anticipates robust festive-season demand with supportive momentum across its business.","Titan reported strong Q2 performance and expects higher growth in the next quarter.
-The company anticipates robust festive-season demand with supportive momentum across its business.",Livesquawk,2026-10-08T09:51:53,
+GSTK500520,Mahindra & Mahindra,M&M,3715672.0,"M&M Q2 revenue may jump 26% according to results preview.
+However, margins are likely to take a hit.","M&M Q2 revenue may jump 26% according to results preview.
+However, margins are likely to take a hit.",Zee Business,2026-10-20T18:51:49,https://x.com/ZeeBusiness/status/2112534757783511203
+GSTK500520,Mahindra & Mahindra,M&M,3712894.0,"TVS Motor, Eicher Motors, and M&M are top auto stock picks amid surging festive sales.
+Jefferies has shared targets for these preferred automobile stocks.","TVS Motor, Eicher Motors, and M&M are top auto stock picks amid surging festive sales.
+Jefferies has shared targets for these preferred automobile stocks.",ET NOW,2026-10-20T15:25:30,https://www.etnownews.com/markets/tvs-motor-eicher-motors-top-auto-stock-picks-as-festive-sales-surge-jefferies-shares-targets-article-156371430
 GSTK500520,Mahindra & Mahindra,M&M,3694474.0,"CLSA named Mahindra & Mahindra its top auto pick, citing robust booking momentum and a 134 bps market share gain.
 Bajaj Auto and Ather Energy follow closely, while TVS Motor and Royal Enfield also expanded market share amid healthy demand.","CLSA named Mahindra & Mahindra its top auto pick, citing robust booking momentum and a 134 bps market share gain.
 Bajaj Auto and Ather Energy follow closely, while TVS Motor and Royal Enfield also expanded market share amid healthy demand.",NDTV Profit,2026-10-19T08:26:26,https://www.ndtvprofit.com/markets/mahindra-and-mahindra-is-clsa-top-pick-among-autos-as-bookings-stay-healthy-ather-energy-bajaj-auto-follow-closely-12204383#publisher=newsstand
@@ -415,12 +421,6 @@ In September, M&M's total sales rose 16.3% YoY to 1.14 lakh units, while product
 GSTK500520,Mahindra & Mahindra,M&M,3614719.0,"Kotak maintains a Buy rating on M&M with a target price of ₹4,000, viewing current headwinds as largely cyclical.
 NU_IQ platform launches from 1HCY27 and strong SUV pricing power are expected to aid market share and margins.","Kotak maintains a Buy rating on M&M with a target price of ₹4,000, viewing current headwinds as largely cyclical.
 NU_IQ platform launches from 1HCY27 and strong SUV pricing power are expected to aid market share and margins.",Livesquawk,2026-10-14T08:55:52,
-GSTK500520,Mahindra & Mahindra,M&M,3614650.0,"Kotak Securities views M&M's correction as a compelling entry point, citing strong SUV dominance and pricing power.
-Kotak cut FY27-29 EPS estimates by 5-8%, viewing the tractor slowdown as cyclical rather than structural.","Kotak Securities views M&M's correction as a compelling entry point, citing strong SUV dominance and pricing power.
-Kotak cut FY27-29 EPS estimates by 5-8%, viewing the tractor slowdown as cyclical rather than structural.",ScoutQuest,2026-10-14T08:36:30,https://sqst.in/HtBky
-GSTK500520,Mahindra & Mahindra,M&M,3578983.0,"CLSA sees attractive risk-reward in auto stocks after recent corrections, naming Mahindra & Mahindra as its top pick.
-Nifty Auto rose 1.3%, led by Tube Investments and Bajaj Auto, amid robust retail demand and compelling OEM valuations.","CLSA sees attractive risk-reward in auto stocks after recent corrections, naming Mahindra & Mahindra as its top pick.
-Nifty Auto rose 1.3%, led by Tube Investments and Bajaj Auto, amid robust retail demand and compelling OEM valuations.",CNBC TV 18,2026-10-12T11:26:52,https://www.cnbctv18.com/market/auto-stocks-rally-risk-reward-favourable-clsa-top-pick-mahindra-mm-share-price-returns-20009685.htm
 GSTK533096,Adani Power,ADANIPOWER,3679249.0,"Indian defence, power, and railway infrastructure companies secured fresh orders worth Rs 4,927 crore this week.
 Key recipients include Adani Power, Bharat Dynamics, Bharat Electronics, and IRCON spanning torpedo, thermal power, and rail contracts.","Indian defence, power, and railway infrastructure companies secured fresh orders worth Rs 4,927 crore this week.
 Key recipients include Adani Power, Bharat Dynamics, Bharat Electronics, and IRCON spanning torpedo, thermal power, and rail contracts.",Financial Express,2026-10-17T10:23:00,https://www.financialexpress.com/business/industry-defence-amp-power-stocks-secure-rs-4927-orders-what-it-means-for-investors-4363570/
@@ -645,6 +645,9 @@ The company posted an EBITDA of ₹3,721 Cr and an EBITDA margin of 16% for the 
 GSTK532538,UltraTech Cement,ULTRACEMCO,3697039.0,"UltraTech Cement announced K. K. Maheshwari will resign as Non-Executive Vice Chairman effective January 1, 2027.
 K. C. Jhanwar will take over as Non-Executive Vice Chairman effective from January 1, 2027.","UltraTech Cement announced K. K. Maheshwari will resign as Non-Executive Vice Chairman effective January 1, 2027.
 K. C. Jhanwar will take over as Non-Executive Vice Chairman effective from January 1, 2027.",Livesquawk,2026-10-19T13:54:03,
+GSTK532555,NTPC,NTPC,3715588.0,"NTPC clarified that media reports claiming 7.5% profit growth and a share buyback date are factually incorrect and misleading.
+The company stated these claims do not match exchange disclosures, urging investors to rely solely on official filings.","NTPC clarified that media reports claiming 7.5% profit growth and a share buyback date are factually incorrect and misleading.
+The company stated these claims do not match exchange disclosures, urging investors to rely solely on official filings.",ScoutQuest,2026-10-20T18:30:30,https://sqst.in/G3EIF
 GSTK532555,NTPC,NTPC,3699835.0,"Diwakar Nath Misra appointed as Government Nominee Director on NTPC's board by the President of India.
 The appointment runs till his tenure in the Ministry of Power or until further orders.","Diwakar Nath Misra appointed as Government Nominee Director on NTPC's board by the President of India.
 The appointment runs till his tenure in the Ministry of Power or until further orders.",ScoutQuest,2026-10-19T16:17:13,https://sqst.in/JBBHl
@@ -672,9 +675,6 @@ India aims to become a major green hydrogen producer despite global struggles to
 GSTK532555,NTPC,NTPC,3570364.0,"NTPC invites Expressions of Interest from industrial entities to invest 26% equity in co-generation projects.
 The proposed plants aim to explore joint opportunities supplying both steam and electricity to industrial users.","NTPC invites Expressions of Interest from industrial entities to invest 26% equity in co-generation projects.
 The proposed plants aim to explore joint opportunities supplying both steam and electricity to industrial users.",The Economic Times,2026-10-11T12:00:00,https://economictimes.indiatimes.com/markets/stocks/news/ntpc-invites-industrial-partners-for-26-equity-in-co-generation-projects/articleshow/134866656.cms
-GSTK532555,NTPC,NTPC,3566965.0,"NTPC subsidiary NTPC Green Energy declared commercial operation of the 66.2 MW Kalasar Solar project.
-Total installed capacity now reaches 91,572 MW, with commercial capacity standing at 90,492 MW.","NTPC subsidiary NTPC Green Energy declared commercial operation of the 66.2 MW Kalasar Solar project.
-Total installed capacity now reaches 91,572 MW, with commercial capacity standing at 90,492 MW.",Livesquawk,2026-10-10T20:00:17,
 GSTK532978,Bajaj Finserv,BAJAJFINSV,3682012.0,"Bajaj Finserv incorporated wholly owned subsidiary Bajaj Reinsurance Ltd to carry on reinsurance business, subject to regulatory approvals.
 The company subscribed 10,00,000 equity shares of Rs. 10 each for Rs. 1,00,00,000 in cash.","Bajaj Finserv incorporated wholly owned subsidiary Bajaj Reinsurance Ltd to carry on reinsurance business, subject to regulatory approvals.
 The company subscribed 10,00,000 equity shares of Rs. 10 each for Rs. 1,00,00,000 in cash.",ScoutQuest,2026-10-17T16:51:20,https://sqst.in/TEVpa
@@ -1149,6 +1149,9 @@ Meetings may discuss business performance, strategy, or outlook.",Livesquawk,202
 GSTK500440,Hindalco Industries,HINDALCO,934901.0,"Hindalco to attend CITIC CLSA 33rd Investors' Forum in HK on Sep 21-22, 2026.
 Investor presentations for Q1FY27 and Investor Day 2025 available on Hindalco's website.","Hindalco to attend CITIC CLSA 33rd Investors' Forum in HK on Sep 21-22, 2026.
 Investor presentations for Q1FY27 and Investor Day 2025 available on Hindalco's website.",BSE,2026-09-11T21:19:21,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ad211cf2-b303-4cf3-b57f-b5688e0c8103.pdf
+GSTK505200,Eicher Motors,EICHERMOT,3712894.0,"TVS Motor, Eicher Motors, and M&M are top auto stock picks amid surging festive sales.
+Jefferies has shared targets for these preferred automobile stocks.","TVS Motor, Eicher Motors, and M&M are top auto stock picks amid surging festive sales.
+Jefferies has shared targets for these preferred automobile stocks.",ET NOW,2026-10-20T15:25:30,https://www.etnownews.com/markets/tvs-motor-eicher-motors-top-auto-stock-picks-as-festive-sales-surge-jefferies-shares-targets-article-156371430
 GSTK505200,Eicher Motors,EICHERMOT,8.933913883078902e+17,"Eicher Motors VECV reported a 49.6% year-on-year increase in total sales.
 Total sales reached 11,396 units compared to 7,619 units in the previous year.","Eicher Motors VECV reported a 49.6% year-on-year increase in total sales.
 Total sales reached 11,396 units compared to 7,619 units in the previous year.",ScoutQuest,2026-10-01T12:28:25,https://sqst.in/shareMessage?msgId=893391388307890149
@@ -1174,7 +1177,6 @@ Domestic and export demand surged, with April-August sales rising 23% YoY.",Busi
 GSTK505200,Eicher Motors,EICHERMOT,8.829038194076941e+17,"Eicher Motors and Bajaj Auto emerge as top losers in market slump.
 Sensex drops 500 points, Nifty hovers near 23,850 amid downturn.","Eicher Motors and Bajaj Auto emerge as top losers in market slump.
 Sensex drops 500 points, Nifty hovers near 23,850 amid downturn.",ScoutQuest,2026-09-02T13:54:34,https://sqst.in/aabpO
-GSTK505200,Eicher Motors,EICHERMOT,8.828877284595195e+17,"Eicher Motors shares drop 5.5%, marking largest single-day fall since Feb 2025.","Eicher Motors shares drop 5.5%, marking largest single-day fall since Feb 2025.",ScoutQuest,2026-09-02T12:50:37,https://sqst.in/shareMessage?msgId=882887728459519528
 GSTK532488,Divi's Laboratories,DIVISLAB,3692494.0,"Divi's Laboratories is in focus, expected to open positively after Eli Lilly's drug received positive response in Europe.
 Divi's Laboratories manufactures a key intermediate for Eli Lilly's anti-diabetes drug.","Divi's Laboratories is in focus, expected to open positively after Eli Lilly's drug received positive response in Europe.
 Divi's Laboratories manufactures a key intermediate for Eli Lilly's anti-diabetes drug.",ScoutQuest,2026-10-19T08:05:54,https://sqst.in/ocPO4
@@ -1235,6 +1237,12 @@ No significant impact on operations or finances; company fully cooperated.",Live
 GSTK500300,Grasim Industries,GRASIM,929989.0,"Grasim Industries schedules investor meeting on 16th Sep 2026 at Jefferies India Forum in Gurgaon.
 Company confirms no unpublished price-sensitive info to be shared; presentations already on website.","Grasim Industries schedules investor meeting on 16th Sep 2026 at Jefferies India Forum in Gurgaon.
 Company confirms no unpublished price-sensitive info to be shared; presentations already on website.",BSE,2026-09-09T18:38:32,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=15cda56d-3f84-4e05-a44e-e35d7ae04fa3.pdf
+GSTK532343,TVS Motor Company,TVSMOTOR,3715741.0,"CARE Ratings reaffirmed CARE AAA; Stable on TVS Motor's long-term bank facilities, enhanced to Rs 3,241.7 crore, and NCDs.
+CARE A1+ reaffirmed on Rs 500 crore short-term facilities, while Rs 1,900.4 crore instruments were withdrawn upon full redemption.","CARE Ratings reaffirmed CARE AAA; Stable on TVS Motor's long-term bank facilities, enhanced to Rs 3,241.7 crore, and NCDs.
+CARE A1+ reaffirmed on Rs 500 crore short-term facilities, while Rs 1,900.4 crore instruments were withdrawn upon full redemption.",ScoutQuest,2026-10-20T19:09:13,https://sqst.in/Mbo8U
+GSTK532343,TVS Motor Company,TVSMOTOR,3712894.0,"TVS Motor, Eicher Motors, and M&M are top auto stock picks amid surging festive sales.
+Jefferies has shared targets for these preferred automobile stocks.","TVS Motor, Eicher Motors, and M&M are top auto stock picks amid surging festive sales.
+Jefferies has shared targets for these preferred automobile stocks.",ET NOW,2026-10-20T15:25:30,https://www.etnownews.com/markets/tvs-motor-eicher-motors-top-auto-stock-picks-as-festive-sales-surge-jefferies-shares-targets-article-156371430
 GSTK532343,TVS Motor Company,TVSMOTOR,3694474.0,"CLSA named Mahindra & Mahindra its top auto pick, citing robust booking momentum and a 134 bps market share gain.
 Bajaj Auto and Ather Energy follow closely, while TVS Motor and Royal Enfield also expanded market share amid healthy demand.","CLSA named Mahindra & Mahindra its top auto pick, citing robust booking momentum and a 134 bps market share gain.
 Bajaj Auto and Ather Energy follow closely, while TVS Motor and Royal Enfield also expanded market share amid healthy demand.",NDTV Profit,2026-10-19T08:26:26,https://www.ndtvprofit.com/markets/mahindra-and-mahindra-is-clsa-top-pick-among-autos-as-bookings-stay-healthy-ather-energy-bajaj-auto-follow-closely-12204383#publisher=newsstand
@@ -1259,10 +1267,9 @@ During the month, total two-wheeler sales registered a 23% growth to 645,955 uni
 GSTK532343,TVS Motor Company,TVSMOTOR,976919.0,"TVS Motor reported stellar Q2 auto sales, with total sales reaching 19 lakh units.
 The performance was driven by a 27% YoY surge in two-wheeler sales, which reached 18 lakh units.","TVS Motor reported stellar Q2 auto sales, with total sales reaching 19 lakh units.
 The performance was driven by a 27% YoY surge in two-wheeler sales, which reached 18 lakh units.",ET NOW,2026-10-01T15:27:40,https://x.com/ETNOWlive/status/2105598012328473039
-GSTK532343,TVS Motor Company,TVSMOTOR,976838.0,"TVS Motor reported a 110% YoY surge in its two-wheeler EV sales for September, reaching 65,799 units compared to 31,266 units in the same month last year.","TVS Motor reported a 110% YoY surge in its two-wheeler EV sales for September, reaching 65,799 units compared to 31,266 units in the same month last year.",Livesquawk,2026-10-01T15:11:29,
-GSTK532343,TVS Motor Company,TVSMOTOR,972913.0,"TVS Motor Company announced the sixth edition of its flagship motorcycling festival, TVS MotoSoul 6.0, scheduled to be held in Goa on December 11-12, 2026. The event is set to be the company's biggest and most immersive motorcycling festival yet.
-The festival will feature product launches, custom motorcycle showcases, racing workshops, and rider engagement programs, connecting a global community of over 7 million TVS Apache and Ronin riders alongside live entertainment and sustainability initiatives.","TVS Motor Company announced the sixth edition of its flagship motorcycling festival, TVS MotoSoul 6.0, scheduled to be held in Goa on December 11-12, 2026. The event is set to be the company's biggest and most immersive motorcycling festival yet.
-The festival will feature product launches, custom motorcycle showcases, racing workshops, and rider engagement programs, connecting a global community of over 7 million TVS Apache and Ronin riders alongside live entertainment and sustainability initiatives.",BSE,2026-09-30T17:07:07,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=222daf86-82ee-4197-b795-732d55083b91.pdf
+GSTK539448,Interglobe Aviation,INDIGO,3713782.0,"Jefferies outlines a bull case for IndiGo shares with a potential upside target of Rs 6,800.
+In a bear scenario, the brokerage projects IndiGo's share price could drop to Rs 4,200.","Jefferies outlines a bull case for IndiGo shares with a potential upside target of Rs 6,800.
+In a bear scenario, the brokerage projects IndiGo's share price could drop to Rs 4,200.",ET NOW,2026-10-20T16:00:46,https://www.etnownews.com/markets/indigo-share-price-target-jefferies-bull-bear-case-6800-4200-article-156371893
 GSTK539448,Interglobe Aviation,INDIGO,3703780.0,"IndiGo is ending its lease of six Boeing 787-9 aircraft, shifting long-haul focus to Airbus A321XLRs and A350s.
 The airline aims to raise its international capacity share from 30% to 40% by FY30 through new routes and codeshares.","IndiGo is ending its lease of six Boeing 787-9 aircraft, shifting long-haul focus to Airbus A321XLRs and A350s.
 The airline aims to raise its international capacity share from 30% to 40% by FY30 through new routes and codeshares.",Financial Express,2026-10-19T17:04:00,https://www.financialexpress.com/business/airlines-aviation-indigo-prepares-for-long-haul-reset-as-787-lease-ends-4364800/
@@ -1290,9 +1297,6 @@ The flight cancellations come amid the evolving security situation in Saudi Arab
 GSTK539448,Interglobe Aviation,INDIGO,3599302.0,"IndiGo has secured Rs 3,122 crore in financing for eight Airbus aircraft.
 The transaction was executed via GIFT IFSC, marking a first-of-its-kind deal.","IndiGo has secured Rs 3,122 crore in financing for eight Airbus aircraft.
 The transaction was executed via GIFT IFSC, marking a first-of-its-kind deal.",Zee Business,2026-10-13T13:18:49,https://x.com/ZeeBusiness/status/2109914240161362246
-GSTK539448,Interglobe Aviation,INDIGO,3598168.0,"Citi collaborates with Credendo to facilitate $328 mn financing for IndiGo.
-The financing facility is designated for eight Airbus aircraft.","Citi collaborates with Credendo to facilitate $328 mn financing for IndiGo.
-The financing facility is designated for eight Airbus aircraft.",ET NOW,2026-10-13T12:15:41,https://x.com/ETNOWlive/status/2109898351315693793
 GSTK539254,Adani Energy Solutions,ADANIENSOL,3628840.0,"GQG Partners trimmed holdings across Adani group stocks for the second consecutive quarter in Q2.
 Adani Energy Solutions and Adani Green Energy witnessed the sharpest cuts among its five portfolio stocks.","GQG Partners trimmed holdings across Adani group stocks for the second consecutive quarter in Q2.
 Adani Energy Solutions and Adani Green Energy witnessed the sharpest cuts among its five portfolio stocks.",Business Today,2026-10-14T12:00:00,https://www.businesstoday.in/markets/stocks/story/adani-green-adani-power-ael-aesl-adani-ports-shares-gqg-cuts-stakes-for-2nd-quarter-561581-2026-10-14
@@ -1789,6 +1793,9 @@ GSTK544574,Tata Capital,TATACAP,8.749772851783214e+17,CEO Sabharwal states less 
 GSTK544574,Tata Capital,TATACAP,820038.0,"Tata Capital and Godrej Capital benefit from India's gold loan boom as banks, NBFCs expand portfolios.
 Outstanding gold-backed loans more than doubled to ₹5.14T by May-end, highlighting market growth.","Tata Capital and Godrej Capital benefit from India's gold loan boom as banks, NBFCs expand portfolios.
 Outstanding gold-backed loans more than doubled to ₹5.14T by May-end, highlighting market growth.",Livesquawk,2026-07-30T08:58:09,
+GSTK500002,ABB India,ABB,3714118.0,"ABB India has appointed Suneel Kumar as Chief Financial Officer and Key Managerial Personnel.
+The appointment takes effect from January 1, 2027, according to a regulatory filing.","ABB India has appointed Suneel Kumar as Chief Financial Officer and Key Managerial Personnel.
+The appointment takes effect from January 1, 2027, according to a regulatory filing.",The Economic Times,2026-10-20T14:31:44,https://cfo.economictimes.indiatimes.com/news/leadership/abb-india-appoints-suneel-kumar-as-cfo/135065895
 GSTK500002,ABB India,ABB,3503442.0,"ABB India has approved the appointment of Mr. Suneel Kumar Munaga as its Chief Financial Officer and Key Managerial Personnel, effective from January 1, 2027.
 Currently serving as Vice President and Business Area Controller (Electrification), Mr. Munaga brings over 28 years of experience in finance, governance, and business transformation across MNCs and public sector enterprises.","ABB India has approved the appointment of Mr. Suneel Kumar Munaga as its Chief Financial Officer and Key Managerial Personnel, effective from January 1, 2027.
 Currently serving as Vice President and Business Area Controller (Electrification), Mr. Munaga brings over 28 years of experience in finance, governance, and business transformation across MNCs and public sector enterprises.",BSE,2026-10-06T20:54:12,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=75f05ad0-410a-4eab-ac56-3ec3e32b767f.pdf
@@ -1816,9 +1823,6 @@ ABB Group's 80% India order growth contrasts with ABB India's 50% growth.",ET NO
 GSTK500002,ABB India,ABB,8.720237795034568e+17,"ABB India reports mixed Q1 results, aims to restore margins.
 The company anticipates time to regain previous margin levels.","ABB India reports mixed Q1 results, aims to restore margins.
 The company anticipates time to regain previous margin levels.",ScoutQuest,2026-08-03T13:21:10,https://sqst.in/cPTVZ
-GSTK500002,ABB India,ABB,830048.0,"HDFC Securities Q1FY27 review highlights Sun Pharma, ABB India, and Kajaria Ceramics for strong growth potential.
-Ratings updated: Sun Pharma (Buy, ₹2,320), ABB India (Add, ₹7,094), Thermax (Buy, ₹5,325); diversified portfolio advised.","HDFC Securities Q1FY27 review highlights Sun Pharma, ABB India, and Kajaria Ceramics for strong growth potential.
-Ratings updated: Sun Pharma (Buy, ₹2,320), ABB India (Add, ₹7,094), Thermax (Buy, ₹5,325); diversified portfolio advised.",NDTV Profit,2026-08-03T11:46:01,https://www.ndtvprofit.com/markets/sun-pharma-itc-maruti-suzuki-bajaj-finserv-abb-thermax-mahanagar-gas-data-patterns-aether-industries-kajaria-niva-bupa-aarti-industries-q1-review-by-h-11858067#publisher=newsstand
 GSTK544658,ICICI Prudential Asset Management Company,ICICIAMC,3674134.0,"Tata, HDFC, and ICICI Prudential Mutual Funds halted fresh investments in their gold fund of funds.
 The asset management companies issued notices halting the investments on Thursday, ahead of the festive season.","Tata, HDFC, and ICICI Prudential Mutual Funds halted fresh investments in their gold fund of funds.
 The asset management companies issued notices halting the investments on Thursday, ahead of the festive season.",The Economic Times,2026-10-16T17:07:55,https://economictimes.indiatimes.com/wealth/invest/tata-hdfc-icici-prudential-mutual-funds-halt-fresh-gold-fof-investments-what-it-means-for-existing-and-new-investors/articleshow/134993379.cms
@@ -3681,6 +3685,9 @@ Slower client decisions prompted 1–2% FY27/28 EPS cuts, despite TTM ACV rising
 GSTK533179,Persistent Systems,PERSISTENT,3660127.0,"Nomura maintains Neutral on Persistent Systems with a target of ₹5,600 after Q2 margins missed significantly.
 Nomura cut FY27 EPS by 22% amid margin pressures, while the Nagarro acquisition could close in 1–2 quarters.","Nomura maintains Neutral on Persistent Systems with a target of ₹5,600 after Q2 margins missed significantly.
 Nomura cut FY27 EPS by 22% amid margin pressures, while the Nagarro acquisition could close in 1–2 quarters.",Livesquawk,2026-10-16T09:01:00,
+GSTK540699,Dixon Technologies (India),DIXON,3713617.0,"JPMorgan rates Dixon Technologies and Amber Enterprises Overweight with targets of Rs 16,200 and Rs 8,350, favoring high ROCE and growth.
+The brokerage is Underweight on Syrma, Avalon, and Cyient DLM, urging investors to evaluate ROCE alongside earnings growth.","JPMorgan rates Dixon Technologies and Amber Enterprises Overweight with targets of Rs 16,200 and Rs 8,350, favoring high ROCE and growth.
+The brokerage is Underweight on Syrma, Avalon, and Cyient DLM, urging investors to evaluate ROCE alongside earnings growth.",NDTV Profit,2026-10-20T13:44:42,https://www.ndtvprofit.com/markets/cyient-dlm-amber-dixon-technologies-jpmorgans-top-ems-picks-amid-growth-value-debate-12209961#publisher=newsstand
 GSTK540699,Dixon Technologies (India),DIXON,3576064.0,Dixon reports an estimated 12% decline in mobile phone volumes during the first three days of the festive season.,Dixon reports an estimated 12% decline in mobile phone volumes during the first three days of the festive season.,Livesquawk,2026-10-12T10:15:52,
 GSTK540699,Dixon Technologies (India),DIXON,3563662.0,"Dixon Technologies held one-on-one meetings with PL Capital and Balyasny Asset Management on October 9.
 The company confirmed no unpublished price-sensitive information was shared and no presentation was made during the meetings.","Dixon Technologies held one-on-one meetings with PL Capital and Balyasny Asset Management on October 9.
@@ -3704,9 +3711,6 @@ GSTK540699,Dixon Technologies (India),DIXON,8.905284863671953e+17,JPMorgan forec
 GSTK540699,Dixon Technologies (India),DIXON,953630.0,"JPMorgan maintains Overweight on Dixon with a ₹16,400 target, citing export-led growth.
 Entry into high-margin segments and potential inorganic expansion offer additional opportunities.","JPMorgan maintains Overweight on Dixon with a ₹16,400 target, citing export-led growth.
 Entry into high-margin segments and potential inorganic expansion offer additional opportunities.",Livesquawk,2026-09-23T08:32:31,
-GSTK540699,Dixon Technologies (India),DIXON,952037.0,"Nuvama cuts Dixon Tech's FY27 EPS estimates by 7% citing Vivo JV delay, raises FY28 by 9% on component vertical scale-up.
-Dixon's telecom revenue forecast for FY27 is ₹6,500-₹7,000 cr, up 40%, IT hardware ₹6,000 cr, soaring 275% YoY.","Nuvama cuts Dixon Tech's FY27 EPS estimates by 7% citing Vivo JV delay, raises FY28 by 9% on component vertical scale-up.
-Dixon's telecom revenue forecast for FY27 is ₹6,500-₹7,000 cr, up 40%, IT hardware ₹6,000 cr, soaring 275% YoY.",CNBC TV 18,2026-09-22T15:27:19,https://www.cnbctv18.com/market/dixon-tech-share-price-nuvama-cuts-fy27-earnings-estimates-raises-for-fy28-vivo-jv-valuation-19995721.htm
 GSTK543396,Paytm - One97 Communications Ltd,PAYTM,3634243.0,"Nomura initiated a buy rating on Paytm with a target price of ₹2,250 per share.
 EBITDA is projected to grow at a 96% CAGR over FY26-FY29, driven by core payments and merchant lending.","Nomura initiated a buy rating on Paytm with a target price of ₹2,250 per share.
 EBITDA is projected to grow at a 96% CAGR over FY26-FY29, driven by core payments and merchant lending.",ScoutQuest,2026-10-15T07:45:03,https://sqst.in/shareMessage?msgId=898393505311821942
@@ -3767,6 +3771,9 @@ Consequently, the company's paid-up equity share capital increased from Rs. 4,62
 GSTK544632,Meesho,MEESHO,959503.0,"Nomura maintains Reduce on Meesho with a target price of ₹167, citing its asset-light model and AI-led innovation.
 Despite improving free cash flow, Meesho trades at a premium amid rising competition from horizontal platforms and quick commerce.","Nomura maintains Reduce on Meesho with a target price of ₹167, citing its asset-light model and AI-led innovation.
 Despite improving free cash flow, Meesho trades at a premium amid rising competition from horizontal platforms and quick commerce.",Livesquawk,2026-09-25T08:52:44,
+GSTK500104,Hindustan Petroleum Corporation,HINDPETRO,3713596.0,"HPCL Q2 losses may narrow 79% QoQ, according to earnings preview estimates.
+Gross refining margins (GRM) and marketing margins remain in key focus for the quarter.","HPCL Q2 losses may narrow 79% QoQ, according to earnings preview estimates.
+Gross refining margins (GRM) and marketing margins remain in key focus for the quarter.",Zee Business,2026-10-20T15:32:38,https://x.com/ZeeBusiness/status/2112484630049997110
 GSTK500104,Hindustan Petroleum Corporation,HINDPETRO,3586723.0,"HPCL will host a conference call on October 23, 2026, to discuss its 2QFY27 earnings.
 Senior management, including CMD Vikas Kaushal, will attend the call organized by Antique Stock Broking.","HPCL will host a conference call on October 23, 2026, to discuss its 2QFY27 earnings.
 Senior management, including CMD Vikas Kaushal, will attend the call organized by Antique Stock Broking.",BSE,2026-10-12T18:24:25,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=bdbadada-4118-4cf1-aef6-00b0f7e7f5d8.pdf
@@ -3794,9 +3801,6 @@ Retail fuel price freeze impacts IOC, BPCL, and HPCL profitability.",The Indian 
 GSTK500104,Hindustan Petroleum Corporation,HINDPETRO,26092336338878.0,"OMCs incur ₹530 crore daily fuel losses due to crude price surge: Icra.
 IOC, BPCL, HPCL lose ₹8/litre on petrol, ₹9/litre on diesel, LPG loss ₹300/cylinder.","OMCs incur ₹530 crore daily fuel losses due to crude price surge: Icra.
 IOC, BPCL, HPCL lose ₹8/litre on petrol, ₹9/litre on diesel, LPG loss ₹300/cylinder.",Business Standard,2026-09-23T15:16:35,https://www.business-standard.com/economy/news/omcs-face-530-crore-daily-fuel-losses-as-crude-prices-surge-icra-126092300717_1.html
-GSTK500104,Hindustan Petroleum Corporation,HINDPETRO,951130.0,"HINDPETRO saw an NSE block trade worth Rs. 54.3 cr for ~1,498,128 shares.
-Shares were traded at a price of Rs. 362.1 each.","HINDPETRO saw an NSE block trade worth Rs. 54.3 cr for ~1,498,128 shares.
-Shares were traded at a price of Rs. 362.1 each.",Livesquawk,2026-09-22T10:08:40,
 GSTK540716,ICICI Lombard General Insurance Company,ICICIGI,3696892.0,"ICICI Lombard will host an in-person meeting with analysts and institutional investors in Mumbai on October 23, 2026.
 The company stated that no unpublished price sensitive information will be shared during the meeting.","ICICI Lombard will host an in-person meeting with analysts and institutional investors in Mumbai on October 23, 2026.
 The company stated that no unpublished price sensitive information will be shared during the meeting.",ScoutQuest,2026-10-19T13:32:15,https://sqst.in/Mj5sI
@@ -4487,6 +4491,9 @@ Acquisition cost ₹350.34 crore at ₹760/share, reflecting promoter confidence
 GSTK540975,Aster DM Quality Care,ASTERDM,8.829732138024691e+17,"Centella Mauritius sold 4.6M shares of Aster DM at ₹760/share.
 Transaction value totaled ₹350.3 crore on 2026-09-02.","Centella Mauritius sold 4.6M shares of Aster DM at ₹760/share.
 Transaction value totaled ₹350.3 crore on 2026-09-02.",ScoutQuest,2026-09-02T18:30:19,https://sqst.in/shareMessage?msgId=882973213802469079
+GSTK532648,Yes Bank,YESBANK,3712522.0,"YES Bank shares dropped 27% in a month due to potential AT1 bond-related impacts threatening future growth.
+Analysts highlight that largest shareholder SMFG may need to infuse capital into the lender.","YES Bank shares dropped 27% in a month due to potential AT1 bond-related impacts threatening future growth.
+Analysts highlight that largest shareholder SMFG may need to infuse capital into the lender.",Business Today,2026-10-20T12:00:00,https://www.businesstoday.in/markets/stocks/story/yes-bank-shares-down-27-in-30-days-target-prices-one-key-trigger-to-watch-562585-2026-10-20
 GSTK532648,Yes Bank,YESBANK,3709930.0,"Moody's has affirmed Yes Bank's long-term deposit ratings at Ba1 with a stable outlook.
 The rating balances capital pressure from reinstated AT1 bonds against improving asset quality, funding, and profitability.","Moody's has affirmed Yes Bank's long-term deposit ratings at Ba1 with a stable outlook.
 The rating balances capital pressure from reinstated AT1 bonds against improving asset quality, funding, and profitability.",BSE,2026-10-20T09:26:49,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=10e3d300-ce85-42c5-97d7-aa3f8a3c53dc.pdf
@@ -4514,9 +4521,6 @@ CET1 faces a 250 bps contraction, prompting Yes Bank to evaluate legal reviews a
 GSTK532648,Yes Bank,YESBANK,3692575.0,"YES Bank expects AT-1 bond developments to impact CET-1 ratio by 240 bps, keeping Tier-1 capital at 13.7%.
 The bank remains optimistic about growth and expects higher interest rates to support its margins.","YES Bank expects AT-1 bond developments to impact CET-1 ratio by 240 bps, keeping Tier-1 capital at 13.7%.
 The bank remains optimistic about growth and expects higher interest rates to support its margins.",ET NOW,2026-10-19T08:26:37,https://x.com/ETNOWlive/status/2112015031735058842
-GSTK532648,Yes Bank,YESBANK,3690535.0,"Yes Bank stated AT-1 bond coupon payments depend on the Supreme Court's recent ruling and Information Memorandum conditions.
-The bank is evaluating consequential implications and exploring all available legal options and suitable steps going forward.","Yes Bank stated AT-1 bond coupon payments depend on the Supreme Court's recent ruling and Information Memorandum conditions.
-The bank is evaluating consequential implications and exploring all available legal options and suitable steps going forward.",BSE,2026-10-18T23:19:05,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6e1cceee-d93d-457e-962d-4e9912c0ead6.pdf
 GSTK532843,Fortis Healthcare,FORTIS,3680704.0,"FDA suspends Fortis Hospital kitchen licence following multiple food safety violations.
 The regulatory action was taken after cockroaches were discovered inside the hospital kitchen.","FDA suspends Fortis Hospital kitchen licence following multiple food safety violations.
 The regulatory action was taken after cockroaches were discovered inside the hospital kitchen.",ET NOW,2026-10-17T14:24:33,https://x.com/ETNOWlive/status/2111380331383369815
@@ -4881,6 +4885,9 @@ NALCO lost 14.9% over a month, underperforming BSE Metal's 2.6% decline and Sens
 GSTK532234,National Aluminium Co,NATIONALUM,8.847357977799855e+17,"NALCO partners with EGA for smelter expansion, adding 0.5M TPA in Odisha.
 Expansion uses EGA's DX+ Ultra tech, boosting efficiency and competitiveness.","NALCO partners with EGA for smelter expansion, adding 0.5M TPA in Odisha.
 Expansion uses EGA's DX+ Ultra tech, boosting efficiency and competitiveness.",ScoutQuest,2026-09-07T15:14:11,https://sqst.in/qrxuq
+GSTK505790,Schaeffler India,SCHAEFFLER,3715600.0,"Schaeffler India's MD and CEO Harsha Gopal Kadam has been taken into custody regarding a Pune factory accident.
+Two workers died from CO₂ gas discharge, but regular business operations continue under senior management.","Schaeffler India's MD and CEO Harsha Gopal Kadam has been taken into custody regarding a Pune factory accident.
+Two workers died from CO₂ gas discharge, but regular business operations continue under senior management.",ScoutQuest,2026-10-20T18:35:57,https://sqst.in/9bYfX
 GSTK505790,Schaeffler India,SCHAEFFLER,3696412.0,"Schaeffler India's board will meet on October 27, 2026, to consider and approve September quarter unaudited financial results.
 The company's trading window remains closed from October 1 to October 29, 2026, for insider trading compliance.","Schaeffler India's board will meet on October 27, 2026, to consider and approve September quarter unaudited financial results.
 The company's trading window remains closed from October 1 to October 29, 2026, for insider trading compliance.",BSE,2026-10-19T12:57:47,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=337e2f35-0ce6-4658-ab71-6b05d6acf9fc.pdf
@@ -4906,9 +4913,6 @@ No UPSI will be shared; meeting discusses business without regulatory-sensitive 
 GSTK505790,Schaeffler India,SCHAEFFLER,2608052405576.0,"Schaeffler reported Q2 operating profit of EUR264M, meeting market expectations.
 Diversified business structure and growth initiatives supported the company's earnings.","Schaeffler reported Q2 operating profit of EUR264M, meeting market expectations.
 Diversified business structure and growth initiatives supported the company's earnings.",MarketScreener,2026-08-05T11:24:53,https://www.marketscreener.com/news/schaeffler-says-diversification-growth-initiatives-support-q2-profit-ce7f50dfda8df526
-GSTK505790,Schaeffler India,SCHAEFFLER,802509.0,"Schaeffler India targets double-digit growth in the industrial sector, driven by recovery and automation trends.
-The company aims to enhance demand capture amid industrial sector expansion opportunities.","Schaeffler India targets double-digit growth in the industrial sector, driven by recovery and automation trends.
-The company aims to enhance demand capture amid industrial sector expansion opportunities.",Livesquawk,2026-07-23T11:02:18,
 GSTK533150,Godrej Properties,GODREJPROP,3516178.0,BMC has partnered with Godrej Properties and RC Group.,BMC has partnered with Godrej Properties and RC Group.,ET NOW,2026-10-07T19:07:26,https://x.com/ETNOWlive/status/2107827645035753807
 GSTK533150,Godrej Properties,GODREJPROP,3487952.0,"Morgan Stanley has picked three realty stocks, including DLF, Godrej, and Prestige, driving Rs 1.4 lakh crore in pre-sales.","Morgan Stanley has picked three realty stocks, including DLF, Godrej, and Prestige, driving Rs 1.4 lakh crore in pre-sales.",Financial Express,2026-10-05T17:11:35,https://t.co/19cXTjB53h
 GSTK533150,Godrej Properties,GODREJPROP,3487110.0,"Godrej Properties is scheduled to review its Q2 earnings on October 23.
@@ -5691,6 +5695,9 @@ The disposal exceeded a 2% threshold, requiring disclosure under SEBI SAST Regul
 GSTK544397,Ather Energy,ATHERENERG,903953.0,"JPMorgan maintains Overweight on Ather Energy, sets ₹1,850 target citing EV adoption barrier solutions.
 Better pricing drives 17–25% FY29–31E EBITDA upgrade, supporting market-share expansion for Ather Energy.","JPMorgan maintains Overweight on Ather Energy, sets ₹1,850 target citing EV adoption barrier solutions.
 Better pricing drives 17–25% FY29–31E EBITDA upgrade, supporting market-share expansion for Ather Energy.",Livesquawk,2026-09-01T08:40:59,
+GSTK544307,Vishal Mega Mart,VMM,3714517.0,"Vishal Mega Mart's Q2 PAT is projected to rise 18% with revenue increasing 17%.
+Attention remains focused on whether the retailer's margins will hold.","Vishal Mega Mart's Q2 PAT is projected to rise 18% with revenue increasing 17%.
+Attention remains focused on whether the retailer's margins will hold.",Zee Business,2026-10-20T17:14:11,https://t.co/DDxSI7uRkj
 GSTK544307,Vishal Mega Mart,VMM,3644977.0,"Vishal Mega Mart scheduled an earnings conference call on October 21, 2026, to discuss Q2 and H1 results.
 The call will be represented by MD & CEO Gunender Kapur and CFO Amit Gupta at 4:00 PM IST.","Vishal Mega Mart scheduled an earnings conference call on October 21, 2026, to discuss Q2 and H1 results.
 The call will be represented by MD & CEO Gunender Kapur and CFO Amit Gupta at 4:00 PM IST.",BSE,2026-10-15T16:44:25,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=1c8f4cd5-e4b3-4385-a37d-9453a31b5c58.pdf
@@ -5716,9 +5723,6 @@ GSTK544307,Vishal Mega Mart,VMM,26082415218408.0,"Vishal Mega Mart shares rose 1
 Morgan Stanley predicts a 41% upside, citing eased succession concerns and growth continuity.","Vishal Mega Mart shares rose 10% after CEO Gunender Kapur's reappointment.
 Morgan Stanley predicts a 41% upside, citing eased succession concerns and growth continuity.",The Economic Times,2026-08-24T11:12:57,https://economictimes.indiatimes.com/markets/stocks/news/vishal-mega-mart-shares-soar-10-after-ceo-reappointment-heres-why-morgan-stanley-sees-41-upside/articleshow/133451965.cms
 GSTK544307,Vishal Mega Mart,VMM,8.79576066096057e+17,Vishal Mega Mart jumps 9% after re-appointing MD and CEO.,Vishal Mega Mart jumps 9% after re-appointing MD and CEO.,ScoutQuest,2026-08-24T09:31:15,https://sqst.in/shareMessage?msgId=879576066096056991
-GSTK544307,Vishal Mega Mart,VMM,889466.0,"Morgan Stanley maintains Overweight on Vishal Mega Mart, sets target price at ₹146.
-Gunender Kapur's reappointment eases succession concerns; 42.8x 12M P/E adds valuation appeal.","Morgan Stanley maintains Overweight on Vishal Mega Mart, sets target price at ₹146.
-Gunender Kapur's reappointment eases succession concerns; 42.8x 12M P/E adds valuation appeal.",Livesquawk,2026-08-24T09:05:02,
 GSTK500483,Tata Communications,TATACOMM,3663286.0,"Motilal Oswal sees up to 37% upside in Jio Financial, Cyient DLM, and CEAT following Q2 earnings.
 The brokerage maintained Buy ratings on five stocks, while staying Neutral on Tata Communications with a Rs 1,980 target.","Motilal Oswal sees up to 37% upside in Jio Financial, Cyient DLM, and CEAT following Q2 earnings.
 The brokerage maintained Buy ratings on five stocks, while staying Neutral on Tata Communications with a Rs 1,980 target.",NDTV Profit,2026-10-16T10:37:28,https://www.ndtvprofit.com/markets/from-ceat-jio-financial-servicessd-360-one-iifl-finance-to-cyient-dlm-motilal-oswal-sees-up-to-37-percent-after-q2-results-12193250#publisher=newsstand
@@ -8597,6 +8601,9 @@ Meeting will be physical, sharing only publicly available info; no UPSI disclose
 GSTK539006,PTC Industries,PTCIL,895084.0,"PTC Industries schedules investor meeting with SBI Mutual Fund on 31 Aug 2026.
 Meeting in Lucknow; no unpublished price-sensitive information will be shared.","PTC Industries schedules investor meeting with SBI Mutual Fund on 31 Aug 2026.
 Meeting in Lucknow; no unpublished price-sensitive information will be shared.",BSE,2026-08-26T18:03:20,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=752876ce-5c20-42cc-99f2-71a784d1cc38.pdf
+GSTK543573,Syrma SGS Technology,SYRMA,3713617.0,"JPMorgan rates Dixon Technologies and Amber Enterprises Overweight with targets of Rs 16,200 and Rs 8,350, favoring high ROCE and growth.
+The brokerage is Underweight on Syrma, Avalon, and Cyient DLM, urging investors to evaluate ROCE alongside earnings growth.","JPMorgan rates Dixon Technologies and Amber Enterprises Overweight with targets of Rs 16,200 and Rs 8,350, favoring high ROCE and growth.
+The brokerage is Underweight on Syrma, Avalon, and Cyient DLM, urging investors to evaluate ROCE alongside earnings growth.",NDTV Profit,2026-10-20T13:44:42,https://www.ndtvprofit.com/markets/cyient-dlm-amber-dixon-technologies-jpmorgans-top-ems-picks-amid-growth-value-debate-12209961#publisher=newsstand
 GSTK543573,Syrma SGS Technology,SYRMA,3558763.0,"Essencore has partnered with Syrma SGS to strengthen local manufacturing capabilities and expand presence in India.
 The tie-up is part of Hong Kong-based Essencore's strategy involving initiatives and collaborations with local manufacturers.","Essencore has partnered with Syrma SGS to strengthen local manufacturing capabilities and expand presence in India.
 The tie-up is part of Hong Kong-based Essencore's strategy involving initiatives and collaborations with local manufacturers.",The Economic Times,2026-10-09T12:00:00,https://economictimes.indiatimes.com/news/company/corporate-trends/essencore-partners-syrma-sgs-to-expand-local-manufacturing-in-india/articleshow/134834839.cms
@@ -8620,7 +8627,9 @@ Tega Industries, Venus Pipes & Tubes witnessed a rally.",ScoutQuest,2026-09-18T0
 GSTK543573,Syrma SGS Technology,SYRMA,943528.0,"Syrma SGS Technology surged 9%, up 125% YTD, hitting ₹1,652.15 on BSE amid strong business outlook.
 Syrma's ₹6,770 crore order book spans automotive (29%), consumer (30%), industrial (24%), and healthcare (7%).","Syrma SGS Technology surged 9%, up 125% YTD, hitting ₹1,652.15 on BSE amid strong business outlook.
 Syrma's ₹6,770 crore order book spans automotive (29%), consumer (30%), industrial (24%), and healthcare (7%).",Business Standard,2026-09-17T10:24:50,https://www.business-standard.com/markets/news/syrma-sgs-technology-soars-9-up-125-in-2026-what-s-driving-ems-stock-126091700231_1.html
-GSTK543573,Syrma SGS Technology,SYRMA,1237488134.0,"Syrma SGS Technology shares climbed 9%, driven by strong FY26 and Q1 FY27 results.","Syrma SGS Technology shares climbed 9%, driven by strong FY26 and Q1 FY27 results.",Equitymaster,2026-09-17T00:00:00,https://www.equitymaster.com/indian-share-markets/SYRMA-SGS-TECHNOLOGY-Gains-9-BSE-CAPITAL-GOODS-Index-Up-09/10474/
+GSTK540902,Amber Enterprises India,AMBER,3713617.0,"JPMorgan rates Dixon Technologies and Amber Enterprises Overweight with targets of Rs 16,200 and Rs 8,350, favoring high ROCE and growth.
+The brokerage is Underweight on Syrma, Avalon, and Cyient DLM, urging investors to evaluate ROCE alongside earnings growth.","JPMorgan rates Dixon Technologies and Amber Enterprises Overweight with targets of Rs 16,200 and Rs 8,350, favoring high ROCE and growth.
+The brokerage is Underweight on Syrma, Avalon, and Cyient DLM, urging investors to evaluate ROCE alongside earnings growth.",NDTV Profit,2026-10-20T13:44:42,https://www.ndtvprofit.com/markets/cyient-dlm-amber-dixon-technologies-jpmorgans-top-ems-picks-amid-growth-value-debate-12209961#publisher=newsstand
 GSTK540902,Amber Enterprises India,AMBER,3688525.0,"Amber's subsidiary IL JIN Electronics will acquire the remaining 1.5% stake in Ascent Circuits, making it a 100% subsidiary.
 The cashless share swap involves issuing 13,120 CCPS A2 at Rs 10,000 each for 23,401 equity shares.","Amber's subsidiary IL JIN Electronics will acquire the remaining 1.5% stake in Ascent Circuits, making it a 100% subsidiary.
 The cashless share swap involves issuing 13,120 CCPS A2 at Rs 10,000 each for 23,401 equity shares.",ScoutQuest,2026-10-18T16:15:58,https://sqst.in/HV2AI
@@ -8648,9 +8657,6 @@ Shareholders must claim unpaid dividends by 8 Dec 2026 to avoid transfer; proced
 GSTK540902,Amber Enterprises India,AMBER,898701.0,"Dixon Tech, Amber Enterprises shares rose amid reports of GST rate cut on mobile phones from 18%.
 GST reduction could boost smartphone demand, aiding manufacturers like Dixon and Amber in India's electronics sector.","Dixon Tech, Amber Enterprises shares rose amid reports of GST rate cut on mobile phones from 18%.
 GST reduction could boost smartphone demand, aiding manufacturers like Dixon and Amber in India's electronics sector.",NDTV Profit,2026-08-28T10:03:40,https://www.ndtvprofit.com/markets/dixon-tech-amber-enterprises-share-price-rises-on-reports-of-18-gst-cut-on-mobile-phones-11969669#publisher=newsstand
-GSTK540902,Amber Enterprises India,AMBER,897616.0,"Amber Enterprises informs shareholders about the 36th AGM on 16th Sept 2026 via VC/OAVM.
-AGM details and Annual Report FY 2025-26 available on company, stock exchanges, and RTA websites.","Amber Enterprises informs shareholders about the 36th AGM on 16th Sept 2026 via VC/OAVM.
-AGM details and Annual Report FY 2025-26 available on company, stock exchanges, and RTA websites.",BSE,2026-08-27T18:56:23,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=49fe3bc7-542c-4900-90e6-de63c00b12d9.pdf
 GSTK543635,Piramal Pharma,PPLPHARMA,3499172.0,"Piramal Pharma Solutions has launched a new microbiology laboratory and sterility testing suite for GMP drug product applications at its Lexington, Kentucky sterile injectable facility.
 Part of a broader Lexington expansion, the addition features enhanced laboratory capacity, a dedicated sterility testing isolator, and three new biosafety cabinets.","Piramal Pharma Solutions has launched a new microbiology laboratory and sterility testing suite for GMP drug product applications at its Lexington, Kentucky sterile injectable facility.
 Part of a broader Lexington expansion, the addition features enhanced laboratory capacity, a dedicated sterility testing isolator, and three new biosafety cabinets.",MarketScreener,2026-10-06T12:00:00,https://www.marketscreener.com/news/piramal-pharma-solutions-launches-new-microbiology-laboratory-at-its-lexington-ky-sterile-injectabl-ce785dd8df8af125
@@ -9829,6 +9835,9 @@ Cautious capex and regional headwinds add to volatile earnings outlook for Ramco
 GSTK500260,Ramco Cements Limited,RAMCOCEM,852348.0,"CLSA maintains underperform rating on Ramco Cements with target ₹755.
 Healthy volume growth offset by weak profitability; margin recovery depends on input cost easing.","CLSA maintains underperform rating on Ramco Cements with target ₹755.
 Healthy volume growth offset by weak profitability; margin recovery depends on input cost easing.",Livesquawk,2026-08-10T08:54:47,
+GSTK532809,Firstsource Solutions,FSL,3715654.0,"Firstsource Solutions was recognized as a Horizon 3 Market Leader in the HFS Horizons Customer Experience Services 2026 report.
+The recognition highlights Firstsource's AI-native CX transformation approach, powered by its proprietary Kairos operating system.","Firstsource Solutions was recognized as a Horizon 3 Market Leader in the HFS Horizons Customer Experience Services 2026 report.
+The recognition highlights Firstsource's AI-native CX transformation approach, powered by its proprietary Kairos operating system.",BSE,2026-10-20T18:48:03,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d79aab67-6612-49a1-9e9a-315ae5f0bdb4.pdf
 GSTK532809,Firstsource Solutions,FSL,3602119.0,"Firstsource Solutions will hold a board meeting on October 29, 2026, to consider Q2 audited financial results.
 The board will review both standalone and consolidated financial results for the half-year ended September 30, 2026.","Firstsource Solutions will hold a board meeting on October 29, 2026, to consider Q2 audited financial results.
 The board will review both standalone and consolidated financial results for the half-year ended September 30, 2026.",BSE,2026-10-13T16:02:58,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ecc1db35-7e07-480e-be95-c03cf9ac5a92.pdf
@@ -9856,9 +9865,6 @@ Firstsource Solutions gains significantly, rising sharply intraday.",Economic Ti
 GSTK532809,Firstsource Solutions,FSL,937843.0,"Firstsource Solutions shares surged 18% on Sept 15 as Indian IT stocks rebounded over 4% after a 7-day losing streak.
 Analysts predict measured AI development may benefit Indian IT, boosting tech investments and easing concerns around rapid obsolescence.","Firstsource Solutions shares surged 18% on Sept 15 as Indian IT stocks rebounded over 4% after a 7-day losing streak.
 Analysts predict measured AI development may benefit Indian IT, boosting tech investments and easing concerns around rapid obsolescence.",Livemint,2026-09-15T12:16:47,https://www.livemint.com/market/stock-market-news/firstsource-solutions-share-price-jumps-18-after-7-day-losing-streak-what-triggered-the-comeback-11789452706679.html
-GSTK532809,Firstsource Solutions,FSL,937752.0,"Zensar Tech saw volumes surge 30.2x to 15.01 lakh shares, rising 12.7% to Rs.479.3.
-Tata Investment, Firstsource, Afcons Infra, and Birlasoft also reported significant volume and price gains.","Zensar Tech saw volumes surge 30.2x to 15.01 lakh shares, rising 12.7% to Rs.479.3.
-Tata Investment, Firstsource, Afcons Infra, and Birlasoft also reported significant volume and price gains.",Business Standard,2026-09-15T11:16:01,https://www.business-standard.com/markets/capital-market-news/volumes-soar-at-zensar-technologies-ltd-counter-126091500281_1.html
 GSTK532514,Indraprastha Gas,IGL,975655.0,"Jefferies maintains Buy ratings on ONGC, Reliance, IOCL, BPCL, and IGL amid Middle East supply disruptions and elevated refining margins. Conversely, HPCL, Petronet LNG, and Mahanagar Gas are rated Underperform, with GAIL held at Hold.
 Surging petrochemical margins of 84% support Reliance Industries' O2C profitability, while Indian fuel retailers face ongoing marketing losses estimated at Rs 11 per litre on petrol and Rs 16 per litre on diesel.","Jefferies maintains Buy ratings on ONGC, Reliance, IOCL, BPCL, and IGL amid Middle East supply disruptions and elevated refining margins. Conversely, HPCL, Petronet LNG, and Mahanagar Gas are rated Underperform, with GAIL held at Hold.
 Surging petrochemical margins of 84% support Reliance Industries' O2C profitability, while Indian fuel retailers face ongoing marketing losses estimated at Rs 11 per litre on petrol and Rs 16 per litre on diesel.",NDTV Profit,2026-10-01T08:47:27,https://www.ndtvprofit.com/markets/ongc-bpcl-iocl-igl-in-focus-could-a-diesel-export-ban-change-the-outlook-for-energy-stocks-jefferies-weighs-in-12123055#publisher=newsstand
@@ -10351,6 +10357,9 @@ The company demonstrated a strong YoY growth in consolidated profits.",Livesquaw
 GSTK500027,Atul,ATUL,786623.0,"Atul Ltd executed a BSE block trade worth Rs 89.03 crore.
 The trade involved 146,379 shares priced at Rs 6082 each.","Atul Ltd executed a BSE block trade worth Rs 89.03 crore.
 The trade involved 146,379 shares priced at Rs 6082 each.",Livesquawk,2026-07-16T13:53:31,
+GSTK543232,Computer Age Management Services,CAMS,3715585.0,"CAMS targets 20% revenue from non-core businesses over the next 2–3 years.
+The company plans expansion into payments, DPDP, KYC, and analytics segments.","CAMS targets 20% revenue from non-core businesses over the next 2–3 years.
+The company plans expansion into payments, DPDP, KYC, and analytics segments.",The Hindu Business Line,2026-10-20T18:05:13,https://www.thehindubusinessline.com/markets/cams-eyes-20-share-of-revenue-from-non-core-businesses-in-2-3-years/article71604199.ece?utm_campaign=mrf-twitter-businessline&utm_source=twitter&utm_medium=social&mrfcid=202610206ad75fc2d9d86f1e713b3314
 GSTK543232,Computer Age Management Services,CAMS,3619441.0,"CAMS partners with NISM to integrate its AI-powered platform, CAMS Lens, into NISM's Compliance & RegTech Lab.
 The collaboration offers students and market professionals practical exposure to technology-driven regulatory research and compliance workflows.","CAMS partners with NISM to integrate its AI-powered platform, CAMS Lens, into NISM's Compliance & RegTech Lab.
 The collaboration offers students and market professionals practical exposure to technology-driven regulatory research and compliance workflows.",BSE,2026-10-14T13:35:53,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=24c6ff71-6044-410f-8715-d9fdd4fb03c4.pdf
@@ -10378,9 +10387,6 @@ The transaction totaled approximately Rs. 38.12 crore.",Livesquawk,2026-08-28T10
 GSTK543232,Computer Age Management Services,CAMS,861943.0,"CAMS and IIT Madras expand collaboration through CAMS IIT Madras FinTech Innovation Lab (CIFIL) to boost fintech innovation.
 CIFIL to focus on AI, blockchain, digital payments, cybersecurity, and startup support, enhancing India's digital financial ecosystem.","CAMS and IIT Madras expand collaboration through CAMS IIT Madras FinTech Innovation Lab (CIFIL) to boost fintech innovation.
 CIFIL to focus on AI, blockchain, digital payments, cybersecurity, and startup support, enhancing India's digital financial ecosystem.",BSE,2026-08-12T11:49:38,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=bafd7a7a-6161-4803-973d-229036cbe9d0.pdf
-GSTK543232,Computer Age Management Services,CAMS,2608084785406.0,"Computer Age Management Services (NSE:CAMS) will pay ₹2.50/share dividend on Aug 30; ex-dividend date is Aug 12.
-CAMS' dividend yield is 1.6% with a payout ratio of 64% of profits; earnings grew 19% annually over 5 years.","Computer Age Management Services (NSE:CAMS) will pay ₹2.50/share dividend on Aug 30; ex-dividend date is Aug 12.
-CAMS' dividend yield is 1.6% with a payout ratio of 64% of profits; earnings grew 19% annually over 5 years.",Simply Wall Street,2026-08-08T04:38:33,https://simplywall.st/stocks/in/commercial-services/nse-cams/computer-age-management-services-shares/news/computer-age-management-services-limited-nsecams-will-pay-a
 GSTK532374,Sterlite Technologies,STLTECH,3639352.0,"Sterlite Technologies witnessed a large NSE block trade valued at Rs. 65.9 crores.
 The deal involved approximately 750,010 shares traded at Rs. 878.5 per share.","Sterlite Technologies witnessed a large NSE block trade valued at Rs. 65.9 crores.
 The deal involved approximately 750,010 shares traded at Rs. 878.5 per share.",Livesquawk,2026-10-15T12:36:41,
@@ -12583,6 +12589,9 @@ PAT grew 31% YoY to INR 1,657 Mn, driven by margin improvements.",ScoutQuest,202
 GSTK544311,International Gemological Institute,IGIL,803397.0,"International Gemological Institute's Q1 EBITDA rose to 2.23B rupees vs 1.73B YoY.
 Q1 EBITDA margin improved to 60.3% compared to 57.6% YoY.","International Gemological Institute's Q1 EBITDA rose to 2.23B rupees vs 1.73B YoY.
 Q1 EBITDA margin improved to 60.3% compared to 57.6% YoY.",Livesquawk,2026-07-23T15:55:00,
+GSTK544350,Dr. Agarwal's Health Care,AGARWALEYE,3715660.0,"Dr. Agarwal's Health Care's merger with Dr. Agarwal's Eye Hospital becomes effective November 1, 2026, post-NCLT approval.
+Record date is November 18, 2026, with a swap ratio of 23 shares for every 2 shares held.","Dr. Agarwal's Health Care's merger with Dr. Agarwal's Eye Hospital becomes effective November 1, 2026, post-NCLT approval.
+Record date is November 18, 2026, with a swap ratio of 23 shares for every 2 shares held.",BSE,2026-10-20T18:50:59,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=24e2793f-7acc-4584-994c-1b97f992ba00.pdf
 GSTK544350,Dr. Agarwal's Health Care,AGARWALEYE,3491846.0,"The NCLT Chennai Bench has sanctioned the Scheme of Amalgamation between Dr. Agarwal’s Eye Hospital Limited and Dr. Agarwal’s Health Care Limited, approving the merger of AEHL into AHCL.
 The scheme takes effect from the Appointed Date of April 01, 2026. The company awaits the certified order copy and will update exchanges on the record date and share allotment.","The NCLT Chennai Bench has sanctioned the Scheme of Amalgamation between Dr. Agarwal’s Eye Hospital Limited and Dr. Agarwal’s Health Care Limited, approving the merger of AEHL into AHCL.
 The scheme takes effect from the Appointed Date of April 01, 2026. The company awaits the certified order copy and will update exchanges on the record date and share allotment.",BSE,2026-10-05T22:40:18,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8458904e-7495-496a-bfed-e190c60cd94a.pdf
@@ -12608,9 +12617,6 @@ The floor price for the deal is set at Rs 500/share, with an 11% base offer and 
 GSTK544350,Dr. Agarwal's Health Care,AGARWALEYE,308495302.0,"Dr Agarwal’s Health Care led NSE volume gainers with 4.67 cr shares.
 Stock fell 5.99% to Rs 509.55 amid high trading activity on Aug 12, 2026.","Dr Agarwal’s Health Care led NSE volume gainers with 4.67 cr shares.
 Stock fell 5.99% to Rs 509.55 amid high trading activity on Aug 12, 2026.",HDFC Sky,2026-08-12T11:30:00,https://hdfcsky.com/news/volume-gainers-august-12-2026
-GSTK544350,Dr. Agarwal's Health Care,AGARWALEYE,838357.0,"Dr. Agarwals Health surged 5.6% to Rs 521 on Jefferies' upgrade to 'Buy' with a Rs 600 target.
-Morgan Stanley raised the target to Rs 576, citing strong SSSG, ROCE, and growth opportunities.","Dr. Agarwals Health surged 5.6% to Rs 521 on Jefferies' upgrade to 'Buy' with a Rs 600 target.
-Morgan Stanley raised the target to Rs 576, citing strong SSSG, ROCE, and growth opportunities.",NDTV Profit,2026-08-05T12:37:40,https://www.ndtvprofit.com/markets/dr-agarwals-health-shares-surge-after-jefferies-upgrades-rating-ms-hikes-target-price-11868199#publisher=newsstand
 GSTK532702,Gujarat State Petronet,,26061121824810.0,"India increases LNG imports to address disrupted Middle Eastern supply and rising demand.
 Indian Oil and Gujarat State Petronet among firms issuing tenders or securing shipments for June-July.","India increases LNG imports to address disrupted Middle Eastern supply and rising demand.
 Indian Oil and Gujarat State Petronet among firms issuing tenders or securing shipments for June-July.",Business Standard,2026-06-10T23:37:34,https://www.business-standard.com/economy/news/india-boosts-lng-buying-to-meet-fertiliser-power-demand-amid-supply-woes-126061001474_1.html
@@ -12841,6 +12847,9 @@ API segment grew 42%, formulations fell 23%, exports surged 46% YoY.",ScoutQuest
 GSTK543960,Concord Biotech,CONCORDBIO,8.710202401446468e+17,"Concord Biotech Q1 profit rises 32.8% to ₹58.5 crore; revenue up 26.2% to ₹257.4 crore.
 EBITDA grows 34.2% to ₹82.4 crore; margins improve to 32% from 30.1% YoY.","Concord Biotech Q1 profit rises 32.8% to ₹58.5 crore; revenue up 26.2% to ₹257.4 crore.
 EBITDA grows 34.2% to ₹82.4 crore; margins improve to 32% from 30.1% YoY.",ScoutQuest,2026-07-31T18:53:28,https://sqst.in/shareMessage?msgId=871020240144646794
+GSTK532726,Gallantt Ispat,GALLANTT,3714538.0,"Gallantt Ispat reported a 32% year-on-year drop in Q2 consolidated profit.
+The company's Q2 revenue increased by 13.1% year-on-year.","Gallantt Ispat reported a 32% year-on-year drop in Q2 consolidated profit.
+The company's Q2 revenue increased by 13.1% year-on-year.",ET NOW,2026-10-20T17:10:11,https://x.com/ETNOWlive/status/2112509177159704939
 GSTK532726,Gallantt Ispat,GALLANTT,3625606.0,"Gallantt Ispat will host its Q2 FY2027 earnings conference call on October 21, 2026, at 04:00 PM IST.
 Senior leadership, including the Vice Chairman, CEO, and CFO, will represent the company on the call.","Gallantt Ispat will host its Q2 FY2027 earnings conference call on October 21, 2026, at 04:00 PM IST.
 Senior leadership, including the Vice Chairman, CEO, and CFO, will represent the company on the call.",BSE,2026-10-14T19:28:50,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=fec59398-d215-4515-878c-b54db402a6c9.pdf
@@ -12868,9 +12877,6 @@ Focus on India's steel demand growth and forward-looking economic strategies emp
 GSTK532726,Gallantt Ispat,GALLANTT,8.696055415118973e+17,"Gallantt Ispat appoints Amit Jalan as CFO, effective 27th July 2026.
 Jalan, with 25 years of finance experience, was previously Chief Accounts Officer.","Gallantt Ispat appoints Amit Jalan as CFO, effective 27th July 2026.
 Jalan, with 25 years of finance experience, was previously Chief Accounts Officer.",ScoutQuest,2026-07-27T21:11:57,https://sqst.in/Z6L5X
-GSTK532726,Gallantt Ispat,GALLANTT,812446.0,"Gallantt Ispat Q1 results: Consolidated profit falls 28.7% YoY.
-Revenue sees a slight increase of 1.6% YoY in the same period.","Gallantt Ispat Q1 results: Consolidated profit falls 28.7% YoY.
-Revenue sees a slight increase of 1.6% YoY in the same period.",ET NOW,2026-07-27T19:59:55,https://x.com/ETNOWlive/status/2081748925103611985
 GSTK544061,Azad Engineering,AZAD,3594241.0,"Goldman Sachs issued a Buy rating on Azad Engineering with a target price of ₹3,315.
 A new gas turbine contract from BHEL is expected to support growth in its Energy business.","Goldman Sachs issued a Buy rating on Azad Engineering with a target price of ₹3,315.
 A new gas turbine contract from BHEL is expected to support growth in its Energy business.",CNBC-AWAAZ,2026-10-13T08:28:24,https://x.com/CNBC_Awaaz/status/2109841151876530410
@@ -13423,6 +13429,9 @@ The company filed an appeal and is evaluating financial and operational implicat
 GSTK544782,Vedanta Oil and Gas,VOGL,797455.0,"Vedanta faces USD 35M demand plus interest from DGH over OALP block extension dispute.
 The demand stems from disagreements related to extending the OALP block.","Vedanta faces USD 35M demand plus interest from DGH over OALP block extension dispute.
 The demand stems from disagreements related to extending the OALP block.",Livesquawk,2026-07-21T16:30:29,
+GSTK500878,CEAT,CEATLTD,3713290.0,"Ceat targets a 33% revenue share from international business in five years by expanding overseas and integrating CAMSO.
+In Q2, international business contributed roughly 20% on a standalone basis and 24% on a consolidated basis.","Ceat targets a 33% revenue share from international business in five years by expanding overseas and integrating CAMSO.
+In Q2, international business contributed roughly 20% on a standalone basis and 24% on a consolidated basis.",The Economic Times,2026-10-20T12:27:41,https://auto.economictimes.indiatimes.com/news/tyres/ceat-targets-33-revenue-share-from-international-business-in-five-years/135063039
 GSTK500878,CEAT,CEATLTD,3702244.0,"Nomura projects a 22% upside in CEAT share price, driven by its electric vehicle bet.
 The positive outlook remains intact despite an anticipated delay in the company's margin recovery.","Nomura projects a 22% upside in CEAT share price, driven by its electric vehicle bet.
 The positive outlook remains intact despite an anticipated delay in the company's margin recovery.",Financial Express,2026-10-19T17:47:29,https://t.co/S3wMGXtYEz
@@ -13448,9 +13457,6 @@ CFO Kumar Subbiah noted that the company continues to maintain focus on premium 
 GSTK500878,CEAT,CEATLTD,3637312.0,"CEAT MD Arnab Banerjee expects margin pressure to persist in H2 amid rising raw material costs.
 The company anticipates moderate growth in H2 due to higher input costs and a high base effect.","CEAT MD Arnab Banerjee expects margin pressure to persist in H2 amid rising raw material costs.
 The company anticipates moderate growth in H2 due to higher input costs and a high base effect.",ET NOW,2026-10-15T10:07:49,https://x.com/ETNOWlive/status/2110590949424553990
-GSTK500878,CEAT,CEATLTD,3637783.0,"Markets opened higher led by Q2 optimism, with Sensex jumping 1.2% and Nifty rising 1.1% amid major earnings announcements.
-Wipro and Tata Communications shares surged ahead of results, while CEAT declined following a drop in net profit to ₹164 crore.","Markets opened higher led by Q2 optimism, with Sensex jumping 1.2% and Nifty rising 1.1% amid major earnings announcements.
-Wipro and Tata Communications shares surged ahead of results, while CEAT declined following a drop in net profit to ₹164 crore.",The Hindu Business Line,2026-10-15T09:54:19,https://www.thehindubusinessline.com/markets/q2-results-today-live-updates-wipro-nestle-india-tech-mahindra-jio-financial-persistent-systems-irfc-polycab-hdfc-amc-tata-communication-results-groww-tata-tech-leela-emmvee-15-october-2026/article71586591.ece
 GSTK543350,Vijaya Diagnostic Centre,VIJAYA,26092638577603.0,"Vijaya Diagnostic approves final dividend of INR 2 per equity share for FY ended March 31, 2026.
 The dividend approval was made during the AGM held on September 24, 2026.","Vijaya Diagnostic approves final dividend of INR 2 per equity share for FY ended March 31, 2026.
 The dividend approval was made during the AGM held on September 24, 2026.",MarketScreener India,2026-09-26T12:00:00,https://in.marketscreener.com/news/vijaya-diagnostic-centre-limited-approves-final-dividend-for-the-financial-year-ended-march-31-2026-ce785adcd98ef522
@@ -14365,6 +14371,9 @@ EBITDA grows 24% to ₹396 crore; margin improves from 15% to 16% YoY.",ScoutQue
 GSTK506590,PCBL Chemical,PCBL,817554.0,"PCBL Chemical reports Q1 consolidated net profit of ₹1.5B.
 Profit rises from ₹940.5M YoY, showcasing significant growth.","PCBL Chemical reports Q1 consolidated net profit of ₹1.5B.
 Profit rises from ₹940.5M YoY, showcasing significant growth.",Livesquawk,2026-07-29T14:20:37,
+GSTK543259,Home First Finance Company India,HOMEFIRST,3715759.0,"Home First Finance scheduled a board meeting on October 27, 2026, to approve Q2 and half-year financial results.
+The trading window remains closed from October 1, 2026, until 48 hours after the results announcement.","Home First Finance scheduled a board meeting on October 27, 2026, to approve Q2 and half-year financial results.
+The trading window remains closed from October 1, 2026, until 48 hours after the results announcement.",BSE,2026-10-20T19:18:45,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=df397096-1d60-492a-bfa2-82450c6bc7b0.pdf
 GSTK543259,Home First Finance Company India,HOMEFIRST,3622471.0,"Home First Finance reported ₹150 crore in privately placed NCDs outstanding as of September 30, 2026.","Home First Finance reported ₹150 crore in privately placed NCDs outstanding as of September 30, 2026.",Livesquawk,2026-10-14T16:24:12,
 GSTK543259,Home First Finance Company India,HOMEFIRST,969895.0,"InCred Equities maintains a high-conviction 'Add' rating on Home First Finance Company with a target price of ₹1,500. HFFC demonstrates operational resilience, using mortgage guarantees to mitigate regulatory circular impacts while rising GCC employment offsets IT sector uncertainties.
 HFFC reiterated its spread guidance of 5-5.3%, aided by a fully floating loan book, and expects Return on Equity to reach approximately 16% by FY28. Growth will be supported by untapped potential in top-tier cities and superior branch productivity.","InCred Equities maintains a high-conviction 'Add' rating on Home First Finance Company with a target price of ₹1,500. HFFC demonstrates operational resilience, using mortgage guarantees to mitigate regulatory circular impacts while rising GCC employment offsets IT sector uncertainties.
@@ -14390,9 +14399,6 @@ The ESG rating reflects environmental, social, and governance factors, disclosed
 GSTK543259,Home First Finance Company India,HOMEFIRST,8.822558875284663e+17,"Home First Finance CFO Nutan Gaba Patwari resigned effective Aug 31, 2026.
 She ceased roles as CFO, Key Managerial Personnel, and Senior Management.","Home First Finance CFO Nutan Gaba Patwari resigned effective Aug 31, 2026.
 She ceased roles as CFO, Key Managerial Personnel, and Senior Management.",ScoutQuest,2026-08-31T18:59:55,https://sqst.in/KTcee
-GSTK543259,Home First Finance Company India,HOMEFIRST,898668.0,"Home First Finance Company allotted 15,000 secured NCDs worth ₹150 Cr on Aug 28, 2026.
-The NCDs have a tenure of ~59.8 months, 7.55% annual coupon rate, and quarterly payments.","Home First Finance Company allotted 15,000 secured NCDs worth ₹150 Cr on Aug 28, 2026.
-The NCDs have a tenure of ~59.8 months, 7.55% annual coupon rate, and quarterly payments.",BSE,2026-08-28T11:37:29,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=34a833d9-16b2-4488-b4d6-c5bc1cc1da95.pdf
 GSTK544484,Bluestone Jewellery And Lifestyle,BLUESTONE,3624721.0,"BlueStone Jewellery's board will meet on October 22, 2026, to approve unaudited financial results for the September quarter.
 The board will also consider raising up to ₹300 crore via Non-Convertible Debentures on a private placement basis.","BlueStone Jewellery's board will meet on October 22, 2026, to approve unaudited financial results for the September quarter.
 The board will also consider raising up to ₹300 crore via Non-Convertible Debentures on a private placement basis.",BSE,2026-10-14T18:49:01,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8c04579f-7c71-49f8-b8ab-50e9dbc4198a.pdf
@@ -14708,6 +14714,9 @@ Steady 14–15% FY27E sales growth and +300 bps EBITDA margin rise expected by F
 GSTK542650,Metropolis Healthcare,METROPOLIS,8.808107023365286e+17,"Metropolis Healthcare shifted EQAS business to subsidiary MQSPL via slump sale for INR 1.25 crore.
 Transaction involves equity shares issued to parent, effective August 27, 2026.","Metropolis Healthcare shifted EQAS business to subsidiary MQSPL via slump sale for INR 1.25 crore.
 Transaction involves equity shares issued to parent, effective August 27, 2026.",ScoutQuest,2026-08-27T19:17:16,https://sqst.in/HvYEF
+GSTK543896,Avalon Technologies,AVALON,3713617.0,"JPMorgan rates Dixon Technologies and Amber Enterprises Overweight with targets of Rs 16,200 and Rs 8,350, favoring high ROCE and growth.
+The brokerage is Underweight on Syrma, Avalon, and Cyient DLM, urging investors to evaluate ROCE alongside earnings growth.","JPMorgan rates Dixon Technologies and Amber Enterprises Overweight with targets of Rs 16,200 and Rs 8,350, favoring high ROCE and growth.
+The brokerage is Underweight on Syrma, Avalon, and Cyient DLM, urging investors to evaluate ROCE alongside earnings growth.",NDTV Profit,2026-10-20T13:44:42,https://www.ndtvprofit.com/markets/cyient-dlm-amber-dixon-technologies-jpmorgans-top-ems-picks-amid-growth-value-debate-12209961#publisher=newsstand
 GSTK543896,Avalon Technologies,AVALON,3711202.0,"Avalon Technologies formed subsidiary Zollner Avalon for electronic manufacturing; Zollner will acquire a 51% stake under a JVA.
 Avalon initially subscribed to 9,800 equity shares of INR 10 each, bringing paid-up capital to INR 98,000.","Avalon Technologies formed subsidiary Zollner Avalon for electronic manufacturing; Zollner will acquire a 51% stake under a JVA.
 Avalon initially subscribed to 9,800 equity shares of INR 10 each, bringing paid-up capital to INR 98,000.",ScoutQuest,2026-10-20T12:07:13,https://sqst.in/pcciq
@@ -14735,9 +14744,6 @@ The total value of the block deal amounted to approximately Rs. 883.1 crores.",L
 GSTK543896,Avalon Technologies,AVALON,26092941118683.0,"JPMorgan has downgraded Syrma SGS Technology, Avalon Technologies, and Cyient DLM despite 47% EPS growth, arguing that strong earnings growth alone may not justify the premium valuations of the three EMS companies.
 The brokerage's comparison places revenue growth, earnings growth, return on capital employed (ROCE), and working capital at the centre of the valuation debate.","JPMorgan has downgraded Syrma SGS Technology, Avalon Technologies, and Cyient DLM despite 47% EPS growth, arguing that strong earnings growth alone may not justify the premium valuations of the three EMS companies.
 The brokerage's comparison places revenue growth, earnings growth, return on capital employed (ROCE), and working capital at the centre of the valuation debate.",Financial Express,2026-09-29T10:11:00,https://www.financialexpress.com/market/syrma-cyient-avalon-jpmorgan-downgrades-all-3-despite-47-eps-growthheres-why-4349412/
-GSTK543896,Avalon Technologies,AVALON,966945.0,"Avalon Technologies Limited concluded its 27th Annual General Meeting on September 28, 2026, held via video conferencing. All proposed agenda items were duly transacted by the members through remote e-voting and electronic voting during the meeting.
-Key business included adopting financial statements, the re-appointment of Kunhamed Bicha as Chairman and Managing Director, appointments and re-appointments of Independent Directors, and approval of commission payments to Independent Directors.","Avalon Technologies Limited concluded its 27th Annual General Meeting on September 28, 2026, held via video conferencing. All proposed agenda items were duly transacted by the members through remote e-voting and electronic voting during the meeting.
-Key business included adopting financial statements, the re-appointment of Kunhamed Bicha as Chairman and Managing Director, appointments and re-appointments of Independent Directors, and approval of commission payments to Independent Directors.",BSE,2026-09-28T18:52:37,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=76fa6b46-343f-4f74-8f33-bc0d93815733.pdf
 GSTK544537,Jain Resource Recycling,JAINREC,3671182.0,"Jain Resource Recycling provided corporate guarantees worth Rs 150 crore for subsidiary Jain Green Technologies.
 The guarantees secure facilities from Yes Bank and RBL Bank, with no immediate cash outflow.","Jain Resource Recycling provided corporate guarantees worth Rs 150 crore for subsidiary Jain Green Technologies.
 The guarantees secure facilities from Yes Bank and RBL Bank, with no immediate cash outflow.",ScoutQuest,2026-10-16T19:29:48,https://sqst.in/zFfdQ
@@ -15499,6 +15505,9 @@ The order strengthens Jupiter's role in private wagon leasing under Indian Railw
 GSTK533272,Jupiter Wagons,JWL,8.786129053144367e+17,"Jupiter Wagons Q1 FY27 revenue rose 46% yoy to INR 671 crore.
 EBITDA grew 9% to INR 65 crore with margins at ~10%; PAT at INR 26 crore.","Jupiter Wagons Q1 FY27 revenue rose 46% yoy to INR 671 crore.
 EBITDA grew 9% to INR 65 crore with margins at ~10%; PAT at INR 26 crore.",ScoutQuest,2026-08-21T17:44:00,https://sqst.in/O87FI
+GSTK512529,Viyash Scientific,VIYASH,3713182.0,"Viyash Scientific appointed Dr. Mallikharjuna Rao Nagineni as Senior Vice President, Human Resources, effective October 20, 2026.
+Meanwhile, Mr. Prasad Lad ceased to be Senior Management Personnel on October 20, 2026, due to his forthcoming retirement.","Viyash Scientific appointed Dr. Mallikharjuna Rao Nagineni as Senior Vice President, Human Resources, effective October 20, 2026.
+Meanwhile, Mr. Prasad Lad ceased to be Senior Management Personnel on October 20, 2026, due to his forthcoming retirement.",BSE,2026-10-20T15:44:21,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c343dd57-6097-48a1-9af5-93a51e4d08e4.pdf
 GSTK512529,Viyash Scientific,VIYASH,3679156.0,"White Oak Capital sold approximately 87.5 lakh shares, representing a 2% stake in Viyash Scientific via the open market.
 Prior to this sell transaction, White Oak Capital held a 2.2% stake in the company.","White Oak Capital sold approximately 87.5 lakh shares, representing a 2% stake in Viyash Scientific via the open market.
 Prior to this sell transaction, White Oak Capital held a 2.2% stake in the company.",ScoutQuest,2026-10-17T11:34:11,https://sqst.in/c0m4V
@@ -15524,9 +15533,6 @@ GSTK512529,Viyash Scientific,VIYASH,8.566714544392614e+18,"NEO APEX SHARE BROKIN
 Trade executed at an average price of ₹266.2 on 26th August 2026.","NEO APEX SHARE BROKING SERVICES LLP sold 4,163,047 shares of Viyash Scientific Ltd.
 Trade executed at an average price of ₹266.2 on 26th August 2026.",NSE Bulk Trades,2026-08-26T21:00:26,https://www.nseindia.com/report-detail/display-bulk-and-block-deals
 GSTK512529,Viyash Scientific,VIYASH,2.2693996381977894e+18,CA Hull Investments sold 9.3M shares of Viyash Scientific Ltd at Rs 263.4.,CA Hull Investments sold 9.3M shares of Viyash Scientific Ltd at Rs 263.4.,NSE Bulk Trades,2026-08-26T21:00:26,https://www.nseindia.com/report-detail/display-bulk-and-block-deals
-GSTK512529,Viyash Scientific,VIYASH,8.804411858741272e+17,"Bandhan Mutual Fund acquired 2.84M shares of Viyash Scientific at ₹263.1/share.
-The total transaction value amounted to ₹74.8 crore on 2026-08-26.","Bandhan Mutual Fund acquired 2.84M shares of Viyash Scientific at ₹263.1/share.
-The total transaction value amounted to ₹74.8 crore on 2026-08-26.",ScoutQuest,2026-08-26T18:48:56,https://sqst.in/shareMessage?msgId=880441185874127235
 GSTK532800,TV18 Broadcast,TV18BRDCST,,,,,,
 GSTK500126,Procter & Gamble Health,PGHL,916833.0,"Procter & Gamble Health Ltd re-appoints Mr. S. Madhavan as Independent Director for 5 years starting Nov 15, 2026.
 Shareholder approval for Mr. Madhavan's re-appointment was confirmed at the 59th AGM on Sep 3, 2026.","Procter & Gamble Health Ltd re-appoints Mr. S. Madhavan as Independent Director for 5 years starting Nov 15, 2026.
@@ -15663,6 +15669,9 @@ The company outlines plans for margins improvement and M&A opportunities.",Scout
 GSTK543417,RateGain Travel Technologies Ltd.,RATEGAIN,8.782598497794304e+17,"RateGain's subsidiary Sojern gets $40M credit line from J.P. Morgan.
 RateGain issued a $44M corporate guarantee; no promoter interest noted.","RateGain's subsidiary Sojern gets $40M credit line from J.P. Morgan.
 RateGain issued a $44M corporate guarantee; no promoter interest noted.",ScoutQuest,2026-08-20T18:21:05,https://sqst.in/1IBPs
+GSTK542726,Indiamart Intermesh,INDIAMART,3714511.0,"IndiaMART InterMESH scheduled an earnings conference call on October 27, 2026, at 17:00 hours IST.
+The webinar will discuss company results and developments for the quarter ended September 30, 2026.","IndiaMART InterMESH scheduled an earnings conference call on October 27, 2026, at 17:00 hours IST.
+The webinar will discuss company results and developments for the quarter ended September 30, 2026.",BSE,2026-10-20T17:28:04,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=805ad2f3-90bd-4d18-bedd-e1b80ff6c20f.pdf
 GSTK542726,Indiamart Intermesh,INDIAMART,3707239.0,"CCPA took action against seven platforms, including IndiaMART and Justdial, over listings of regulated explosives.
 A total of 3,940 sellers and entries were delisted, alongside Rs 30 lakh in penalties imposed.","CCPA took action against seven platforms, including IndiaMART and Justdial, over listings of regulated explosives.
 A total of 3,940 sellers and entries were delisted, alongside Rs 30 lakh in penalties imposed.",Moneycontrol,2026-10-19T21:25:39,https://www.moneycontrol.com/news/india/indiamart-justdial-among-7-platforms-facing-ccpa-action-over-explosives-listings-3-940-delisted-14055724.html
@@ -15690,9 +15699,6 @@ Equity holding rose to 7.71% (4,636,599 shares) after transactions on 16 June 20
 GSTK542726,Indiamart Intermesh,INDIAMART,811214.0,"IndiaMART invests Rs. 64.9 Cr for 4,630 CCPS in Fleetx Technologies, holding 25.8% post-acquisition.
 Fleetx, an AI-driven logistics platform, reported turnover of Rs. 77.8 Cr in FY 2025.","IndiaMART invests Rs. 64.9 Cr for 4,630 CCPS in Fleetx Technologies, holding 25.8% post-acquisition.
 Fleetx, an AI-driven logistics platform, reported turnover of Rs. 77.8 Cr in FY 2025.",BSE,2026-07-27T15:07:11,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=55be3cdc-a059-4e96-962c-6bb1ce13c5f7.pdf
-GSTK542726,Indiamart Intermesh,INDIAMART,802279.0,"Nalanda India Equity Fund disclosed acquisition details for IndiaMART shares under SEBI (SAST) Regulations, 2011.
-Post-acquisition, Nalanda holds 7.71% voting rights in IndiaMART, up from 7.67%. Sale involved 423,115 shares.","Nalanda India Equity Fund disclosed acquisition details for IndiaMART shares under SEBI (SAST) Regulations, 2011.
-Post-acquisition, Nalanda holds 7.71% voting rights in IndiaMART, up from 7.67%. Sale involved 423,115 shares.",BSE,2026-07-23T09:37:25,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ACBD25C3_96AC_41D3_95B0_F8C05B54B135_093721.pdf
 GSTK543980,Jupiter Life Line Hospitals,JLHL,3695335.0,"Jupiter Life Line Hospitals signed an agreement with HDFC Bank for a Rs 500 Cr term loan for capex.
 The facility includes a Rs 300 Cr LC sublimit, secured against Dombivli and Pune Baner hospitals.","Jupiter Life Line Hospitals signed an agreement with HDFC Bank for a Rs 500 Cr term loan for capex.
 The facility includes a Rs 300 Cr LC sublimit, secured against Dombivli and Pune Baner hospitals.",ScoutQuest,2026-10-19T11:44:57,https://sqst.in/uhfHR
@@ -16246,6 +16252,9 @@ Economic Times covers share price rally explanations for Paras Defence.",Economi
 GSTK543367,Paras Defence and Space Technologies,PARAS,872697.0,"Paras Defence (PARAS) to meet analysts/investors at Motilal Oswal Global Investor Conference on Aug 19, 2026.
 Presentation available on PARAS website; no unpublished sensitive info to be shared during meetings.","Paras Defence (PARAS) to meet analysts/investors at Motilal Oswal Global Investor Conference on Aug 19, 2026.
 Presentation available on PARAS website; no unpublished sensitive info to be shared during meetings.",BSE,2026-08-14T13:13:38,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=96fbee33-1139-4ee6-9330-8e19778a5fc8.pdf
+GSTK538835,Intellect Design Arena,INTELLECT,3713608.0,"Intellect Design Arena's board will meet on October 30, 2026, to approve unaudited Q2 and H1 financial results.
+The company will host an investor and analyst call on October 30, 2026, to discuss results and business outlook.","Intellect Design Arena's board will meet on October 30, 2026, to approve unaudited Q2 and H1 financial results.
+The company will host an investor and analyst call on October 30, 2026, to discuss results and business outlook.",BSE,2026-10-20T16:03:48,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b855b66c-c914-4774-97a8-d7be76f468c8.pdf
 GSTK538835,Intellect Design Arena,INTELLECT,3638533.0,"Franklin Templeton Mutual Fund sold 124,710 shares (0.1% stake) of Intellect Design Arena via open market.
 Prior to this transaction, Franklin Templeton schemes held a 3.4% stake in the company.","Franklin Templeton Mutual Fund sold 124,710 shares (0.1% stake) of Intellect Design Arena via open market.
 Prior to this transaction, Franklin Templeton schemes held a 3.4% stake in the company.",ScoutQuest,2026-10-15T11:53:54,https://sqst.in/y8sz9
@@ -16273,9 +16282,6 @@ Operational leverage is expected to enhance margins for Intellect Design.",Scout
 GSTK538835,Intellect Design Arena,INTELLECT,8.719907474720221e+17,"Intellect Design sees AI driving growth; aims 15-20% increase.
 Purple Fabric may contribute 10% to revenue; acquisitions considered.","Intellect Design sees AI driving growth; aims 15-20% increase.
 Purple Fabric may contribute 10% to revenue; acquisitions considered.",ScoutQuest,2026-08-03T11:09:55,https://sqst.in/shareMessage?msgId=871990747472022193
-GSTK538835,Intellect Design Arena,INTELLECT,508235795.0,"Intellect Design Arena announces ₹7/share dividend at 15th AGM, FY25-26.
-Q1FY27 financials show 20.4% YoY revenue growth, 8.7% PAT rise.","Intellect Design Arena announces ₹7/share dividend at 15th AGM, FY25-26.
-Q1FY27 financials show 20.4% YoY revenue growth, 8.7% PAT rise.",ScanX,2026-08-03T03:11:00,https://scanx.trade/stock-market-news/companies/intellect-design-arena-declares-7-dividend-per-share-at-agm/47232664
 GSTK543463,Manyavar- Vedant Fashions Ltd.,MANYAVAR,3514764.0,"Vedant Fashions approved the allotment of 303 equity shares of face value Re 1 each to an eligible employee upon the exercise of options under the VFL Employee Stock Option Scheme 2018 – Scheme Pratham.
 Consequently, the company's paid-up equity share capital increased from Rs 24,29,77,245 to Rs 24,29,77,548, divided into 24,29,77,548 equity shares of Re 1 each. The newly allotted shares rank pari-passu with existing equity shares.","Vedant Fashions approved the allotment of 303 equity shares of face value Re 1 each to an eligible employee upon the exercise of options under the VFL Employee Stock Option Scheme 2018 – Scheme Pratham.
 Consequently, the company's paid-up equity share capital increased from Rs 24,29,77,245 to Rs 24,29,77,548, divided into 24,29,77,548 equity shares of Re 1 each. The newly allotted shares rank pari-passu with existing equity shares.",BSE,2026-10-07T18:19:27,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7701ebd0-9fc2-46df-875d-44eade6f2356.pdf
@@ -17023,6 +17029,9 @@ GSTK540595,Tejas Networks,TEJASNET,3.12490429432905e+18,"MICROCURVES TRADING Pvt
 Trade executed at avg price of 610.9 on 04-SEP-2026.","MICROCURVES TRADING Pvt Ltd sold 951,789 Tejas Networks shares.
 Trade executed at avg price of 610.9 on 04-SEP-2026.",NSE Bulk Trades,2026-09-04T21:00:22,https://www.nseindia.com/report-detail/display-bulk-and-block-deals
 GSTK540595,Tejas Networks,TEJASNET,2.8355237316922854e+18,Jump Trading sold 1.78M shares of Tejas Networks at avg price 560.78.,Jump Trading sold 1.78M shares of Tejas Networks at avg price 560.78.,NSE Bulk Trades,2026-08-29T21:00:16,https://www.nseindia.com/report-detail/display-bulk-and-block-deals
+GSTK543265,Railtel Corporation of India,RAILTEL,3713863.0,"RailTel secured a Letter of Acceptance from Haryana State Electronics Development Corporation for a Structured LAN rate contract.
+The contract covers Haryana, Chandigarh, and Delhi NCR, with periodic purchase orders executable up to April 18, 2028.","RailTel secured a Letter of Acceptance from Haryana State Electronics Development Corporation for a Structured LAN rate contract.
+The contract covers Haryana, Chandigarh, and Delhi NCR, with periodic purchase orders executable up to April 18, 2028.",ScoutQuest,2026-10-20T16:49:01,https://sqst.in/ueflW
 GSTK543265,Railtel Corporation of India,RAILTEL,3680158.0,"RailTel secured a purchase order worth Rs 18,99,03,173 from Health Insurance TPA of India for IT infrastructure and cybersecurity solutions.
 The domestic, non-telecom contract has an execution period of three years, ending on 16-OCT-29.","RailTel secured a purchase order worth Rs 18,99,03,173 from Health Insurance TPA of India for IT infrastructure and cybersecurity solutions.
 The domestic, non-telecom contract has an execution period of three years, ending on 16-OCT-29.",ScoutQuest,2026-10-17T13:37:12,https://sqst.in/eYK91
@@ -17050,9 +17059,6 @@ The connectivity project will support ERP implementation over a duration of 5 ye
 GSTK543265,Railtel Corporation of India,RAILTEL,3495516.0,"RailTel Corporation of India received a domestic work order worth Rs 48,39,67,198 (including tax) from the Odisha Primary Education Program Authority (Opepa).
 The order entails the supply, installation, and commissioning of tools and equipment and setting up vocational labs, to be executed by April 3, 2027.","RailTel Corporation of India received a domestic work order worth Rs 48,39,67,198 (including tax) from the Odisha Primary Education Program Authority (Opepa).
 The order entails the supply, installation, and commissioning of tools and equipment and setting up vocational labs, to be executed by April 3, 2027.",ScoutQuest,2026-10-06T10:44:14,https://sqst.in/OU9WE
-GSTK543265,Railtel Corporation of India,RAILTEL,970441.0,"KPI Green Energy secured a ₹2,025 crore solar EPC order in Rajasthan from NACOF Oorja. Meanwhile, Tata Steel received a favourable ITAT order for FY 2009, reducing its tax exposure by ₹427 crore to ₹1,259 crore.
-NLC India approved a 50:50 JV with NALCO for a 1,080 MW captive thermal plant. Additionally, STL Networks emerged as L1 for RailTel's ₹249.8 crore contract, and Arisinfra Solutions bagged a DaaS order in Mumbai.","KPI Green Energy secured a ₹2,025 crore solar EPC order in Rajasthan from NACOF Oorja. Meanwhile, Tata Steel received a favourable ITAT order for FY 2009, reducing its tax exposure by ₹427 crore to ₹1,259 crore.
-NLC India approved a 50:50 JV with NALCO for a 1,080 MW captive thermal plant. Additionally, STL Networks emerged as L1 for RailTel's ₹249.8 crore contract, and Arisinfra Solutions bagged a DaaS order in Mumbai.",CNBC TV 18,2026-09-29T19:13:27,https://www.cnbctv18.com/photos/market/stocks-to-watch-for-september-30-tata-steel-kpi-green-energy-arisinfra-solutions-and-more-20001060.htm
 GSTK500039,Banco Products (India),BANCOINDIA,3667168.0,"Banco Products (India) board will meet on November 6, 2026, to approve Q2 standalone and consolidated financial results.
 The trading window for insiders remains closed and will reopen 48 hours after the financial results are declared.","Banco Products (India) board will meet on November 6, 2026, to approve Q2 standalone and consolidated financial results.
 The trading window for insiders remains closed and will reopen 48 hours after the financial results are declared.",BSE,2026-10-16T15:43:18,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ab20e47b-b3ef-4832-8d6d-2092ed3771f5.pdf
@@ -17175,6 +17181,9 @@ Gold and silver prices eased; mixed moves seen in jewellery stocks like Kalyan J
 GSTK534809,PC Jeweller,PCJEWELLER,1041460621.0,"PC Jeweller shares surged 6.96% to ₹13.68 on BSE, market cap ₹13,325.8 cr.
 The stock has rallied 75% over the last six months, reflecting strong momentum.","PC Jeweller shares surged 6.96% to ₹13.68 on BSE, market cap ₹13,325.8 cr.
 The stock has rallied 75% over the last six months, reflecting strong momentum.",livemint.com,2026-09-23T09:23:00,https://www.livemint.com/market/stock-market-news/75-rally-in-6-months-pc-jeweller-share-price-zooms-over-6-heres-why-11790068413091.html
+GSTK500043,Bata India,BATAINDIA,3712972.0,"Bata India's Board will meet on November 3, 2026, to consider quarterly and half-year financial results.
+The board will approve unaudited standalone and consolidated results for the period ended September 30, 2026.","Bata India's Board will meet on November 3, 2026, to consider quarterly and half-year financial results.
+The board will approve unaudited standalone and consolidated results for the period ended September 30, 2026.",BSE,2026-10-20T15:38:53,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=9e65fc46-018d-40ba-b22f-8af2bc020a2a.pdf
 GSTK500043,Bata India,BATAINDIA,973919.0,"Bata India announced that Gunjan Shah has completed his five-year tenure and ceased to be Managing Director, CEO, and Director of the company, effective September 30, 2026.
 Sanjay S. Rao has been appointed as the new Managing Director and CEO, effective October 1, 2026, through August 23, 2031, subject to necessary approvals.","Bata India announced that Gunjan Shah has completed his five-year tenure and ceased to be Managing Director, CEO, and Director of the company, effective September 30, 2026.
 Sanjay S. Rao has been appointed as the new Managing Director and CEO, effective October 1, 2026, through August 23, 2031, subject to necessary approvals.",BSE,2026-09-30T18:39:36,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ef416db0-d120-4dc8-8004-2f71851f54f2.pdf
@@ -17198,9 +17207,6 @@ GSTK500043,Bata India,BATAINDIA,860771.0,"Bata reports Q1 consolidated PAT growt
 Revenue for Bata in Q1 rises by 3.9% YoY.","Bata reports Q1 consolidated PAT growth of 23.1% YoY.
 Revenue for Bata in Q1 rises by 3.9% YoY.",ET NOW,2026-08-11T21:45:08,https://x.com/ETNOWlive/status/2087211221133279721
 GSTK500043,Bata India,BATAINDIA,860571.0,Bata India reports consolidated profit rise from ₹51.7 Cr to ₹63.7 Cr YoY.,Bata India reports consolidated profit rise from ₹51.7 Cr to ₹63.7 Cr YoY.,Zee Business,2026-08-11T20:44:48,https://x.com/ZeeBusiness/status/2087196038985822600
-GSTK500043,Bata India,BATAINDIA,860523.0,"BATA India Q1 standalone net profit rises to ₹638M, up 23% YoY.
-Previous year's Q1 standalone net profit stood at ₹517M.","BATA India Q1 standalone net profit rises to ₹638M, up 23% YoY.
-Previous year's Q1 standalone net profit stood at ₹517M.",Livesquawk,2026-08-11T20:44:43,
 GSTK532928,Transformers & Rectifiers (India),TARIL,3689287.0,"Transformers and Rectifiers (India) plans a UK manufacturing base to tap European utility and grid demand.
 Sustained order flows remain a prerequisite for the company before committing to local production.","Transformers and Rectifiers (India) plans a UK manufacturing base to tap European utility and grid demand.
 Sustained order flows remain a prerequisite for the company before committing to local production.",The Hindu Business Line,2026-10-18T18:17:01,https://www.thehindubusinessline.com/companies/gujarat-based-transformers-and-rectifiers-weighs-setting-up-of-a-transformer-factory-in-uk/article71599657.ece?utm_campaign=mrf-twitter-businessline&utm_source=twitter&utm_medium=social&mrfcid=202610186ad4b4448016142dfa4262c3
@@ -17595,6 +17601,9 @@ The campaign integrates nature, tech, and biophilic design, emphasizing communit
 GSTK532832,Embassy Developments,EMBDL,941223.0,"Embassy Developments Ltd plans board meeting on Sep 19, 2026, to consider NCD issuance.
 The company aims to raise funds via NCDs, subject to regulatory approvals.","Embassy Developments Ltd plans board meeting on Sep 19, 2026, to consider NCD issuance.
 The company aims to raise funds via NCDs, subject to regulatory approvals.",BSE,2026-09-16T19:05:29,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=bd639b17-df06-4758-b780-e51bf9571862.pdf
+GSTK544367,Quality Power Electrical Equipments,QPOWER,3712807.0,"Quality Power started manufacturing at its new Global Coil Factory in Sangli, Maharashtra, effective 20 October 2026.
+The plant will manufacture high-voltage reactors and specialised coil products for HVAC, HVDC, FACTS, and renewable energy.","Quality Power started manufacturing at its new Global Coil Factory in Sangli, Maharashtra, effective 20 October 2026.
+The plant will manufacture high-voltage reactors and specialised coil products for HVAC, HVDC, FACTS, and renewable energy.",ScoutQuest,2026-10-20T15:04:20,https://sqst.in/xHyu5
 GSTK544367,Quality Power Electrical Equipments,QPOWER,3704524.0,"Quality Power held an EGM approving a proposed ₹700 crore QIP and a preferential share issue.
 Management also proposed an unsecured promoter bridge loan of up to ₹175 crore at 9% per annum.","Quality Power held an EGM approving a proposed ₹700 crore QIP and a preferential share issue.
 Management also proposed an unsecured promoter bridge loan of up to ₹175 crore at 9% per annum.",ScoutQuest,2026-10-19T19:46:51,https://sqst.in/jDu74
@@ -17620,9 +17629,6 @@ Record date set for 22nd Sep 2026; dividend payment by 28th Oct 2026 upon shareh
 GSTK544367,Quality Power Electrical Equipments,QPOWER,910987.0,"Quality Power's board deferred the preferential issue proposal citing further evaluation needs.
 Reappointments of key directors, including Thalavaidurai Pandyan, were recommended for shareholder approval.","Quality Power's board deferred the preferential issue proposal citing further evaluation needs.
 Reappointments of key directors, including Thalavaidurai Pandyan, were recommended for shareholder approval.",BSE,2026-09-02T18:45:09,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=657a671d-8658-461e-9e6c-1ae4dca6bc63.pdf
-GSTK544367,Quality Power Electrical Equipments,QPOWER,895147.0,"Quality Power Electrical Equipments Ltd to attend Ashwamedh – Elara India Dialogue 2026 on 3rd Sep in Mumbai.
-The event includes group and one-on-one investor meetings; no price-sensitive info to be disclosed.","Quality Power Electrical Equipments Ltd to attend Ashwamedh – Elara India Dialogue 2026 on 3rd Sep in Mumbai.
-The event includes group and one-on-one investor meetings; no price-sensitive info to be disclosed.",BSE,2026-08-26T18:26:06,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ec440941-241d-4c2d-b98d-1bce2dd68528.pdf
 GSTK540293,Pricol,PRICOLLTD,3464298.0,"CRISIL has maintained its credit rating for Pricol Limited's INR 145 Crore fund-based facilities at 'CRISIL AA-'.
 The rating continues on 'Rating Watch with Developing Implications', unchanged from its previous rating status.","CRISIL has maintained its credit rating for Pricol Limited's INR 145 Crore fund-based facilities at 'CRISIL AA-'.
 The rating continues on 'Rating Watch with Developing Implications', unchanged from its previous rating status.",BSE,2026-10-02T11:10:19,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=15b749ef-a5dd-4c4c-baf3-3e728b03a265.pdf
@@ -17681,6 +17687,9 @@ Promoters Agilemed Investments and Lone Furrow pledged shares to restore securit
 GSTK543427,Medplus Health Services,MEDPLUS,879820.0,"MedPlus Health Services held its 20th AGM on Aug 17, 2026, via VC/OAVM, chaired by CEO Gangadi Madhukar Reddy.
 AGM discussed financial statements, director appointments, and voting results; resolutions were passed via e-voting and Insta Poll.","MedPlus Health Services held its 20th AGM on Aug 17, 2026, via VC/OAVM, chaired by CEO Gangadi Madhukar Reddy.
 AGM discussed financial statements, director appointments, and voting results; resolutions were passed via e-voting and Insta Poll.",BSE,2026-08-17T19:18:22,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=db815c1c-d4b0-424a-858f-e1e0a9383a56.pdf
+GSTK532400,Birlasoft,BSOFT,3713899.0,"Birlasoft's board will meet on October 28, 2026, to consider Q2 results and declare an interim dividend.
+The company has fixed November 5, 2026, as the record date for the payment of the interim dividend.","Birlasoft's board will meet on October 28, 2026, to consider Q2 results and declare an interim dividend.
+The company has fixed November 5, 2026, as the record date for the payment of the interim dividend.",BSE,2026-10-20T16:55:03,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2d3bdcbe-7a3b-4f5d-af54-94ed8f7c5aec.pdf
 GSTK532400,Birlasoft,BSOFT,3655876.0,"Birlasoft was named an OpenAI Select Partner to build, sell, and deliver enterprise AI solutions across industries.
 Despite the partnership, Birlasoft shares fell 2.3% to ₹271.9, declining over 37% year-to-date.","Birlasoft was named an OpenAI Select Partner to build, sell, and deliver enterprise AI solutions across industries.
 Despite the partnership, Birlasoft shares fell 2.3% to ₹271.9, declining over 37% year-to-date.",The Hindu Business Line,2026-10-16T03:40:46,https://www.thehindubusinessline.com/markets/stock-markets/birlasoft-named-select-partner-in-openai-partner-network/article71559190.ece
@@ -17708,9 +17717,6 @@ NSE feed issues caused delays in stock price updates; resolution underway.",equi
 GSTK532400,Birlasoft,BSOFT,816838.0,"IDBI Capital downgrades Birlasoft's rating from 'Buy' to 'Hold' post Q1 results.
 Downgrade attributed to limited revenue visibility and growth challenges for Birlasoft.","IDBI Capital downgrades Birlasoft's rating from 'Buy' to 'Hold' post Q1 results.
 Downgrade attributed to limited revenue visibility and growth challenges for Birlasoft.",NDTV Profit,2026-07-29T10:44:10,https://www.ndtvprofit.com/markets/birlasoft-still-finding-its-footing-says-idbi-capital-downgrades-rating-after-q1-results-check-revised-target-price-11836277#publisher=newsstand
-GSTK532400,Birlasoft,BSOFT,8.699012294036145e+17,"Birlasoft Q1 profit rose 51.2% to ₹160.9 crore; revenue up 7.4% to ₹1,379 crore.
-EBITDA grew 40.4% to ₹222.6 crore; margins improved to 16.1% from 12.3% YoY.","Birlasoft Q1 profit rose 51.2% to ₹160.9 crore; revenue up 7.4% to ₹1,379 crore.
-EBITDA grew 40.4% to ₹222.6 crore; margins improved to 16.1% from 12.3% YoY.",ScoutQuest,2026-07-28T16:46:55,https://sqst.in/shareMessage?msgId=869901229403614401
 GSTK532915,Religare Enterprises,RELIGARE,3575872.0,"Religare witnessed a BSE block trade worth Rs 51.9 crores involving around 2,400,523 shares.
 The block trade was executed at a price of Rs 215.9 per share.","Religare witnessed a BSE block trade worth Rs 51.9 crores involving around 2,400,523 shares.
 The block trade was executed at a price of Rs 215.9 per share.",Livesquawk,2026-10-12T09:56:10,
@@ -17935,6 +17941,9 @@ Key resolutions included ESOP-2026 approval, dividend declaration, director reap
 GSTK539302,Power Mech Projects,POWERMECH,26091732542942.0,"Power Mech Projects appoints Vasundhara Sinha as Independent Director.
 Appointment confirmed at AGM held on September 17, 2026.","Power Mech Projects appoints Vasundhara Sinha as Independent Director.
 Appointment confirmed at AGM held on September 17, 2026.",MarketScreener,2026-09-17T12:00:00,https://www.marketscreener.com/news/power-mech-projects-limited-appoints-vasundhara-sinha-as-an-independent-director-ce785bd3df8df423
+GSTK506655,Sudarshan Chemical Industries,SUDARSCHEM,3715603.0,"Ind-Ra revised Sudarshan Chemical's outlook to Positive from Stable, affirming its IND AA and IND A1+ ratings.
+The Heubach acquisition and deleveraging support the outlook, while input cost volatility remains a key concern.","Ind-Ra revised Sudarshan Chemical's outlook to Positive from Stable, affirming its IND AA and IND A1+ ratings.
+The Heubach acquisition and deleveraging support the outlook, while input cost volatility remains a key concern.",ScoutQuest,2026-10-20T18:36:03,https://sqst.in/ly3As
 GSTK506655,Sudarshan Chemical Industries,SUDARSCHEM,3530074.0,"Sudarshan Chemical stock fell following reports of a GST search conducted at the company's offices.
 Analyst Nimesh noted large domestic mutual funds have been looking to accumulate the stock at current levels.","Sudarshan Chemical stock fell following reports of a GST search conducted at the company's offices.
 Analyst Nimesh noted large domestic mutual funds have been looking to accumulate the stock at current levels.",ScoutQuest,2026-10-08T15:04:36,https://sqst.in/uBgoj
@@ -17960,9 +17969,6 @@ Rating outlook for Sudarshan Chemical remains stable; detailed rationale on Cris
 GSTK506655,Sudarshan Chemical Industries,SUDARSCHEM,933413.0,"Sudarshan Chemical received 'Crisil ESG 53' and 'Core ESG 55' ratings.
 Ratings were independently assigned based on FY 2025-26 public disclosures.","Sudarshan Chemical received 'Crisil ESG 53' and 'Core ESG 55' ratings.
 Ratings were independently assigned based on FY 2025-26 public disclosures.",BSE,2026-09-11T11:38:43,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a92b3512-2ee4-40ba-bff6-f235c6dd2e6d.pdf
-GSTK506655,Sudarshan Chemical Industries,SUDARSCHEM,8.830432590483676e+17,"Sudarshan Chemical corrected a typo on VP4 Frankfurt sale; deal worth EUR 76.5 Mn.
-Proceeds to prepay acquisition loan, boosting balance sheet in 2-3 months.","Sudarshan Chemical corrected a typo on VP4 Frankfurt sale; deal worth EUR 76.5 Mn.
-Proceeds to prepay acquisition loan, boosting balance sheet in 2-3 months.",ScoutQuest,2026-09-02T23:08:39,https://sqst.in/oz4In
 GSTK530813,KRBL,KRBL,952859.0,KRBL to meet analysts and investors on September 25.,KRBL to meet analysts and investors on September 25.,Livesquawk,2026-09-22T19:11:23,
 GSTK530813,KRBL,KRBL,26091429481612.0,"KRBL Limited (NSE:KRBL) will go ex-dividend in three days.
 Ex-dividend date is typically two business days before the record date.","KRBL Limited (NSE:KRBL) will go ex-dividend in three days.
@@ -21696,6 +21702,9 @@ Order involves supplying solar PV modules, to be completed by March 2027.",Scout
 GSTK544526,Saatvik Green Energy,SAATVIKGL,904880.0,"Saatvik Solar Industries, a subsidiary of Saatvik Green Energy Ltd, seeks ALMM List-II enlistment for its 2.4 GW Odisha solar cell facility.
 The facility focuses on advanced N-TOPCon G12R solar cell tech under DCR, boosting India's domestic solar manufacturing capabilities.","Saatvik Solar Industries, a subsidiary of Saatvik Green Energy Ltd, seeks ALMM List-II enlistment for its 2.4 GW Odisha solar cell facility.
 The facility focuses on advanced N-TOPCon G12R solar cell tech under DCR, boosting India's domestic solar manufacturing capabilities.",BSE,2026-09-01T15:02:54,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=16326975-9893-4232-9f20-c11f3ed53505.pdf
+GSTK544119,Rashi Peripherals,RPTECH,3715354.0,"NSE rejected Rashi Peripherals' waiver request for fines regarding non-compliance with Regulation 17(1A) of Listing Regulations.
+The company has been directed to pay a fine of Rs 1,42,000 plus GST, totaling Rs 1,67,560.","NSE rejected Rashi Peripherals' waiver request for fines regarding non-compliance with Regulation 17(1A) of Listing Regulations.
+The company has been directed to pay a fine of Rs 1,42,000 plus GST, totaling Rs 1,67,560.",BSE,2026-10-20T18:20:47,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c22375ff-ba60-451e-a267-64974e9f54a9.pdf
 GSTK544119,Rashi Peripherals,RPTECH,3548815.0,"Rashi Peripherals and Restar Corporation discussed the strategic rationale behind their semiconductor joint venture.
 The joint venture commenced operations in October 2026 to accelerate India's semiconductor push.","Rashi Peripherals and Restar Corporation discussed the strategic rationale behind their semiconductor joint venture.
 The joint venture commenced operations in October 2026 to accelerate India's semiconductor push.",ET NOW,2026-10-09T13:59:21,https://x.com/ETNOWlive/status/2108474886733574630
@@ -21723,9 +21732,6 @@ Growth fueled by VDA Infosolutions acquisition and WEKA partnership, says CEO.",
 GSTK544119,Rashi Peripherals,RPTECH,8.724859079307616e+17,"Rashi Peripherals forms JV with Japan's Restar Corp, transferring semiconductor division to new subsidiary.
 Restar to acquire 26% stake; JV to focus on industrial, automotive semiconductor solutions by Oct 2026.","Rashi Peripherals forms JV with Japan's Restar Corp, transferring semiconductor division to new subsidiary.
 Restar to acquire 26% stake; JV to focus on industrial, automotive semiconductor solutions by Oct 2026.",ScoutQuest,2026-08-04T19:57:30,https://sqst.in/pq5Vg
-GSTK544119,Rashi Peripherals,RPTECH,8.724719450843562e+17,"Rashi Peripherals reports Q1 FY27 revenue of 48,322M and PAT of 971.5M.
-Board approves embedded business JV with Restar Corp and raises semiconductor subsidiary investment to 150Cr.","Rashi Peripherals reports Q1 FY27 revenue of 48,322M and PAT of 971.5M.
-Board approves embedded business JV with Restar Corp and raises semiconductor subsidiary investment to 150Cr.",ScoutQuest,2026-08-04T19:02:01,https://sqst.in/CMIGA
 GSTK532811,Ahluwalia Contracts (India),AHLUCONT,3617668.0,"Ahluwalia Contracts has secured a new order valued at ₹310 crore.
 The new order win signals fresh project inflows for the company.","Ahluwalia Contracts has secured a new order valued at ₹310 crore.
 The new order win signals fresh project inflows for the company.",Livesquawk,2026-10-14T11:53:17,
@@ -21971,6 +21977,9 @@ GSTK505726,IFB Industries,IFBIND,8.542296417955466e+17,"IFB Industries Q4 revenu
 YTD revenue up 10% at ₹5,476 cr; capex focuses on washing machines, ACs at 3.5% market share.","IFB Industries Q4 revenue grew 11% YoY to ₹1,456 cr; PAT rose to ₹33.7 cr.
 YTD revenue up 10% at ₹5,476 cr; capex focuses on washing machines, ACs at 3.5% market share.",ScoutQuest,2026-06-15T10:53:37,https://sqst.in/B6q9F
 GSTK505726,IFB Industries,IFBIND,680938.0,IFB Industries' Q4 net profit more than doubles YoY; EBITDA rises 28.5%.,IFB Industries' Q4 net profit more than doubles YoY; EBITDA rises 28.5%.,ET NOW,2026-05-25T19:56:08,https://x.com/ETNOWlive/status/2058917537988108597
+GSTK543933,Cyient DLM,CYIENTDLM,3713617.0,"JPMorgan rates Dixon Technologies and Amber Enterprises Overweight with targets of Rs 16,200 and Rs 8,350, favoring high ROCE and growth.
+The brokerage is Underweight on Syrma, Avalon, and Cyient DLM, urging investors to evaluate ROCE alongside earnings growth.","JPMorgan rates Dixon Technologies and Amber Enterprises Overweight with targets of Rs 16,200 and Rs 8,350, favoring high ROCE and growth.
+The brokerage is Underweight on Syrma, Avalon, and Cyient DLM, urging investors to evaluate ROCE alongside earnings growth.",NDTV Profit,2026-10-20T13:44:42,https://www.ndtvprofit.com/markets/cyient-dlm-amber-dixon-technologies-jpmorgans-top-ems-picks-amid-growth-value-debate-12209961#publisher=newsstand
 GSTK543933,Cyient DLM,CYIENTDLM,3700162.0,"Cyient DLM plunged nearly 29% to Rs 743 over two sessions due to margin contraction, despite a record order book.
 Investors were spooked by rising growth costs, rich valuations after a 300% rally, and supply chain delivery delays.","Cyient DLM plunged nearly 29% to Rs 743 over two sessions due to margin contraction, despite a record order book.
 Investors were spooked by rising growth costs, rich valuations after a 300% rally, and supply chain delivery delays.",NDTV Profit,2026-10-19T15:41:25,https://www.ndtvprofit.com/markets/cyient-dlms-record-order-book-cant-stop-a-29-crash-heres-why-12205985#publisher=newsstand
@@ -21996,9 +22005,6 @@ Senior management will discuss the unaudited financial results for the quarter e
 GSTK543933,Cyient DLM,CYIENTDLM,3484334.0,"Cyient DLM Limited announced that a meeting of its Board of Directors is scheduled to be held on Thursday, 15 October 2026.
 The Board will meet, inter alia, to consider and approve the un-audited financial results for the quarter ended 30 September 2026.","Cyient DLM Limited announced that a meeting of its Board of Directors is scheduled to be held on Thursday, 15 October 2026.
 The Board will meet, inter alia, to consider and approve the un-audited financial results for the quarter ended 30 September 2026.",BSE,2026-10-05T13:26:52,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=49d063e2-9acd-4390-bdc3-97773a92cb28.pdf
-GSTK543933,Cyient DLM,CYIENTDLM,26092941118683.0,"JPMorgan has downgraded Syrma SGS Technology, Avalon Technologies, and Cyient DLM despite 47% EPS growth, arguing that strong earnings growth alone may not justify the premium valuations of the three EMS companies.
-The brokerage's comparison places revenue growth, earnings growth, return on capital employed (ROCE), and working capital at the centre of the valuation debate.","JPMorgan has downgraded Syrma SGS Technology, Avalon Technologies, and Cyient DLM despite 47% EPS growth, arguing that strong earnings growth alone may not justify the premium valuations of the three EMS companies.
-The brokerage's comparison places revenue growth, earnings growth, return on capital employed (ROCE), and working capital at the centre of the valuation debate.",Financial Express,2026-09-29T10:11:00,https://www.financialexpress.com/market/syrma-cyient-avalon-jpmorgan-downgrades-all-3-despite-47-eps-growthheres-why-4349412/
 GSTK543258,Indigo Paints,INDIGOPNTS,3670306.0,"Indigo Paints scheduled a Board meeting on October 30, 2026, to consider Q2 and H1 financial results.
 The meeting will consider and approve unaudited standalone and consolidated results for the period ended September 30, 2026.","Indigo Paints scheduled a Board meeting on October 30, 2026, to consider Q2 and H1 financial results.
 The meeting will consider and approve unaudited standalone and consolidated results for the period ended September 30, 2026.",BSE,2026-10-16T18:31:29,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=0f958a9d-998b-4e96-a9c4-0657240189d9.pdf
@@ -26534,6 +26540,9 @@ Tender offer closed with AGPH acquiring 18.1% stake, totaling 162.81M shares ten
 GSTK524051,Polyplex Corporation,POLYPLEX,827405.0,"Polyplex Corp's board meeting on Aug 11, 2026, to review Q1 FY26 unaudited financial results.
 Notice uploaded on Polyplex's website; NSE symbol POLYPLEX, BSE code 524051.","Polyplex Corp's board meeting on Aug 11, 2026, to review Q1 FY26 unaudited financial results.
 Notice uploaded on Polyplex's website; NSE symbol POLYPLEX, BSE code 524051.",BSE,2026-08-01T13:51:46,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a10b9734-01ef-4be7-b57d-ff03d6e6bb13.pdf
+GSTK505710,Grauer & Weil (India),GRAUWEIL,3712846.0,"Grauer & Weil signed an MOU with RENA Technologies GmbH to form a JV supporting the solar manufacturing value chain.
+Both partners will hold equal management rights, with RENA licensing its IP to the proposed JV entity.","Grauer & Weil signed an MOU with RENA Technologies GmbH to form a JV supporting the solar manufacturing value chain.
+Both partners will hold equal management rights, with RENA licensing its IP to the proposed JV entity.",BSE,2026-10-20T15:15:37,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=314d2b98-3053-40b2-ba06-d6e61274f7a3.pdf
 GSTK505710,Grauer & Weil (India),GRAUWEIL,945062.0,"Grauer & Weil India Ltd conducted its 68th AGM on 17th Sept 2026 via video conferencing, chaired by Umeshkumar More.
 Key resolutions included dividend declaration, director reappointments, and remuneration revisions; voting results to be posted online.","Grauer & Weil India Ltd conducted its 68th AGM on 17th Sept 2026 via video conferencing, chaired by Umeshkumar More.
 Key resolutions included dividend declaration, director reappointments, and remuneration revisions; voting results to be posted online.",BSE,2026-09-18T03:11:38,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=36a9a43f-8747-4c52-8f93-2b85e583494c.pdf
@@ -26591,6 +26600,9 @@ Company is debt-free with INR 4037M cash and preferred bidder for 2 mining lease
 GSTK500292,Heidelberg Cement India,HEIDELBERG,26052611025255.0,"HeidelbergCement India posted a 189.9% QoQ profit surge in Q4 FY26 to ₹45.2 crore.
 Stock traded at ₹161.95 on May 25, 2026, gaining 1.9% post-results disclosure.","HeidelbergCement India posted a 189.9% QoQ profit surge in Q4 FY26 to ₹45.2 crore.
 Stock traded at ₹161.95 on May 25, 2026, gaining 1.9% post-results disclosure.",Marketsmojo,2026-05-25T19:45:57,https://www.marketsmojo.com/news/result-analysis/heidelbergcement-india-q4-fy26-strong-quarter-masks-structural-challenges-4012152
+GSTK543528,Venus Pipes & Tubes,VENUSPIPES,3715606.0,"Venus Pipes & Tubes received a ₹185 crore LOI from a data centre client.
+Pipe spooling began earlier than planned, enabling quicker order completion and shipment.","Venus Pipes & Tubes received a ₹185 crore LOI from a data centre client.
+Pipe spooling began earlier than planned, enabling quicker order completion and shipment.",Livesquawk,2026-10-20T18:35:56,
 GSTK543528,Venus Pipes & Tubes,VENUSPIPES,3712102.0,"Venus Pipes & Tubes commenced commercial production of pipe spooling manufacturing on October 20, 2026.
 The SEBI LODR Regulation 30 disclosure did not share any financial or capacity figures.","Venus Pipes & Tubes commenced commercial production of pipe spooling manufacturing on October 20, 2026.
 The SEBI LODR Regulation 30 disclosure did not share any financial or capacity figures.",ScoutQuest,2026-10-20T13:58:03,https://sqst.in/z6BCk
@@ -26616,9 +26628,6 @@ EGM on 8 Oct 2026; public shareholding to increase to 56.29% post-issue.",ScoutQ
 GSTK543528,Venus Pipes & Tubes,VENUSPIPES,8.866187228895913e+17,"Venus Pipes reappoints seven directors at AGM for 5-year terms.
 Terms effective Sept/Oct 2026-2031; directors cleared by SEBI.","Venus Pipes reappoints seven directors at AGM for 5-year terms.
 Terms effective Sept/Oct 2026-2031; directors cleared by SEBI.",ScoutQuest,2026-09-12T19:56:16,https://sqst.in/0dvkW
-GSTK543528,Venus Pipes & Tubes,VENUSPIPES,26091228954761.0,"Venus Pipes approves INR 0.50/share final dividend for FY 2025-26.
-Dividend approved at AGM on Sept 10, 2026 for fully paid shares.","Venus Pipes approves INR 0.50/share final dividend for FY 2025-26.
-Dividend approved at AGM on Sept 10, 2026 for fully paid shares.",MarketScreener,2026-09-12T12:00:00,https://www.marketscreener.com/news/venus-pipes-and-tubes-limited-approves-final-dividend-for-the-financial-year-2025-26-ended-march-31-ce785bdcd989f72d
 GSTK532960,Dhani Services,,,,,,,
 GSTK590073,Wheels India,WHEELS,1433463634.0,"Wheels India's QIP opens; floor price set at ₹2,197.10/share.
 Possible discount of up to 5% on the floor price announced.","Wheels India's QIP opens; floor price set at ₹2,197.10/share.
@@ -31317,6 +31326,9 @@ GSTK544020,ESAF Small Finance Bank,ESAFSFB,8.775211699262787e+17,"Brickwork upgr
 Factors include declining GNPA ratios, reduced net loss, better capital adequacy, and strategic shifts.","Brickwork upgraded ESAF Bank's Tier II Bonds to BWR A-/Stable citing improved asset quality.
 Factors include declining GNPA ratios, reduced net loss, better capital adequacy, and strategic shifts.",ScoutQuest,2026-08-18T17:25:50,https://sqst.in/shareMessage?msgId=877521169926278612
 GSTK544020,ESAF Small Finance Bank,ESAFSFB,8.734258003345527e+17,"ESAF Small Finance Bank Ltd held its earnings call on August 3, 2026.","ESAF Small Finance Bank Ltd held its earnings call on August 3, 2026.",ScoutQuest,2026-08-07T10:12:18,https://sqst.in/CohGK
+GSTK538920,Vintage Coffee and Beverages,VINCOFE,3714622.0,"Vintage Coffee approved raising funds up to Rs 325 crore through equity shares, QIP, or other eligible securities.
+The board approved enhancing its borrowing, mortgage, and investment limits from Rs 500 crore to Rs 1,000 crore each.","Vintage Coffee approved raising funds up to Rs 325 crore through equity shares, QIP, or other eligible securities.
+The board approved enhancing its borrowing, mortgage, and investment limits from Rs 500 crore to Rs 1,000 crore each.",BSE,2026-10-20T17:49:53,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2c5aadf8-38d0-4448-b8f6-4b899a704b10.pdf
 GSTK538920,Vintage Coffee and Beverages,VINCOFE,3553822.0,"Promoters of Vintage Coffee and Beverages released pledged equity shares previously held with Punjab National Bank.
 Encumbered holdings of promoters, including Balakrishna Tati, Vishal Jethalia, and Chin Corp, stand reduced to nil.","Promoters of Vintage Coffee and Beverages released pledged equity shares previously held with Punjab National Bank.
 Encumbered holdings of promoters, including Balakrishna Tati, Vishal Jethalia, and Chin Corp, stand reduced to nil.",BSE,2026-10-09T17:42:58,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=DA4D4AC8_5C5A_43C2_A2BE_2DFDAE88F7E6_174154.pdf
@@ -31344,9 +31356,6 @@ Voting showed 99.98% approval; 50 members attended via VC; e-voting facility pro
 GSTK538920,Vintage Coffee and Beverages,VINCOFE,8.747201533757946e+17,"Vintage Coffee's Q1 FY27 revenue rose 58.4% YoY to ₹161 crore.
 EBITDA surged 75.2% to ₹31.6 crore; PAT up 46.1% at ₹20.8 crore.","Vintage Coffee's Q1 FY27 revenue rose 58.4% YoY to ₹161 crore.
 EBITDA surged 75.2% to ₹31.6 crore; PAT up 46.1% at ₹20.8 crore.",ScoutQuest,2026-08-10T23:55:36,https://sqst.in/RORiy
-GSTK538920,Vintage Coffee and Beverages,VINCOFE,8.724476181211556e+17,"NCLT approved Vintage Coffee's merger with two subsidiaries on July 21, 2026.
-Certified order for merger involving Delecto Foods received on Aug 4, 2026.","NCLT approved Vintage Coffee's merger with two subsidiaries on July 21, 2026.
-Certified order for merger involving Delecto Foods received on Aug 4, 2026.",ScoutQuest,2026-08-04T17:25:21,https://sqst.in/XDs9K
 GSTK532370,Ramco Systems,RAMCOSYS,3601951.0,"Ramco Systems received Frost & Sullivan’s 2026 Global Technology Innovation Leadership Recognition in Enterprise Software Solutions for Aerospace.
 Ramco's aviation platform currently manages over 4,000 aircraft globally across more than 90 aviation organizations.","Ramco Systems received Frost & Sullivan’s 2026 Global Technology Innovation Leadership Recognition in Enterprise Software Solutions for Aerospace.
 Ramco's aviation platform currently manages over 4,000 aircraft globally across more than 90 aviation organizations.",BSE,2026-10-13T15:51:31,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=cb56bc32-358a-4712-aea4-01fd7aeb9ecf.pdf
@@ -33035,6 +33044,9 @@ Regulation 32 compliance deemed non-applicable as no shares issued via public, r
 GSTK523862,Grand Oak Canyons Distillery,GRANDOAK,849622.0,"Grand Oak Canyons Distillery Ltd announces a board meeting on Aug 12, 2026, to approve Q1 FY27 unaudited financial results.
 Trading window closed from July 1, 2026, until 48 hours post-results declaration per SEBI regulations.","Grand Oak Canyons Distillery Ltd announces a board meeting on Aug 12, 2026, to approve Q1 FY27 unaudited financial results.
 Trading window closed from July 1, 2026, until 48 hours post-results declaration per SEBI regulations.",BSE,2026-08-07T20:59:52,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=1ceb8c39-98f4-47a1-9b15-4ed9afd77033.pdf
+GSTK516038,KS Smart Technologies,,3715753.0,"KS Smart Technologies' wholly owned subsidiary plans to incorporate a new step-down subsidiary in the United States.
+KS Smart Solutions will invest up to $510 in cash to acquire a 51% stake in the IT entity.","KS Smart Technologies' wholly owned subsidiary plans to incorporate a new step-down subsidiary in the United States.
+KS Smart Solutions will invest up to $510 in cash to acquire a 51% stake in the IT entity.",BSE,2026-10-20T19:16:18,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f8ea352d-8141-4ff1-ae11-f267e0103e04.pdf
 GSTK516038,KS Smart Technologies,,945650.0,"KS Smart Technologies' subsidiary secures ₹127.12 crore project from Punjab's School Education Dept.
 The project involves deployment of desktops, UPS systems, and IT infrastructure, completion by Jan 2027.","KS Smart Technologies' subsidiary secures ₹127.12 crore project from Punjab's School Education Dept.
 The project involves deployment of desktops, UPS systems, and IT infrastructure, completion by Jan 2027.",BSE,2026-09-18T11:49:12,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b9109551-a4a7-40ac-b4b2-1cdbd0c2644f.pdf
@@ -33491,6 +33503,7 @@ EBITDA margin fell to 11.5% on inflation; price hike benefit expected Q2 FY27.",
 GSTK544599,Studds Accessories,STUDDS,8.739522012316966e+17,"Studds Accessories approved EUR 1M investment in SMK Helmets Europe SRL.
 It also allocated USD 99,936 to Bikerz US Inc. for expansion in USA.","Studds Accessories approved EUR 1M investment in SMK Helmets Europe SRL.
 It also allocated USD 99,936 to Bikerz US Inc. for expansion in USA.",ScoutQuest,2026-08-08T21:04:02,https://sqst.in/shareMessage?msgId=873952201231696683
+GSTK524717,Titan Biotech,,3715705.0,"Titan Biotech has announced a 1:4 bonus share issue, with three days left for investors to qualify.","Titan Biotech has announced a 1:4 bonus share issue, with three days left for investors to qualify.",Zee Business,2026-10-20T18:37:47,https://x.com/ZeeBusiness/status/2112531223130374547
 GSTK524717,Titan Biotech,,3552199.0,"Titan Biotech fixed October 23, 2026, as the record date for its 1:4 bonus share issue.
 The deemed allotment date is October 26, 2026, with bonus shares available for trading on October 27, 2026.","Titan Biotech fixed October 23, 2026, as the record date for its 1:4 bonus share issue.
 The deemed allotment date is October 26, 2026, with bonus shares available for trading on October 27, 2026.",BSE,2026-10-09T16:47:49,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2206c9c4-a29e-4607-9154-298d7419f9c7.pdf
@@ -41596,6 +41609,9 @@ Asset quality improved with Gross NPA down 5% to 4.49%.",ScoutQuest,2026-08-13T1
 GSTK511676,GIC Housing Finance,GICHSGFIN,864231.0,"GIC Housing Finance's Q1 Stage 3 ratio increased to 4.49% from 3.96% Q/Q.
 The rise in Stage 3 ratio suggests a deterioration in asset quality.","GIC Housing Finance's Q1 Stage 3 ratio increased to 4.49% from 3.96% Q/Q.
 The rise in Stage 3 ratio suggests a deterioration in asset quality.",Livesquawk,2026-08-12T17:27:05,
+GSTK544456,RM Drip & Sprinklers Systems,RMDRIP,3712786.0,"ED froze trading accounts worth ₹200 crore investigating WhatsApp-driven stock manipulation in R M Drip and R&B Denims.
+Fraudulent WhatsApp groups promoted shares to retail buyers, enabling preferential allottees to offload holdings at inflated prices.","ED froze trading accounts worth ₹200 crore investigating WhatsApp-driven stock manipulation in R M Drip and R&B Denims.
+Fraudulent WhatsApp groups promoted shares to retail buyers, enabling preferential allottees to offload holdings at inflated prices.",CNBC TV 18,2026-10-20T13:34:12,https://www.cnbctv18.com/market/ed-freezes-trading-accounts-worth-rs-200-crore-in-whatsapp-driven-pump-and-dump-probe-20015513.htm
 GSTK544456,RM Drip & Sprinklers Systems,RMDRIP,3694066.0,"Enforcement Directorate conducted search operations at R M Drip and Sprinklers Systems' registered office and promoter's premises.
 The company reported no material impact on operations or financials, with violation details not yet informed.","Enforcement Directorate conducted search operations at R M Drip and Sprinklers Systems' registered office and promoter's premises.
 The company reported no material impact on operations or financials, with violation details not yet informed.",ScoutQuest,2026-10-19T10:25:47,https://sqst.in/5GZcK
@@ -48746,6 +48762,9 @@ Company achieved ₹503.2 cr revenue (+19%) and ₹26.8 cr PAT (+46%); migrated 
 GSTK544461,Euro Panel Products,EUROBOND,8.659174105748925e+17,"Euro Panel Products Ltd forms Eurobond Dimensions Pvt Ltd as a 70% owned subsidiary.
 The move aims to expand manufacturing in aluminium composite panels and metal products.","Euro Panel Products Ltd forms Eurobond Dimensions Pvt Ltd as a 70% owned subsidiary.
 The move aims to expand manufacturing in aluminium composite panels and metal products.",ScoutQuest,2026-07-17T16:56:38,https://sqst.in/shareMessage?msgId=865917410574892533
+GSTK511766,Muthoot Capital Services,MUTHOOTCAP,3714505.0,"Muthoot Capital Services announced record and due dates for interest payments and full redemption on listed NCDs.
+The schedule covers monthly interest payouts from November 2026 until final redemption on October 15, 2029.","Muthoot Capital Services announced record and due dates for interest payments and full redemption on listed NCDs.
+The schedule covers monthly interest payouts from November 2026 until final redemption on October 15, 2029.",BSE,2026-10-20T17:24:07,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=48a7d551-3618-4cce-be19-0bbd4e53de44.pdf
 GSTK511766,Muthoot Capital Services,MUTHOOTCAP,3627055.0,"Muthoot Capital Services announced the resignation of Chief Risk Officer Umadevi Pazhoor Unnikrishnan due to personal reasons.
 Her resignation is effective from the close of business hours on October 14, 2026.","Muthoot Capital Services announced the resignation of Chief Risk Officer Umadevi Pazhoor Unnikrishnan due to personal reasons.
 Her resignation is effective from the close of business hours on October 14, 2026.",BSE,2026-10-14T20:53:04,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a49149be-e7d8-4326-b2f2-5e62ae3c381a.pdf
@@ -48773,9 +48792,6 @@ The NCDs, with a 24-month tenure, will be listed on BSE and have a base issue si
 GSTK511766,Muthoot Capital Services,MUTHOOTCAP,940326.0,"Muthoot Capital confirms interest payment of ₹42.5L for debentures INE296G07150.
 Payment due 16.09.26, made early on 15.09.26; no delays or changes reported.","Muthoot Capital confirms interest payment of ₹42.5L for debentures INE296G07150.
 Payment due 16.09.26, made early on 15.09.26; no delays or changes reported.",BSE,2026-09-16T14:04:33,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=1491edd6-6a3a-46ee-92e3-ce98d31de026.pdf
-GSTK511766,Muthoot Capital Services,MUTHOOTCAP,8.858045247952995e+17,"Muthoot Capital to hold committee meeting on Sept 16, 2026, for NCD issuance.
-NCDs will be issued via private placement within approved limits.","Muthoot Capital to hold committee meeting on Sept 16, 2026, for NCD issuance.
-NCDs will be issued via private placement within approved limits.",ScoutQuest,2026-09-10T14:00:56,https://sqst.in/5A38u
 GSTK514316,Raghuvir Synthetics,,967104.0,"Raghuvir Synthetics Limited concluded its 44th AGM, where shareholders approved the audited financial statements for FY26 and passed a special resolution re-appointing Sunil Raghubirprasad Agarwal as Chairman and Managing Director.
 Members also approved the appointment of four Independent Directors and sanctioned material related-party transactions for FY27 with entities including Dreamsoft Bedsheets, HYS Industries, and Raghuvir Exim.","Raghuvir Synthetics Limited concluded its 44th AGM, where shareholders approved the audited financial statements for FY26 and passed a special resolution re-appointing Sunil Raghubirprasad Agarwal as Chairman and Managing Director.
 Members also approved the appointment of four Independent Directors and sanctioned material related-party transactions for FY27 with entities including Dreamsoft Bedsheets, HYS Industries, and Raghuvir Exim.",BSE,2026-09-28T19:22:29,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b1937c41-66d9-4c4c-b241-c3f4aadd1299.pdf
@@ -55766,6 +55782,9 @@ GSTK543614,Tips Films,TIPSFILMS,872586.0,"Tips Films Ltd approved Q1 FY26 unaudi
 CFO Haresh Sedhani resigned, effective Sep 22, 2026; Saurabh Rathi to replace him from Sep 23, 2026.","Tips Films Ltd approved Q1 FY26 unaudited financial results and CFO changes in a board meeting on Aug 14, 2026.
 CFO Haresh Sedhani resigned, effective Sep 22, 2026; Saurabh Rathi to replace him from Sep 23, 2026.",BSE,2026-08-14T12:59:23,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=17cac5f1-e593-494c-a8bb-eb5b656356ff.pdf
 GSTK543614,Tips Films,TIPSFILMS,7.829050443128099e+18,"NK Securities Research bought 31,090 shares of Tips Films at ₹414.65.","NK Securities Research bought 31,090 shares of Tips Films at ₹414.65.",NSE Bulk Trades,2026-07-24T21:00:14,https://www.nseindia.com/report-detail/display-bulk-and-block-deals
+GSTK540168,Supra Pacific Financial Services,,3713818.0,"Supra Pacific Financial Services will hold a board meeting on October 27, 2026, to approve Q2 unaudited financial results.
+The trading window for dealing in company securities remains closed from October 1, 2026, until 48 hours post results.","Supra Pacific Financial Services will hold a board meeting on October 27, 2026, to approve Q2 unaudited financial results.
+The trading window for dealing in company securities remains closed from October 1, 2026, until 48 hours post results.",BSE,2026-10-20T16:33:54,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=3c7cb64a-a891-43f6-ab99-9f8e77ba637f.pdf
 GSTK540168,Supra Pacific Financial Services,,3510060.0,"Supra Pacific Financial Services reported total loan principal outstanding of ₹418 crore as of September 30, 2026. Disbursements reached ₹305 crore in Q2 and ₹464 crore in H1, with collections at ₹232 crore and ₹382 crore, respectively.
 The company's Gross NPA stood at ₹5 crore as of September 30, 2026, while total borrowings reached ₹409 crore. Supra Pacific currently operates through 101 branches across six states.","Supra Pacific Financial Services reported total loan principal outstanding of ₹418 crore as of September 30, 2026. Disbursements reached ₹305 crore in Q2 and ₹464 crore in H1, with collections at ₹232 crore and ₹382 crore, respectively.
 The company's Gross NPA stood at ₹5 crore as of September 30, 2026, while total borrowings reached ₹409 crore. Supra Pacific currently operates through 101 branches across six states.",BSE,2026-10-07T12:51:39,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=56320048-b8ab-4b80-a2f3-8d61683c2fbd.pdf
@@ -55793,9 +55812,6 @@ Company operates 92 branches across 6 states; Gross NPA at ₹4.5 Cr, total borr
 GSTK540168,Supra Pacific Financial Services,,26062530659602.0,"Supra Pacific aims to open 500 branches across 15 states in 3 years.
 The company targets a ₹2,500 crore asset base, expanding in key Indian states.","Supra Pacific aims to open 500 branches across 15 states in 3 years.
 The company targets a ₹2,500 crore asset base, expanding in key Indian states.",The Hindu BusinessLine,2026-06-24T19:21:12,https://www.thehindubusinessline.com/money-and-banking/supra-pacific-financial-services-targets-500-branch-expansion-and-2500-crore-asset-base/article71141378.ece
-GSTK540168,Supra Pacific Financial Services,,8.502670085160762e+17,"Supra Pacific approves Rs. 5 Cr secured, unrated, unlisted NCDs issuance privately.
-50,000 NCDs have 2-year tenure, 11.6% monthly interest, principal repayable at maturity.","Supra Pacific approves Rs. 5 Cr secured, unrated, unlisted NCDs issuance privately.
-50,000 NCDs have 2-year tenure, 11.6% monthly interest, principal repayable at maturity.",ScoutQuest,2026-06-04T12:27:32,https://sqst.in/DFvKO
 GSTK506134,Gourmet Gateway India,,3460766.0,"Gourmet Gateway India Limited announced that shareholders approved all five resolutions with requisite majority at its 43rd Annual General Meeting held on September 30, 2026.
 The approved items include adoption of FY26 standalone and consolidated financial statements, re-appointment of director Anubhav Dham, regularization of independent director Vipul Gupta, and related party transactions for FY27.","Gourmet Gateway India Limited announced that shareholders approved all five resolutions with requisite majority at its 43rd Annual General Meeting held on September 30, 2026.
 The approved items include adoption of FY26 standalone and consolidated financial statements, re-appointment of director Anubhav Dham, regularization of independent director Vipul Gupta, and related party transactions for FY27.",BSE,2026-10-01T22:39:44,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=0bf370d5-7fa4-4b2e-8ebb-ae66807acd70.pdf
@@ -56150,6 +56166,9 @@ YoY losses narrowed by 86.1% from ₹11.2 cr in Q4 FY25 despite seasonal headwin
 GSTK508136,B&A,BNALTD,684776.0,"B & A Ltd's board approved audited standalone and consolidated financial results for Q4 and FY 2026, showing total income of ₹1,398.62 lakh and ₹4,592.98 lakh respectively.
 Mr. Dhruba Jyoti Dowerah has been reappointed as Whole-Time Director for three years starting August 2026, subject to shareholder approval.","B & A Ltd's board approved audited standalone and consolidated financial results for Q4 and FY 2026, showing total income of ₹1,398.62 lakh and ₹4,592.98 lakh respectively.
 Mr. Dhruba Jyoti Dowerah has been reappointed as Whole-Time Director for three years starting August 2026, subject to shareholder approval.",BSE,2026-05-26T18:58:15,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6fde0a9c-4414-40b1-8e2f-1bc70c8d9557.pdf
+GSTK544716,Shree Ram Twistex,SRTL,3714616.0,"Shree Ram Twistex reported a deviation in IPO proceeds, downsizing its wind power project from 4.2 MW to 3.1 MW.
+Surplus Rs 1,389 lakh was reallocated towards machinery expansion (Rs 525.8 lakh) and bank debt repayment (Rs 863.3 lakh).","Shree Ram Twistex reported a deviation in IPO proceeds, downsizing its wind power project from 4.2 MW to 3.1 MW.
+Surplus Rs 1,389 lakh was reallocated towards machinery expansion (Rs 525.8 lakh) and bank debt repayment (Rs 863.3 lakh).",BSE,2026-10-20T17:45:24,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=70927979-67d4-40ea-b0c2-90385b34431c.pdf
 GSTK544716,Shree Ram Twistex,SRTL,8.753284158538423e+17,"Shree Ram Twistex Ltd conducted its board meeting on August 12, 2026.","Shree Ram Twistex Ltd conducted its board meeting on August 12, 2026.",ScoutQuest,2026-08-12T16:12:37,https://sqst.in/jE4f7
 GSTK512608,Bhandari Hosiery Exports,BHANDARI,,,,,,
 GSTK500343,AMJ Land Holdings,AMJLAND,952324.0,"AMJ Land Holdings Ltd issued a Postal Ballot notice for member approval on modifying inter-corporate deposit arrangements.
@@ -59372,6 +59391,9 @@ Agenda includes Q1 financials, related party transactions, remuneration revision
 GSTK519471,Ambar Protein Industries,,748863.0,"Pradeep Kumar Chunilal Khetani acquired 9,738 equity shares (0.17%) of Ambar Protein Industries Ltd via open market on June 25, 2026.
 Post-acquisition, Khetani's holding increased to 737,651 shares (12.83%). The company's total equity remains at INR 5.75 crore.","Pradeep Kumar Chunilal Khetani acquired 9,738 equity shares (0.17%) of Ambar Protein Industries Ltd via open market on June 25, 2026.
 Post-acquisition, Khetani's holding increased to 737,651 shares (12.83%). The company's total equity remains at INR 5.75 crore.",BSE,2026-06-30T11:44:40,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=EEC729B8_1950_406E_939C_560C0B0EFC60_114435.pdf
+GSTK522165,Indsil Hydro Power and Manganese,,3713767.0,"Indsil Hydro Power's board will meet on November 4, 2026, to consider and approve Q2 and half-year financial results.
+The trading window for designated persons remains closed from October 1, 2026, until November 6, 2026.","Indsil Hydro Power's board will meet on November 4, 2026, to consider and approve Q2 and half-year financial results.
+The trading window for designated persons remains closed from October 1, 2026, until November 6, 2026.",BSE,2026-10-20T16:26:39,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=66e5ae04-5ba9-4f51-8eac-3ab8a771b8c6.pdf
 GSTK522165,Indsil Hydro Power and Manganese,,944457.0,"Indsil Hydro Power and Manganese Ltd held its 36th AGM on Sept 17, 2026, via video conferencing.
 Key resolutions included dividend declaration, director reappointments, and remuneration approvals.","Indsil Hydro Power and Manganese Ltd held its 36th AGM on Sept 17, 2026, via video conferencing.
 Key resolutions included dividend declaration, director reappointments, and remuneration approvals.",BSE,2026-09-17T18:03:00,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=42b6d2ed-2795-4853-919d-0f9fc0bd0ea5.pdf
@@ -60985,6 +61007,9 @@ Revenue rose to ₹367.9 lakh, EPS at ₹1.73; shares traded last at ₹132.65 o
 GSTK530341,Mukesh Babu Financial Services,,786757.0,"Mukesh Babu Financial Services announces its 41st AGM on Aug 12, 2026, at 4 PM via video conferencing.
 Remote e-voting is scheduled from Aug 8, 2026, 9 AM to Aug 11, 2026, 5 PM.","Mukesh Babu Financial Services announces its 41st AGM on Aug 12, 2026, at 4 PM via video conferencing.
 Remote e-voting is scheduled from Aug 8, 2026, 9 AM to Aug 11, 2026, 5 PM.",BSE,2026-07-16T14:43:28,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d7f16ff3-a090-441c-81f8-262f3316b87b.pdf
+GSTK531237,Dhruva Capital Services,,3712606.0,"Dhruva Capital Services approved raising up to Rs 160 crore through equity shares via Qualified Institutions Placement.
+The capital will be raised in one or more tranches, subject to necessary statutory approvals.","Dhruva Capital Services approved raising up to Rs 160 crore through equity shares via Qualified Institutions Placement.
+The capital will be raised in one or more tranches, subject to necessary statutory approvals.",BSE,2026-10-20T14:42:22,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=1fd0c1bf-35ca-4165-9596-d35f52ff6241.pdf
 GSTK531237,Dhruva Capital Services,,3564466.0,"Dhruva Capital Services held its EGM to approve increasing authorised share capital and raising funds through equity issuance.
 Voting results for the ordinary and special resolutions will be submitted to stock exchanges within two working days.","Dhruva Capital Services held its EGM to approve increasing authorised share capital and raising funds through equity issuance.
 Voting results for the ordinary and special resolutions will be submitted to stock exchanges within two working days.",ScoutQuest,2026-10-10T16:19:46,https://sqst.in/FuSb9
@@ -67637,6 +67662,9 @@ The off-market transfer is exempt under SEBI SAST Regulations; aggregate promote
 GSTK543194,Nirmitee Robotics India,,8.728047421478195e+17,"Nirmitee Robotics CFO Atul Dhawad resigned citing professional commitments.
 Resignation effective Aug 8, 2026; company seeking a new CFO.","Nirmitee Robotics CFO Atul Dhawad resigned citing professional commitments.
 Resignation effective Aug 8, 2026; company seeking a new CFO.",ScoutQuest,2026-08-05T17:04:26,https://sqst.in/uNdq2
+GSTK503229,Simplex Realty,,3714574.0,"Simplex Realty announced Sabhapati Girijashankar Shukla completed his second term as Independent Director, effective October 21, 2026.
+His membership across board committees had previously ceased on August 5, 2026, due to committee reconstitution.","Simplex Realty announced Sabhapati Girijashankar Shukla completed his second term as Independent Director, effective October 21, 2026.
+His membership across board committees had previously ceased on August 5, 2026, due to committee reconstitution.",BSE,2026-10-20T17:35:38,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8ab17872-982f-4036-a9f5-50d5fab615cf.pdf
 GSTK503229,Simplex Realty,,3624934.0,"Simplex Realty clarified to BSE that it has no undisclosed material events affecting its operations or stock price movement.
 The company stated that the recent price movement is purely market-driven, with no management involvement.","Simplex Realty clarified to BSE that it has no undisclosed material events affecting its operations or stock price movement.
 The company stated that the recent price movement is purely market-driven, with no management involvement.",BSE,2026-10-14T19:03:30,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=4b00dd45-8108-4478-89e5-a960cdbb3de4.pdf
@@ -76612,6 +76640,9 @@ Arbitration dispute with NBCC involves claims and counterclaims of ₹4,000 lakh
 GSTK511611,DCM Financial Services,DCMFINSERV,803793.0,"DCM Financial Services Ltd announces board meeting on Aug 11, 2026 to approve Q1 FY27 financial results.
 Meeting also to review compliance reports on trading window closure, shareholding pattern, and capital audit.","DCM Financial Services Ltd announces board meeting on Aug 11, 2026 to approve Q1 FY27 financial results.
 Meeting also to review compliance reports on trading window closure, shareholding pattern, and capital audit.",BSE,2026-07-23T17:26:53,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a26fd92b-fa51-484e-b01f-6351bd1ca2ae.pdf
+GSTK519439,Pioneer Agro Extracts,,3712552.0,"Pioneer Agro Extracts' board approved unaudited financial results for the quarter and half-year ended September 30, 2026.
+The financial results were submitted alongside the Limited Review Report issued by the company's statutory auditors.","Pioneer Agro Extracts' board approved unaudited financial results for the quarter and half-year ended September 30, 2026.
+The financial results were submitted alongside the Limited Review Report issued by the company's statutory auditors.",BSE,2026-10-20T14:39:41,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7efe3735-a25b-424f-ae6c-9c2f8c0bf883.pdf
 GSTK519439,Pioneer Agro Extracts,,3545560.0,"Pioneer Agro Extracts' board will meet on October 20, 2026, to consider Q2 and half-year financial results.
 The company's trading window remains closed and will reopen 48 hours after the conclusion of the board meeting.","Pioneer Agro Extracts' board will meet on October 20, 2026, to consider Q2 and half-year financial results.
 The company's trading window remains closed and will reopen 48 hours after the conclusion of the board meeting.",BSE,2026-10-09T10:54:19,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=4f98f996-7d41-4b24-87df-8066f0bd0a8e.pdf
@@ -80707,6 +80738,9 @@ Acquisition involves Bharti, Gaurav, Karishma Thakker; total post-transfer holdi
 GSTK507530,Thakkers Group,,841948.0,"Thakkers Group Ltd schedules board meeting on Aug 13, 2026, to review Q1 FY26 unaudited results.
 Trading window remains closed from Jul 1, 2026, until 48 hours post-results in compliance with SEBI norms.","Thakkers Group Ltd schedules board meeting on Aug 13, 2026, to review Q1 FY26 unaudited results.
 Trading window remains closed from Jul 1, 2026, until 48 hours post-results in compliance with SEBI norms.",BSE,2026-08-06T11:50:16,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=515c5658-7cdf-45c8-8036-8b897c838ece.pdf
+GSTK539800,CHD Chemicals,,3713764.0,"CHD Chemicals' board will meet on October 27, 2026, to consider Q2 and half-year financial results.
+The trading window for insiders remains closed from October 1 until October 30, 2026.","CHD Chemicals' board will meet on October 27, 2026, to consider Q2 and half-year financial results.
+The trading window for insiders remains closed from October 1 until October 30, 2026.",BSE,2026-10-20T16:26:15,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2d32afdd-52d6-46c6-84d7-1dbe66130c6a.pdf
 GSTK539800,CHD Chemicals,,8.851446284406894e+17,"CHD Chemicals approves FY2025-26 financials; plans ₹11Cr to ₹36Cr capital increase.
 Company adds agri-business clause; appoints new Non-Executive Director pending approval.","CHD Chemicals approves FY2025-26 financials; plans ₹11Cr to ₹36Cr capital increase.
 Company adds agri-business clause; appoints new Non-Executive Director pending approval.",ScoutQuest,2026-09-08T18:18:44,https://sqst.in/UDY5w
